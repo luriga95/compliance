@@ -1,0 +1,2972 @@
+{
+ "id": "stps",
+ "nombre": "Inspección STPS",
+ "nombre_en": "STPS Inspection",
+ "autoridad": "STPS",
+ "ambito": "federal",
+ "version": "2026-11-12",
+ "requisitos": [
+  {
+   "id": "STPS-001",
+   "modulo": "stps",
+   "categoria": "1. ACCESO A LA SEGURIDAD SOCIAL",
+   "num": "1",
+   "texto": "INSCRIPCIÓN DE LOS TRABAJADORES AL INSTITUTO MEXICANO DEL SEGURO SOCIAL.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-002",
+   "modulo": "stps",
+   "categoria": "1. ACCESO A LA SEGURIDAD SOCIAL",
+   "num": "2",
+   "texto": "INSCRIPCIÓN DE LOS TRABAJADORES CONTRATADOS EN RÉGIMEN DE SUBCONTRATACIÓN DE SERVICIOS ESPECIALIZADOS O DE EJECUCIÓN DE OBRAS ESPECIALIZADAS AL INSTITUTO MEXICANO DEL SEGURO SOCIAL.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-003",
+   "modulo": "stps",
+   "categoria": "2. RÉGIMEN DE SUBCONTRATACIÓN",
+   "num": "3",
+   "texto": "CONTRATO POR ESCRITO DE LA SUBCONTRATACIÓN DE SERVICIOS ESPECIALIZADOS O EJECUCIÓN DE OBRAS ESPECIALIZADAS.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "subcontratacion"
+  },
+  {
+   "id": "STPS-004",
+   "modulo": "stps",
+   "categoria": "2. RÉGIMEN DE SUBCONTRATACIÓN",
+   "num": "4",
+   "texto": "REGISTRO ANTE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DE LAS PERSONAS FÍSICAS O MORALES QUE PROPORCIONEN SERVICIOS DE SUBCONTRATACIÓN.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "subcontratacion"
+  },
+  {
+   "id": "STPS-005",
+   "modulo": "stps",
+   "categoria": "3. RÉGIMEN DE CONTRATACIÓN",
+   "num": "5",
+   "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR DE LAS PARTES EN EL CONTRATO: NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL; REGISTRO FEDERAL DE CONTRIBUYENTES, DOMICILIO SOCIAL O CONVENCIONAL EN CASO DE SER DISTINTO AL FISCAL, CORREO ELECTRÓNICO Y TELÉFONO DE CONTACTO.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-006",
+   "modulo": "stps",
+   "categoria": "3. RÉGIMEN DE CONTRATACIÓN",
+   "num": "6",
+   "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR EN EL CONTRATO: OBJETO; PERIODO DE VIGENCIA; RELACIÓN DE TRABAJADORES U OTROS SUJETOS QUE PRESTARÁN LOS SERVICIOS ESPECIALIZADOS O EJECUTARÁN LAS OBRAS ESPECIALIZADAS A FAVOR DEL BENEFICIARIO, INDICANDO SU NOMBRE, CURP, NÚMERO DE SEGURIDAD SOCIAL Y SALARIO BASE DE COTIZACIÓN, ASÍ COMO NOMBRE Y REGISTRO FEDERAL DE CONTRIBUYENTES DEL BENEFICIARIO DE LOS SERVICIOS POR CADA UNO DE LOS CONTRATOS.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-007",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "7",
+   "texto": "PROGRAMA ANUAL DE MANTENIMIENTO PREVENTIVO O CORRECTIVO DEL SISTEMA DE VENTILACIÓN ARTIFICIAL, A FIN DE QUE ESTÉ EN CONDICIONES DE USO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-008",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "8",
+   "texto": "SE EVALÚA SI LOS ELEMENTOS ESTRUCTURALES TIENEN LA CAPACIDAD DE SOPORTAR LAS NUEVAS CARGAS, DE REQUERIRSE UN CAMBIO DE USO Y, EN SU CASO, SE HACEN LAS ADECUACIONES NECESARIAS PARA EVITAR RIESGOS DE TRABAJO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-009",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "9",
+   "texto": "CONSTANCIA DOCUMENTAL DE QUE PROPORCIONÓ INFORMACIÓN A TODOS LOS TRABAJADORES PARA EL USO Y CONSERVACIÓN DE LAS ÁREAS DONDE REALIZAN SUS ACTIVIDADES EN EL CENTRO DE TRABAJO, INCLUIDAS LAS DESTINADAS PARA EL SERVICIO DE LOS TRABAJADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-010",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "10",
+   "texto": "REGISTROS DE LOS RESULTADOS DE LAS VERIFICACIONES OCULARES EN BITÁCORAS, MEDIOS MAGNÉTICOS O EN LAS ACTAS DE VERIFICACIÓN DE LA COMISIÓN DE SEGURIDAD E HIGIENE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-011",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "11",
+   "texto": "REGISTROS DE RESULTADOS DE LAS VERIFICACIONES OCULARES REALIZADAS POSTERIORMENTE A LA OCURRENCIA DE UN EVENTO QUE PUDIERA GENERARLE DAÑOS AL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-012",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "12",
+   "texto": "REGISTROS ANUALES EN BITÁCORAS DE LOS RESULTADOS DE LA EJECUCIÓN DEL PROGRAMA DE MANTENIMIENTO PREVENTIVO O CORRECTIVO DEL SISTEMA DE VENTILACIÓN ARTIFICIAL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-013",
+   "modulo": "stps",
+   "categoria": "4. NOM-001-STPS-2008 EDIFICIOS, LOCALES, INSTALACIONES Y ÁREAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "13",
+   "texto": "PROGRAMA ESPECÍFICO DE MANTENIMIENTO DE LAS INSTALACIONES DEL CENTRO DE TRABAJO Y REGISTROS DE EJECUCIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-014",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "14",
+   "texto": "ESTUDIO PARA LA CLASIFICACIÓN DEL RIESGO DE INCENDIO DEL CENTRO DE TRABAJO O POR ÁREAS QUE LO INTEGRAN, TALES COMO PLANTAS, EDIFICIOS O NIVELES, DE CONFORMIDAD CON LO ESTABLECIDO EN EL APÉNDICE A DE LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-015",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "15",
+   "texto": "ACTA Y LA MINUTA CORRESPONDIENTES A LA VERIFICACIÓN SATISFACTORIA DEL CUMPLIMIENTO DE LA PRESENTE NORMA, QUE EMITA LA STPS, EN EL MARCO DE LAS EVALUACIONES INTEGRALES DEL PASST, EN CENTROS DE TRABAJO CON RIESGO DE INCENDIO ALTO O DICTAMEN DE CUMPLIMIENTO DE ESTA NORMA EXPEDIDO POR UNA UNIDAD DE VERIFICACIÓN ACREDITADA Y APROBADA O ACTA CIRCUNSTANCIADA QUE RESULTE DE LA REVISIÓN, VERIFICACIÓN, INSPECCIÓN O VIGILANCIA DE LAS CONDICIONES PARA LA PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS, POR PARTE DE LA AUTORIDAD LOCAL DE PROTECCIÓN CIVIL(PC) QUE CORRESPONDA AL DOMICILIO DEL CENTRO DE TRABAJO, EN EL MARCO DE LOS PROGRAMAS INTERNOS, ESPECÍFICOS O ESPECIALES DE PC.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-016",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "16",
+   "texto": "PROGRAMA DE REVISIÓN A LOS MEDIOS DE DETECCIÓN Y EQUIPOS CONTRA INCENDIO, AL IGUAL QUE LOS SISTEMAS FIJOS DE PROTECCIÓN Y ALARMAS DE INCENDIO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-017",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "17",
+   "texto": "PROGRAMA ANUAL DE REVISIÓN A LAS INSTALACIONES ELÉCTRICAS DE LAS ÁREAS DEL CENTRO DE TRABAJO, CON ÉNFASIS EN AQUÉLLAS CLASIFICADAS COMO DE RIESGO DE INCENDIO ALTO, A FIN DE IDENTIFICAR Y CORREGIR CONDICIONES INSEGURAS QUE PUEDAN EXISTIR.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-018",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "18",
+   "texto": "PROGRAMA ANUAL TEÓRICO-PRÁCTICO, EN MATERIA DE PREVENCIÓN DE INCENDIOS Y ATENCIÓN DE EMERGENCIAS, PARA CAPACITAR A LOS TRABAJADORES Y A LOS INTEGRANTES DE LAS BRIGADAS CONTRA INCENDIO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-019",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "19",
+   "texto": "PLANEACIÓN DE LOS SIMULACROS DE EMERGENCIAS DE INCENDIO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-020",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "20",
+   "texto": "CROQUIS, PLANO O MAPA GENERAL DEL CENTRO DE TRABAJO, O POR ÁREAS QUE LO INTEGRAN, COLOCADO EN LOS PRINCIPALES LUGARES DE ENTRADA, TRÁNSITO, REUNIÓN O PUNTOS COMUNES DE ESTANCIA O SERVICIOS PARA LOS TRABAJADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-021",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "21",
+   "texto": "INSTRUCCIONES DE SEGURIDAD PARA LA PREVENCIÓN Y PROTECCIÓN DE INCENDIOS APLICABLES EN CADA ÁREA DEL CENTRO TRABAJO AL ALCANCE DE LOS TRABAJADORES Y SUPERVISIÓN DE CUMPLIMIENTO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-022",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "22",
+   "texto": "LAS INSTRUCCIONES DE SEGURIDAD PARA LA PREVENCIÓN Y PROTECCIÓN DE INCENDIOS APLICABLES EN CADA ÁREA DEL CENTRO TRABAJO INCLUYEN LAS RELATIVAS A LA EJECUCIÓN DE TRABAJOS EN CALIENTE EN LAS ÁREAS EN LAS QUE SE PUEDAN PRESENTAR INCENDIOS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-023",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "23",
+   "texto": "PLAN DE ATENCIÓN DE EMERGENCIAS DE INCENDIO, CONFORME AL CAPÍTULO 8 DE LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-024",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "24",
+   "texto": "SE SOMETEN AL MANTENIMIENTO CORRESPONDIENTE, POR PERSONAL CAPACITADO, LOS EQUIPOS, SISTEMAS Y MEDIOS DE DETECCIÓN CONTRA INCENDIO, SI DERIVADO DE LA REVISIÓN Y PRUEBAS, SE ENCONTRARA QUE EXISTE DAÑO O DETERIORO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Mantenimiento correctivo a sistemas de detección y equipos dañados por personal capacitado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-025",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "25",
+   "texto": "SE SOMETEN AL MANTENIMIENTO CORRESPONDIENTE, POR PERSONAL CAPACITADO, LAS INSTALACIONES ELÉCTRICAS DE CONFORMIDAD CON LO DISPUESTO POR LA NOM-029-STPS-2005, O LAS QUE LA SUSTITUYAN, SI DERIVADO DE LA REVISIÓN, SE ENCONTRARA QUE EXISTE DAÑO O DETERIORO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-026",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "26",
+   "texto": "REGISTRO QUE ACREDITE QUE SE DESARROLLAN SIMULACROS DE EMERGENCIAS DE INCENDIO AL MENOS UNA VEZ AL AÑO, EN EL CASO DE CENTROS DE TRABAJO CLASIFICADOS CON RIESGO DE INCENDIO ORDINARIO, Y AL MENOS DOS VECES AL AÑO PARA AQUELLOS CON RIESGO DE INCENDIO ALTO, CONFORME AL CAPÍTULO 10 DE LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-027",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "27",
+   "texto": "DOCUMENTO QUE ACREDITA QUE SE DIFUNDEN ENTRE LOS TRABAJADORES, CONTRATISTAS Y VISITANTES, SEGÚN CORRESPONDA, LAS INSTRUCCIONES DE SEGURIDAD PARA LA PREVENCIÓN DE INCENDIOS APLICABLES EN CADA ÁREA DEL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-028",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "28",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE CAPACITÓ A LOS TRABAJADORES Y A LOS INTEGRANTES DE LAS BRIGADAS CONTRA INCENDIO, CON BASE EN EL PROGRAMA DE CAPACITACIÓN ANUAL TEÓRICO-PRÁCTICO, EN MATERIA DE PREVENCIÓN DE INCENDIOS Y ATENCIÓN DE EMERGENCIAS, CONFORME A LO PREVISTO EN EL CAPÍTULO 11.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-029",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "29",
+   "texto": "SE ELABORA Y APLICA EL PROGRAMA ANUAL DE REVISIÓN A LAS INSTALACIONES ELÉCTRICAS DE LAS ÁREAS DEL CENTRO DE TRABAJO POR PERSONAL PREVIAMENTE CAPACITADO POR EL PATRÓN",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-030",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "30",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE OTORGA CAPACITACIÓN SOBRE EL MANEJO SEGURO DE MATERIALES INFLAMABLES O EXPLOSIVOS, EN CASOS DE EMERGENCIAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Programar e impartir la capacitación sobre el manejo seguro y emergencias con sustancias inflamables/explosivas al personal involucrado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-031",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "31",
+   "texto": "RECIBE CAPACITACIÓN EL RESPONSABLE DE LA BRIGADA Y QUIEN SEA DESIGNADO PARA SUPLIR SUS AUSENCIAS, EN LA TOMA DE DECISIONES Y ACCIONES POR ADOPTAR, DEPENDIENDO DE LA MAGNITUD Y CLASE DE FUEGO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-032",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "32",
+   "texto": "SE ELABORA Y APLICA EL PROGRAMA ANUAL DE REVISIÓN A LAS INSTALACIONES ELÉCTRICAS DE LAS ÁREAS DEL CENTRO DE TRABAJO POR PERSONAL PREVIAMENTE AUTORIZADO POR EL PATRÓN",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-033",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "33",
+   "texto": "REGISTRO DE LOS RESULTADOS DE LA REVISIÓN MENSUAL A LOS EXTINTORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-034",
+   "modulo": "stps",
+   "categoria": "5. NOM-002-STPS-2010 CONDICIONES DE SEGURIDAD - PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS EN LOS CENTROS DE TRABAJO",
+   "num": "34",
+   "texto": "REGISTROS DE RESULTADOS DE LOS SIMULACROS DE EMERGENCIAS DE INCENDIO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-STPS-2010",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-035",
+   "modulo": "stps",
+   "categoria": "6. NOM-004-STPS-1999 SISTEMAS DE PROTECCIÓN Y DISPOSITIVOS DE SEGURIDAD EN LA MAQUINARIA Y EQUIPO QUE SE UTILICE EN LOS CENTROS DE TRABAJO",
+   "num": "35",
+   "texto": "ESTUDIO PARA ANALIZAR EL RIESGO AL QUE ESTÁN EXPUESTOS LOS TRABAJADORES PARA LA UTILIZACIÓN DE MAQUINARIA, EQUIPO Y HERRAMIENTAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-004-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el análisis de riesgo actualizado para la totalidad de la maquinaria, equipo y herramientas del centro de trabajo, que identifique peligros (atrapamiento, aplastamiento, corte, proyección, contactos eléctricos, etc.), determine el nivel de riesgo y defina las protecciones, dispositivos de seguridad y EPP requeridos.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-036",
+   "modulo": "stps",
+   "categoria": "6. NOM-004-STPS-1999 SISTEMAS DE PROTECCIÓN Y DISPOSITIVOS DE SEGURIDAD EN LA MAQUINARIA Y EQUIPO QUE SE UTILICE EN LOS CENTROS DE TRABAJO",
+   "num": "36",
+   "texto": "PROGRAMA ESPECÍFICO PARA REVISIÓN Y MANTENIMIENTO DE LA MAQUINARIA, EQUIPO Y HERRAMIENTAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-004-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-037",
+   "modulo": "stps",
+   "categoria": "6. NOM-004-STPS-1999 SISTEMAS DE PROTECCIÓN Y DISPOSITIVOS DE SEGURIDAD EN LA MAQUINARIA Y EQUIPO QUE SE UTILICE EN LOS CENTROS DE TRABAJO",
+   "num": "37",
+   "texto": "MANUAL DE PRIMEROS AUXILIOS EN EL QUE SE DEFINAN LOS PROCEDIMIENTOS PARA LA ATENCIÓN DE EMERGENCIAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-004-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-038",
+   "modulo": "stps",
+   "categoria": "6. NOM-004-STPS-1999 SISTEMAS DE PROTECCIÓN Y DISPOSITIVOS DE SEGURIDAD EN LA MAQUINARIA Y EQUIPO QUE SE UTILICE EN LOS CENTROS DE TRABAJO",
+   "num": "38",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE CAPACITA A LOS TRABAJADORES PARA LA ATENCIÓN DE EMERGENCIAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-004-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-039",
+   "modulo": "stps",
+   "categoria": "6. NOM-004-STPS-1999 SISTEMAS DE PROTECCIÓN Y DISPOSITIVOS DE SEGURIDAD EN LA MAQUINARIA Y EQUIPO QUE SE UTILICE EN LOS CENTROS DE TRABAJO",
+   "num": "39",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE CAPACITA A LOS TRABAJADORES PARA LA OPERACIÓN SEGURA DE LA MAQUINARIA Y EQUIPO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-004-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-040",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "40",
+   "texto": "ANÁLISIS DE RIESGOS SOBRE LAS SUSTANCIAS QUÍMICAS PELIGROSAS QUE SE MANEJEN, TRANSPORTEN O ALMACENEN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el análisis de riesgo actualizado de todas las sustancias químicas peligrosas que se manejen, transporten o almacenen en la planta, que identifique las propiedades físicas y químicas, los peligros a la salud, reactividad e inflamabilidad, las zonas de riesgo, los sistemas de control y los dispositivos de seguridad aplicables.",
+   "guiaEstado": "usuario",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-041",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "41",
+   "texto": "PROGRAMA ESPECÍFICO DE SEGURIDAD E HIGIENE PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-042",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "42",
+   "texto": "PROCEDIMIENTO DE AUTORIZACIÓN PARA REALIZAR ACTIVIDADES PELIGROSAS EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-043",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "43",
+   "texto": "MANUAL DE PRIMEROS AUXILIOS PARA LA ATENCIÓN DE EMERGENCIAS MÉDICAS, ELABORADO DE LOS RESULTADOS DE ESTUDIO DEL RIESGO POTENCIAL EN LAS SUSTANCIAS QUÍMICAS PELIGROSAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-044",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "44",
+   "texto": "CONSTANCIAS DE COMPETENCIAS O DE HABILIDADES LABORALES DE LA CAPACITACIÓN CONTINUA A LOS TRABAJADORES SOBRE EL PROGRAMA ESPECÍFICO DE SEGURIDAD E HIGIENE PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Constancias de competencias o habilidades laborales (DC-3) de la capacitación continua sobre el Programa Específico de Seguridad e Higiene para el Manejo, Transporte y Almacenamiento de Sustancias Químicas Peligrosas.",
+   "guiaEstado": "usuario",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-045",
+   "modulo": "stps",
+   "categoria": "7. NOM-005-STPS-1998 RELATIVA A LAS CONDICIONES DE SEGURIDAD E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE SUSTANCIAS QUÍMICAS PELIGROSAS",
+   "num": "45",
+   "texto": "DOCUMENTO QUE ACREDITE QUE EL PERSONAL QUE REALIZA LAS ACTIVIDADES DE TRANSPORTE DE LAS SUSTANCIAS EXPLOSIVAS SE ENCUENTRA DEBIDAMENTE CAPACITADO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1998",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Documento que acredite la capacitación del personal que transporta sustancias explosivas.",
+   "guiaEstado": "usuario",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-046",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "46",
+   "texto": "PROGRAMA ESPECÍFICO PARA LA REVISIÓN Y MANTENIMIENTO DE LA MAQUINARIA EMPLEADA PARA EL ALMACENAMIENTO Y MANEJO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-047",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "47",
+   "texto": "PROCEDIMIENTOS PARA LA INSTALACIÓN, OPERACIÓN, REVISIÓN Y MANTENIMIENTO DE LA MAQUINARIA UTILIZADA EN EL MANEJO DE MATERIALES, ASÍ COMO PARA LA ATENCIÓN A EMERGENCIAS QUE OCURRAN DURANTE SU USO Y PARA EL ALMACENAMIENTO DE MATERIALES, CONFORME LO ESTABLECIDO EN LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar e implementar el Manual General de Procedimientos Operativos y de Seguridad para Maquinaria y Almacenamiento. Este compendio normativo debe integrar: 1) Procedimientos específicos de operación, instalación, revisión (checklists pre-operativos de inicio de turno) y mantenimiento (LOTO y rutinas periódicas) para cada maquinaria de la empresa; 2) Procedimiento de almacenamiento seguro de materiales (estibado, altura máxima, delimitación y pasillos de tránsito); 3) Plan integral de atención a emergencias específicas (atropellamientos, volcamientos, choque contra estructuras/racks, derrame de electrolito o fuga de gas LP); y 4) Evidencias de difusión formal y firma de enterado de dichos procedimientos por parte de todo el personal involucrado (operadores, almaceneros y personal de mantenimiento).",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-048",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "48",
+   "texto": "PROCEDIMIENTO GENERAL PARA LA ATENCIÓN A EMERGENCIAS POR EL ALMACENAMIENTO Y MANEJO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar e implementar el Plan Específico de Respuesta a Emergencias en Almacenamiento y Manejo de Materiales. Este expediente debe incluir: los escenarios de riesgo identificados (volcadura de montacargas, colapso de racks, caída de estibas, fuga de gas LP o derrames de químicos/electrolitos); los protocolos paso a paso de actuación inmediata (evacuación del área, acordonamiento, primeros auxilios e interrupción de energías); la estructura de la brigada de emergencia designada y capacitada; la ubicación e inventario del equipo de rescate y contención (botiquines, extintores, lavaojos, kits de derrames y EPP específico); los teléfonos de emergencia externos; y la evidencia del simulacro de evacuación/emergencia específico realizado en las áreas de almacén o maniobras con sus correspondientes constancias y registros de asistencia.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-049",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "49",
+   "texto": "MANUAL DE PRIMEROS AUXILIOS PARA LA ATENCIÓN A EMERGENCIAS, CON BASE EN EL TIPO DE RIESGOS A QUE ESTÁN EXPUESTOS LOS TRABAJADORES QUE REALIZAN EL ALMACENAMIENTO Y MANEJO DE MATERIALES A TRAVÉS DEL USO DE MAQUINARIA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-050",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "50",
+   "texto": "MEDIDAS DE SEGURIDAD PARA EL USO DE POLIPASTOS Y MALACATES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con procedimientos de seguridad por escrito y verificar en campo el cumplimiento de los dispositivos de paro/límite de carrera, marcado de carga máxima de utilización (CMU), estado de cables/cadenas y ganchos con pestillo de seguridad, asegurando que la operación sea realizada exclusivamente por personal autorizado y capacitado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-051",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "51",
+   "texto": "MEDIDAS DE SEGURIDAD PARA EL USO DE ESLINGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Garantizar que todas las eslingas cuenten con su etiqueta visible de Carga Máxima de Utilización (CMU), sean inspeccionadas antes de cada uso y periódicamente, se utilicen protecciones contra aristas filosas y sean retiradas de servicio inmediatamente si presentan daños o deshilachado, por personal capacitado y autorizado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-052",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "52",
+   "texto": "MEDIDAS DE SEGURIDAD PARA EL USO DE GRÚAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-053",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "53",
+   "texto": "MEDIDAS DE SEGURIDAD PARA EL USO DE MONTACARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-054",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "54",
+   "texto": "MEDIDAS DE SEGURIDAD PARA TRANSPORTADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con procedimientos de seguridad por escrito y verificar en campo que los transportadores dispongan de paros de emergencia a todo lo largo de la ruta (cables de paro), guardas de protección en puntos de atrapamiento y tambores de retorno, pasarelas de cruce seguro y señalización de prohibición de transitar o montarse sobre ellos, garantizando que el mantenimiento se ejecute bajo bloqueo de energía (LOTO) por personal capacitado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-055",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "55",
+   "texto": "ÁREAS PARA EL ALMACENAMIENTO DE LOS MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Garantizar que las áreas delimitadas para el almacenamiento de materiales (en estantes, racks, estibas o contenedores) cuenten con suelos firmes y nivelados, delimitación de pasillos de tránsito, señalización de cargas máximas, ventilación, iluminación adecuada y orden/limpieza, evitando la obstrucción de equipos de emergencia y vías de evacuación.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-056",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "56",
+   "texto": "ESPACIOS ESPECIFICOS PARA EL ALMACENAMIENTO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con zonas exclusivas, identificadas y delimitadas para el depósito de materiales, materia prima, producto terminado o residuos, asegurando que no se invadan pasillos de tránsito, zonas de operación de maquinaria, áreas de maniobras ni equipos de emergencia.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-057",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "57",
+   "texto": "SUPERVISIÓN EN LAS ACTIVIDADES DE ALMACENAMIENTO Y MANEJO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-058",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "58",
+   "texto": "EQUIPO DE PROTECCIÓN PERSONAL REQUERIDO PARA LAS ACTIVIDADES DE ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-059",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "59",
+   "texto": "INFORMACIÓN A LOS TRABAJADORES SOBRE LOS RIESGOS A QUE ESTÁN EXPUESTOS EN EL ALMACENAMIENTO Y MANEJO DE MATERIALES POR MEDIO DEL USO DE MAQUINARIA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-060",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "60",
+   "texto": "SE PROPORCIONA A LOS TRABAJADORES DE NUEVO INGRESO UN CURSO DE INDUCCIÓN SOBRE LAS CONDICIONES GENERALES DE SEGURIDAD Y SALUD EN EL TRABAJO QUE DEBERÁN CUMPLIRSE EN LAS ACTIVIDADES DE ALMACENAMIENTO Y MANEJO DE MATERIALES Y LAS ÁREAS EN QUE SE EFECTÚEN ÉSTAS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-061",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "61",
+   "texto": "REGISTRO DE LA CAPACITACIÓN Y ADIESTRAMIENTO QUE SE HA PROPORCIONADO A LOS TRABAJADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-062",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "62",
+   "texto": "SE REFUERZA LA CAPACITACIÓN Y ADIESTRAMIENTO POR LO MENOS CADA DOS AÑOS, O ANTES CUANDO SE INTRODUCE NUEVA MAQUINARIA O EQUIPO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-063",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "63",
+   "texto": "CUENTA EL CENTRO DE TRABAJO CON EL REGISTRO DE LA CAPACITACIÓN Y ADIESTRAMIENTO QUE SE HA PROPORCIONADO A LOS TRABAJADORES",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-064",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "64",
+   "texto": "REGISTROS SOBRE LOS RESULTADOS DEL PROGRAMA DE MANTENIMIENTO DE LOS ELEMENTOS ESTRUCTURALES, ESTANTES O PLATAFORMAS., PARA EL ALMACENAMIENTO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-065",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "65",
+   "texto": "REGISTROS SOBRE LA REVISIÓN Y MANTENIMIENTO A LA MAQUINARIA EMPLEADA EN EL ALMACENAMIENTO Y MANEJO DE MATERIALES, CON BASE EN EL PROGRAMA ESPECÍFICO QUE PARA TAL EFECTO SE ELABORE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-066",
+   "modulo": "stps",
+   "categoria": "8. NOM-006-STPS-2023 ALMACENAMIENTO Y MANEJO DE MATERIALES MEDIANTE EL USO DE MAQUINARIA-CONDICIONES DE SEGURIDAD EN EL TRABAJO.",
+   "num": "66",
+   "texto": "REGISTROS SOBRE LA EJECUCIÓN DE LA REVISIÓN Y MANTENIMIENTO DE LA MAQUINARIA EMPLEADA PARA EL ALMACENAMIENTO Y MANEJO DE MATERIALES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-006-STPS-2023",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-067",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "67",
+   "texto": "ANÁLISIS DE LAS CONDICIONES PREVALECIENTES EN LAS ÁREAS EN LAS QUE SE LLEVARÁN A CABO LOS TRABAJOS EN ALTURA, EN FORMA PREVIA A SU REALIZACIÓN, A FIN DE IDENTIFICAR LOS FACTORES DE RIESGO EXISTENTES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-068",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "68",
+   "texto": "PROGRAMA ESPECÍFICO DE REVISIÓN Y MANTENIMIENTO A LOS SISTEMAS O EQUIPOS UTILIZADOS PARA LA REALIZACIÓN DE TRABAJOS EN ALTURAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-069",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "69",
+   "texto": "INSTRUCTIVOS, MANUALES O PROCEDIMIENTOS PARA LA INSTALACIÓN, OPERACIÓN Y MANTENIMIENTO DE LOS SISTEMAS O EQUIPOS UTILIZADOS EN LOS TRABAJOS EN ALTURA, REDACTADOS EN IDIOMA ESPAÑOL, CON BASE EN LAS INSTRUCCIONES DEL FABRICANTE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-070",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "70",
+   "texto": "PLAN DE ATENCIÓN A EMERGENCIAS DERIVADO DE EJECUCIÓN DE TRABAJOS EN ALTURA, CONFORME LO ESTABLECIDO EN LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un plan de atención a emergencias por escrito, específico para los trabajos en altura que se realizan en el centro de trabajo, que incluya los procedimientos de rescate de trabajadores suspendidos o lesionados, la asignación de brigadistas capacitados, el inventario de equipo de rescate y la disponibilidad de medios de alerta y comunicación.",
+   "guiaEstado": "usuario",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-071",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "71",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE SUPERVISA QUE LOS CONTRATISTAS CUMPLAN CON LO ESTABLECIDO EN LA NORMA, CUANDO EL PATRÓN CONVENGA LOS SERVICIOS DE TERCEROS PARA REALIZAR TRABAJOS EN ALTURA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-072",
+   "modulo": "stps",
+   "categoria": "9. NOM-009-STPS-2011 CONDICIONES DE SEGURIDAD PARA REALIZAR TRABAJOS EN ALTURA",
+   "num": "72",
+   "texto": "AUTORIZACIÓN POR ESCRITO DE LOS TRABAJADORES QUE REALIZA TRABAJOS EN ALTURA, A TRAVÉS DE ANDAMIOS TIPO TORRE O ESTRUCTURA, ANDAMIOS SUSPENDIDOS Y PLATAFORMAS DE ELEVACIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-009-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "trabajos_altura"
+  },
+  {
+   "id": "STPS-073",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "73",
+   "texto": "ANÁLISIS DE LOS RIESGOS A QUE ESTÁN EXPUESTOS LOS TRABAJADORES POR CADA PUESTO DE TRABAJO O ÁREA DEL CENTRO DE TRABAJO PARA LA SELECCIÓN Y USO DEL EQUIPO DE PROTECCIÓN PERSONAL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-074",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "74",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE COMUNICÓ A LOS TRABAJADORES DEL CENTRO DE TRABAJO DE LOS RIESGOS DE TRABAJO A LOS QUE ESTÁN EXPUESTOS TOMANDO COMO BASE EL RESULTADO DEL ANÁLISIS DE RIESGOS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Presentar minutas o listas de asistencia firmadas de pláticas de inducción/difusión donde conste el temario de \"Comunicación de Riesgos e Interpretación de la Matriz de EPP\", respaldadas con la evidencia de infografías o periódicos murales con el análisis de riesgos colocados en el área de trabajo.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-075",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "75",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE COMUNICA AL CONTRATISTA DE LOS RIESGOS Y LAS REGLAS DE SEGURIDAD DEL ÁREA EN DONDE SE DESARROLLARÁN SUS ACTIVIDADES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-076",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "76",
+   "texto": "CONSTANCIAS DE HABILIDADES DEL PERSONAL CAPACITADO Y ADIESTRADO PARA EL USO, REVISIÓN, REPOSICIÓN, LIMPIEZA, LIMITACIONES, MANTENIMIENTO, RESGUARDO Y DISPOSICIÓN FINAL DEL EQUIPO DE PROTECCIÓN PERSONAL, CON BASE EN LAS INDICACIONES, INSTRUCCIONES O PROCEDIMIENTOS DEL FABRICANTE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-077",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "77",
+   "texto": "REGISTRO ACTUALIZADO DE LA INFORMACIÓN DERIVADA DE LA IDENTIFICACIÓN Y ANÁLISIS DE LOS RIESGOS DE TRABAJO A LOS QUE ESTÁN EXPUESTOS LOS TRABAJADORES POR CADA PUESTO DE TRABAJO Y ÁREA DEL CENTRO LABORAL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar e implementar la Matriz General de Identificación de Peligros y Evaluación de Riesgos por Área y Puesto (IPERC). Este expediente a entregar a la STPS debe incluir: 1) La metodología utilizada para la evaluación de riesgos; 2) El catálogo descriptivo de todos los puestos de trabajo y áreas de la planta; 3) La matriz donde se detallen las actividades rutinas y no rutinarias, el peligro identificado, el riesgo asociado, la probabilidad/severidad y el control operativo existente (incluyendo EPP); 4) La evidencia de la última actualización (historial de revisiones firmadas por el responsable de SST y la gerencia); y 5) La firma de validación de la Comisión de Seguridad e Higiene o del Responsable de Seguridad del centro de trabajo.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-078",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "78",
+   "texto": "VERIFICAR QUE EL EQUIPO DE PROTECCIÓN PERSONAL CUENTA CON LA CERTIFICACIÓN EMITIDA POR UN ORGANISMO DE CERTIFICACIÓN O CON LA GARANTÍA DEL FABRICANTE, DE QUE PROTEGE CONTRA LOS RIESGOS PARA LOS QUE FUE PRODUCIDO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-079",
+   "modulo": "stps",
+   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "num": "79",
+   "texto": "REGISTROS SOBRE EL USO, REVISIÓN, REPOSICIÓN, LIMPIEZA, LIMITACIONES, MANTENIMIENTO, RESGUARDO Y DISPOSICIÓN FINAL DEL EQUIPO DE PROTECCIÓN PERSONAL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-017-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-080",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "80",
+   "texto": "CONTAR CON SISTEMA ARMONIZADO DE IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-081",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "81",
+   "texto": "LISTADO ACTUALIZADO DE LAS SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS QUE SE MANEJAN EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-082",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "82",
+   "texto": "HOJAS DE DATOS DE SEGURIDAD DE LAS SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS QUE SE MANEJAN EN EL CENTRO DE TRABAJO, DE ACUERDO CON LO QUE DISPONTE EL CAPÍTULO 9 DE LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-083",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "83",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE PROPORCIONA CAPACITACIÓN Y ADIESTRAMIENTO A LOS TRABAJADORES DEL CENTRO DE TRABAJO QUE MANEJAN SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS, SOBRE EL CONTENIDO DE LAS HOJAS DE DATOS DE SEGURIDAD Y DE SEÑALIZACIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-084",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "84",
+   "texto": "MANTENER ACTUALIZADO EL SISTEMA ARMONIZADO DE IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS DE LAS SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS QUE SE MANEJAN EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-085",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "85",
+   "texto": "CONTAR CON DOCUMENTO QUE ACREDITE QUE SE TIENE IMPLEMENTADO EN EL CENTRO DE TRABAJO EL SISTEMA ARMONIZADO DE IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-086",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "86",
+   "texto": "ACTUALIZACIÓN DE LAS HOJAS DE DATOS DE SEGURIDAD DE CADA SUSTANCIA QUÍMICA PELIGROSA Y MEZCLA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-087",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "87",
+   "texto": "DOCUMENTO QUE ACREDITE QUE PONE A DISPOSICIÓN PERMANENTEMENTE DE LOS TRABAJADORES, PARA SU CONSULTA, LAS HOJAS DE DATOS DE SEGURIDAD EN LAS ÁREAS DONDE SE MANEJEN SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-088",
+   "modulo": "stps",
+   "categoria": "11. NOM-018-STPS-2015 SISTEMA ARMONIZADO PARA LA IDENTIFICACIÓN Y COMUNICACIÓN DE PELIGROS Y RIESGOS POR SUSTANCIAS QUÍMICAS PELIGROSAS EN LOS CENTROS DE TRABAJO.",
+   "num": "88",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE INFORMA A TODOS LOS TRABAJADORES Y CONTRATISTAS QUE MANEJAN SUSTANCIAS QUÍMICAS PELIGROSAS Y MEZCLAS, SOBRE LOS ELEMENTOS DE LA HOJA DE DATOS DE SEGURIDAD Y DE LA SEÑALIZACIÓN, INCLUIDOS AQUELLOS TRABAJADORES QUE TENGA ALGÚN TIPO DE ACTUACIÓN EN CASO DE EMERGENCIA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-018-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "STPS-089",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "89",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE ENCUENTRA CONSTITUIDA E INTEGRADA AL MENOS UNA COMISIÓN DE SEGURIDAD E HIGIENE EN SU CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-090",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "90",
+   "texto": "ACTA DE CONSTITUCIÓN DE LA COMISIÓN DEL CENTRO DE TRABAJO, Y DE SUS ACTUALIZACIONES, CUANDO SE MODIFIQUE SU INTEGRACIÓN, DE CONFORMIDAD CON LO PREVISTO EN EL NUMERAL 7.4. DE LA PRESENTE NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-091",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "91",
+   "texto": "PROGRAMA DE LOS RECORRIDOS DE VERIFICACIÓN DE LA COMISIÓN DE SEGURIDAD E HIGIENE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-092",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "92",
+   "texto": "DOCUMENTO QUE ACREDITE QUE CUENTA CON UN COORDINADOR RESPONSABLE DE LLEVAR A CABO LAS FUNCIONES QUE ESTABLECE LA NORMA",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-093",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "93",
+   "texto": "DOCUMENTO QUE ACREDITE QUE CUENTA CON UN SECRETARIO RESPONSABLE DE LLEVAR A CABO LAS FUNCIONES QUE ESTABLECE LA NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-094",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "94",
+   "texto": "ACTAS DE LOS RECORRIDOS DE VERIFICACIÓN REALIZADOS POR LA COMISIÓN DEL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-095",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "95",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE CAPACITA, AL MENOS UNA VEZ AL AÑO, A LOS INTEGRANTES DE LA COMISIÓN DE SEGURIDAD E HIGIENE PARA EL ADECUADO EJERCICIO DE SUS FUNCIONES, CON BASE EN EL PROGRAMA QUE PARA TAL EFECTO SE ELABORE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Capacitación anual a los integrantes de la CSH conforme al programa elaborado para el ejercicio de sus funciones.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-096",
+   "modulo": "stps",
+   "categoria": "12. NOM-019-STPS-2011 CONSTITUCIÓN, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE",
+   "num": "96",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE PROPORCIONA UN CURSO DE INDUCCIÓN CUANDO SE INCORPORA A UN NUEVO INTEGRANTE O INTEGRANTES A LA COMISIÓN",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-019-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-097",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "97",
+   "texto": "LISTADO ACTUALIZADO DE LOS EQUIPOS QUE SE ENCUENTREN INSTALADOS EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-098",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "98",
+   "texto": "EXPEDIENTE DE CADA EQUIPO CLASIFICADO EN LA CATEGORÍA I, INSTALADO EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-099",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "99",
+   "texto": "PROGRAMA DE REVISIÓN Y CALIBRACIÓN A LOS INSTRUMENTOS DE CONTROL Y DISPOSITIVOS DE RELEVO DE PRESIÓN DE LOS EQUIPOS, ASÍ COMO EL REGISTRO DE LA CALIBRACIÓN DE LOS MISMOS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-100",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "100",
+   "texto": "PROCEDIMIENTOS DE OPERACIÓN, REVISIÓN Y MANTENIMIENTO DE LOS EQUIPOS, EN IDIOMA ESPAÑOL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-101",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "101",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE CAPACITA AL PERSONAL QUE REALIZA ACTIVIDADES DE OPERACIÓN, MANTENIMIENTO, REPARACIÓN Y PRUEBAS DE PRESIÓN O EXÁMENES NO DESTRUCTIVOS A EQUIPOS CLASIFICADOS EN LAS CATEGORÍAS II Y III.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-102",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "102",
+   "texto": "AVISO A LA SECRETARÍA, POR ESCRITO O POR MEDIOS ELECTRÓNICOS, DE QUE LOS EQUIPOS QUE FUNCIONEN EN SU CENTRO DE TRABAJO, CLASIFICADOS EN LA CATEGORÍA III, CUMPLEN CON LA PRESENTE NORMA, ANTES DE LA FECHA DE INICIO DE SU PUESTA EN FUNCIONAMIENTO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-103",
+   "modulo": "stps",
+   "categoria": "13. NOM-020-STPS-2011 RECIPIENTES SUJETOS A PRESIÓN, RECIPIENTES CRIOGÉNICOS Y GENERADORES DE VAPOR O CALDERAS - FUNCIONAMIENTO - CONDICIONES DE SEGURIDAD.",
+   "num": "103",
+   "texto": "REGISTROS DE OPERACIÓN DE LOS EQUIPOS INSTALADOS EN EL CENTRO DE TRABAJO, CLASIFICADOS EN LAS CATEGORÍAS II Y III.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "recipientes_presion"
+  },
+  {
+   "id": "STPS-104",
+   "modulo": "stps",
+   "categoria": "14. NOM-022-STPS-2015 ELECTRICIDAD ESTÁTICA EN LOS CENTROS DE TRABAJO-CONDICIONES DE SEGURIDAD",
+   "num": "104",
+   "texto": "MEDICIÓN Y REGISTRO DE LOS VALORES DE RESISTENCIA DE LA RED DE PUESTA A TIERRA Y COMPROBAR LA CONTINUIDAD EN LOS PUNTOS DE CONEXIÓN A TIERRA, AL MENOS CADA DOCE MESES O CUANDO EN EL INMUEBLE SE REALIZAN MODIFICACIONES QUE AFECTAN LAS CONDICIONES DE OPERACIÓN DEL SISTEMA DE PUESTA A TIERRA O DEL SISTEMA DE PARARRAYOS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-022-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Realizar al menos cada 12 meses (o tras modificaciones en el inmueble/proceso) la medición de resistencia a tierra y pruebas de continuidad en todos los puntos de conexión, garantizando valores dentro de norma, utilizando un telurómetro con calibración vigente y por personal/laboratorio competente.",
+   "guiaEstado": "usuario",
+   "condicion": "electricidad_estatica"
+  },
+  {
+   "id": "STPS-105",
+   "modulo": "stps",
+   "categoria": "14. NOM-022-STPS-2015 ELECTRICIDAD ESTÁTICA EN LOS CENTROS DE TRABAJO-CONDICIONES DE SEGURIDAD",
+   "num": "105",
+   "texto": "DOCUMENTO QUE ACREDITA QUE INFORMA A TODOS LOS TRABAJADORES, LOS INTEGRANTES DE LA COMISIÓN DE SEGURIDAD E HIGIENE Y, EN SU CASO, LOS CONTRATISTAS, PROVEEDORES Y VISITANTES SOBRE LOS RIESGOS QUE REPRESENTA LA ELECTRICIDAD ESTÁTICA Y LA MANERA DE EVITARLOS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-022-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "electricidad_estatica"
+  },
+  {
+   "id": "STPS-106",
+   "modulo": "stps",
+   "categoria": "14. NOM-022-STPS-2015 ELECTRICIDAD ESTÁTICA EN LOS CENTROS DE TRABAJO-CONDICIONES DE SEGURIDAD",
+   "num": "106",
+   "texto": "CONSTANCIAS DE COMPETENCIAS O HABILIDADES LABORALES DE LOS TRABAJADORES INVOLUCRADOS EN ACTIVIDADES EN LAS QUE SE GENERE O ACUMULE ELECTRICIDAD ESTÁTICA, EN LA INSTALACIÓN, REVISIÓN DE SISTEMAS DE PUESTA A TIERRA Y/O SISTEMAS DE PARARRAYOS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-022-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "electricidad_estatica"
+  },
+  {
+   "id": "STPS-107",
+   "modulo": "stps",
+   "categoria": "14. NOM-022-STPS-2015 ELECTRICIDAD ESTÁTICA EN LOS CENTROS DE TRABAJO-CONDICIONES DE SEGURIDAD",
+   "num": "107",
+   "texto": "EN FUNCIÓN DE LOS TIPOS DE PROCESO E INSTALACIONES DEL CENTRO DE TRABAJO, CONTAR CON SISTEMAS DE PUESTA A TIERRA O DISPOSITIVOS O EQUIPOS PARA CONTROLAR LA ELECTRICIDAD ESTÁTICA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-022-STPS-2015",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "electricidad_estatica"
+  },
+  {
+   "id": "STPS-108",
+   "modulo": "stps",
+   "categoria": "15. NOM-025-STPS-2008 CONDICIONES DE ILUMINACIÓN EN LOS CENTROS DE TRABAJO",
+   "num": "108",
+   "texto": "PROGRAMA ESPECÍFICO DE MANTENIMIENTO A LUMINARIAS Y, EN SU CASO, A LOS SISTEMAS DE ILUMINACIÓN DE EMERGENCIA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-025-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-109",
+   "modulo": "stps",
+   "categoria": "15. NOM-025-STPS-2008 CONDICIONES DE ILUMINACIÓN EN LOS CENTROS DE TRABAJO",
+   "num": "109",
+   "texto": "EVALUACIÓN DE LOS NIVELES DE ILUMINACIÓN EN LAS ÁREAS O PUESTOS DE TRABAJO SELECCIONADOS A PARTIR DE LOS REGISTROS DEL RECONOCIMIENTO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-025-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-110",
+   "modulo": "stps",
+   "categoria": "15. NOM-025-STPS-2008 CONDICIONES DE ILUMINACIÓN EN LOS CENTROS DE TRABAJO",
+   "num": "110",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE INFORMA A LOS TRABAJADORES SOBRE LOS RIESGOS QUE PUEDE PROVOCAR EL DESLUMBRAMIENTO O UN DEFICIENTE NIVEL DE ILUMINACIÓN EN SUS ÁREAS O PUESTOS DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-025-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Demostrar formalmente que el personal expuesto (y la CSH) ha sido informado sobre los riesgos a la salud y a la seguridad derivados de una mala iluminación (fatiga visual, errores operativos, deslumbramiento, efectos estroboscópicos) y sobre las medidas preventivas adoptadas.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-111",
+   "modulo": "stps",
+   "categoria": "16. NOM-026-STPS-2008 COLORES Y SEÑALES DE SEGURIDAD E HIGIENE, E IDENTIFICACIÓN DE RIESGOS POR FLUIDOS CONDUCIDOS EN TUBERÍAS",
+   "num": "111",
+   "texto": "CONSTANCIAS DE COMPETENCIAS O HABILIDADES LABORALES DE LOS TRABAJADORES SOBRE LA CORRECTA INTERPRETACIÓN DE LOS ELEMENTOS DE SEÑALIZACIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-026-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-112",
+   "modulo": "stps",
+   "categoria": "16. NOM-026-STPS-2008 COLORES Y SEÑALES DE SEGURIDAD E HIGIENE, E IDENTIFICACIÓN DE RIESGOS POR FLUIDOS CONDUCIDOS EN TUBERÍAS",
+   "num": "112",
+   "texto": "EVIDENCIA DE GARANTIZAR QUE LA APLICACIÓN DEL COLOR, LA SEÑALIZACIÓN Y LA IDENTIFICACIÓN DE LA TUBERÍA ESTÉN SUJETOS A UN MANTENIMIENTO QUE ASEGURE EN TODO MOMENTO SU VISIBILIDAD Y LEGIBILIDAD",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-026-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Demostrar que el centro de trabajo cuenta con un programa de inspección y conservación que garantice que las señales de seguridad y la pintura/rótulos de las tuberías se encuentren limpias, completas, sin decoloración, visibles desde los puntos de trabajo/tránsito y con la leyenda/flecha de flujo legibles en todo momento.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-113",
+   "modulo": "stps",
+   "categoria": "16. NOM-026-STPS-2008 COLORES Y SEÑALES DE SEGURIDAD E HIGIENE, E IDENTIFICACIÓN DE RIESGOS POR FLUIDOS CONDUCIDOS EN TUBERÍAS",
+   "num": "113",
+   "texto": "UBICACIÓN DE LAS SEÑALES DE SEGURIDAD E HIGIENE DE TAL MANERA QUE PUEDAN SER OBSERVADAS E INTERPRETADAS POR LOS TRABAJADORES A LOS QUE ESTÁN DESTINADAS, EVITANDO QUE SEAN OBSTRUIDAS O QUE LA EFICACIA DE ÉSTAS SEA DISMINUIDA POR LA SATURACIÓN DE AVISOS DIFERENTES A LA PREVENCIÓN DE RIESGOS DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-026-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Garantizar que todas las señales de seguridad e higiene estén colocadas en lugares visibles, estratégicos y a una altura/ángulo que permita su fácil observación e interpretación por el personal expuesto, asegurando que no se encuentren obstruidas por maquinaria, equipos o estibas, ni su eficacia sea disminuida por la presencia excesiva de avisos ajenos a la prevención de riesgos (anuncios comerciales, administrativos o informativos no de seguridad).",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-114",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "114",
+   "texto": "DIAGRAMA UNIFILAR ACTUALIZADO DE LA INSTALACIÓN ELÉCTRICA, CON BASE EN LO DISPUESTO POR LA NOM-001-SEDE-2005.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-115",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "115",
+   "texto": "CUADRO GENERAL DE CARGAS INSTALADAS POR CIRCUITO DERIVADO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el cuadro general de cargas y diagramas unifilares actualizados del centro de trabajo, donde se identifiquen la capacidad nominal, protecciones y cargas conectadas en cada circuito derivado de los tableros de distribución.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-116",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "116",
+   "texto": "PROGRAMA ESPECÍFICO DE REVISIÓN Y CONSERVACIÓN DEL EQUIPO DE TRABAJO, MAQUINARIA, HERRAMIENTAS E IMPLEMENTOS DE PROTECCIÓN AISLANTE UTILIZADOS PARA TRABAJOS DE MANTENIMIENTO ELÉCTRICO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un programa escrito con fechas y responsables para inspeccionar, probar y dar mantenimiento al equipo de trabajo, herramientas aisladas (1000 V), pértigas, mantas, guantes dieléctricos y tapetes utilizados en el mantenimiento eléctrico.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-117",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "117",
+   "texto": "PROCEDIMIENTOS PARA LA REVISIÓN, CONSERVACIÓN, ALMACENAMIENTO Y REEMPLAZO DEL EQUIPO DE TRABAJO, MAQUINARIA, HERRAMIENTAS E IMPLEMENTOS DE PROTECCIÓN AISLANTE, UTILIZADOS EN LAS ACTIVIDADES DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Disponer de procedimientos por escrito que regulen la inspección antes de cada uso, almacenamiento en condiciones controladas (libres de humedad, calor o rayos UV), criterios de retiro/descarte y reemplazo inmediato de herramental o equipo aislante deteriorado.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-118",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "118",
+   "texto": "PROCEDIMIENTOS PARA EL USO, REVISIÓN, REPOSICIÓN, LIMPIEZA, LIMITACIONES, RESGUARDO Y DISPOSICIÓN FINAL DEL EQUIPO DE PROTECCIÓN PERSONAL, BASADOS EN LA INFORMACIÓN DEL FABRICANTE, Y DE CONFORMIDAD CON LO QUE SEÑALA LA NOM-017-STPS-2008.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Procedimientos específicos para el EPP dieléctrico (cascos dieléctricos Clase E/G, guantes de hule dieléctrico con protectores de cuero, calzado dieléctrico, careta contra arco eléctrico, ropa de algodón o ignífuga / Arc Flash), elaborados conforme a fichas técnicas de fabricante y la NOM-017-STPS-2008.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-119",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "119",
+   "texto": "PLAN DE TRABAJO POR CADA ACTIVIDAD DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar un Plan de Trabajo previo a ejecutar cualquier maniobra o mantenimiento en instalaciones eléctricas (desenergizadas o energizadas), que determine los riesgos potenciales, las medidas de seguridad, el personal autorizado y las secuencias de libranza / LOTO.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-120",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "120",
+   "texto": "PLAN DE TRABAJO QUE DETERMINE LOS RIESGOS POTENCIALES POR CADA ACTIVIDAD DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar y formalizar un Plan de Trabajo específico antes de ejecutar cualquier actividad de mantenimiento eléctrico (preventivo, correctivo o en instalaciones energizadas/desenergizadas), que integre el Análisis de Seguridad en el Trabajo (AST/APR) identificando los riesgos de choque eléctrico, arco eléctrico, quemaduras, caídas o explosión, y determine las medidas preventivas, el EPP dieléctrico requerido y el procedimiento LOTO a aplicar.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-121",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "121",
+   "texto": "PLAN DE TRABAJO POR CADA ACTIVIDAD DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Elaborar un Plan de Trabajo específico por escrito antes de realizar cualquier actividad de mantenimiento en instalaciones eléctricas (desenergizadas o energizadas), que describa el desarrollo de la secuencia operativa, las medidas de seguridad, el personal autorizado y las firmas de autorización correspondientes.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-122",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "122",
+   "texto": "PROCEDIMIENTOS DE SEGURIDAD PARA REALIZAR LAS ACTIVIDADES DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS, EN EL CENTRO DE TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-123",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "123",
+   "texto": "PROCEDIMIENTOS PARA LA SELECCIÓN Y USO DEL EQUIPO DE TRABAJO, MAQUINARIA, HERRAMIENTAS E IMPLEMENTOS DE PROTECCIÓN AISLANTE.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con procedimientos por escrito que establezcan los criterios técnicos para seleccionar, verificar la compatibilidad de aislamiento según el nivel de tensión (V/kV) y normar el uso correcto de herramientas aisladas (1000 V), pértigas, mantas, tapetes y cubiertas aislantes durante las actividades de mantenimiento eléctrico.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-124",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "124",
+   "texto": "PROCEDIMIENTO PARA LA COLOCACIÓN DEL SISTEMA DE PUESTA A TIERRA TEMPORAL.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un procedimiento por escrito que describa el método secuencial y seguro para conectar y desconectar el sistema de puesta a tierra y cortocircuito temporal durante los trabajos de mantenimiento en instalaciones eléctricas desenergizadas, garantizando el uso de pértigas aislantes, EPP adecuado y la verificación previa de ausencia de tensión.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-125",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "125",
+   "texto": "CONSIDERA EL PROCEDIMIENTO PARA LA COLOCACIÓN DEL SISTEMA DE PUESTA A TIERRA TEMPORAL QUE LA CONEXIÓN SE REALICE DE LA MANERA SIGUIENTE: SE CONECTEN LOS CONDUCTORES DE PUESTA A TIERRA AL SISTEMA DE TIERRAS Y, A CONTINUACIÓN, A LA INSTALACIÓN POR PROTEGER, MEDIANTE PÉRTIGAS O DISPOSITIVOS ESPECIALES, TALES COMO CONDUCTORES DE LÍNEAS, ELECTRODUCTOS, ENTRE OTROS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un procedimiento escrito que especifique estrictamente que la conexión del sistema de puesta a tierra temporal se realice primero hacia el sistema de tierras de la instalación y, posteriormente, hacia los elementos a proteger (conductores de líneas, electroductos, barras o equipos) mediante el uso exclusivo de pértigas aislantes o dispositivos especiales de maniobra, tras haber comprobado la ausencia de tensión.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-126",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "126",
+   "texto": "PLAN DE ATENCIÓN A EMERGENCIAS, DISPONIBLE PARA SU CONSULTA Y APLICACIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un Plan de Atención a Emergencias por escrito, específico para las actividades de mantenimiento eléctrico, actualizado y accesible en todo momento para el personal ejecutor, brigadistas y personal del área, que incluya procedimientos de rescate de personas electrocutadas o lesionadas, desenergización de emergencia, primeros auxilios (RCP), inventario de equipo de rescate dieléctrico y números de emergencia.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-127",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "127",
+   "texto": "SE REALIZAN LAS ACTIVIDADES DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS SÓLO CON PERSONAL CAPACITADO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-128",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "128",
+   "texto": "SE EFECTÚAN CON PERSONAL AUTORIZADO Y CAPACITADO LOS TRABAJOS DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LUGARES PELIGROSOS, TALES COMO ALTURAS, ESPACIOS CONFINADOS, SUBESTACIONES Y LÍNEAS ENERGIZADAS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-129",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "129",
+   "texto": "CUENTA EL CENTRO DE TRABAJO CON UN BOTIQUÍN DE PRIMEROS AUXILIOS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-130",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "130",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE INFORMA A LOS TRABAJADORES QUE REALIZAN ACTIVIDADES DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS, SOBRE LOS RIESGOS A LOS QUE ESTÁN EXPUESTOS Y DE LAS MEDIDAS DE SEGURIDAD QUE DEBEN ADOPTAR PARA LA ACTIVIDAD A DESARROLLAR.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-131",
+   "modulo": "stps",
+   "categoria": "17. NOM-029-STPS-2011 MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN LOS CENTROS DE TRABAJO - CONDICIONES DE SEGURIDAD",
+   "num": "131",
+   "texto": "DOCUMENTO QUE ACREDITE QUE SE AUTORIZA POR ESCRITO A LOS TRABAJADORES CAPACITADOS PARA REALIZAR ACTIVIDADES DE MANTENIMIENTO DE LAS INSTALACIONES ELÉCTRICAS EN ALTURA, ESPACIOS CONFINADOS O SUBESTACIONES, LÍNEAS ENERGIZADAS, ASÍ COMO A LOS QUE MANEJEN PARTES VIVAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-029-STPS-2011",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-132",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "132",
+   "texto": "DIAGNÓSTICO DE SEGURIDAD Y SALUD EN EL TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-133",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "133",
+   "texto": "COMPRENDE EL DIAGNÓSTICO INTEGRAL A LAS DIVERSAS ÁREAS, SECCIONES O PROCESOS QUE CONFORMAN AL CENTRO DE TRABAJO O, EN SU CASO, EL DIAGNÓSTICO DEL ÁREA DE TRABAJO SE REFIERE DE MANERA EXCLUSIVA A CADA UNA DE ELLAS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-134",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "134",
+   "texto": "CUENTA CON UN DIAGNÓSTICO QUE PODRÁ SER INTEGRAL Y QUE CONTENGA AL MENOS LOS REQUERIMIENTOS NORMATIVOS EN MATERIA DE SEGURIDAD Y SALUD EN EL TRABAJO QUE RESULTEN APLICABLES",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un diagnóstico escrito que identifique las condiciones físicas o peligrosas, los agentes físicos, químicos y biológicos, los factores de riesgo ergonómico y psicosocial, así como los requerimientos normativos en materia de seguridad y salud aplicables al centro de trabajo.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-135",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "135",
+   "texto": "PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO, CON BASE EN EL DIAGNÓSTICO DE SEGURIDAD Y SALUD EN EL TRABAJO (CENTROS DE TRABAJO CON 100 O MÁS TRABAJADORES).",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-136",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "136",
+   "texto": "RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO, ACTUALIZADA AL MENOS UNA VEZ AL AÑO (CENTROS DE TRABAJO CON MENOS DE 100 TRABAJADORES).",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el documento formal que contenga la relación priorizada de acciones preventivas y correctivas derivadas del Diagnóstico de Seguridad y Salud en el Trabajo, indicando las actividades a realizar, responsables de ejecución, fechas de inicio y término, y el seguimiento a su cumplimiento, actualizado mínimamente cada 12 meses.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-137",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "137",
+   "texto": "RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO, ACTUALIZADA AL MENOS UNA VEZ AL AÑO (CENTROS DE TRABAJO CON MENOS DE 100 TRABAJADORES).",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el documento formal que contenga la relación priorizada de acciones preventivas y correctivas derivadas del Diagnóstico de Seguridad y Salud en el Trabajo, indicando las actividades a realizar, responsables de ejecución, fechas de inicio y término, y el seguimiento a su cumplimiento, actualizado mínimamente cada 12 meses.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-138",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "138",
+   "texto": "DESIGNACIÓN POR PARTE DEL PATRÓN DE UN RESPONSABLE DE SEGURIDAD Y SALUD EN EL TRABAJO INTERNO O EXTERNO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-139",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "139",
+   "texto": "QUE EL RESPONSABLE DE SEGURIDAD Y SALUD EN EL TRABAJO ESTABLEZCA LOS MECANISMOS DE RESPUESTA INMEDIATA CUANDO SE DETECTA UN RIESGO GRAVE E INMINIENTE",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un procedimiento o protocolo por escrito que faculte al Responsable de SST (y a los supervisores/trabajadores) a tomar medidas inmediatas de mitigación ,incluida la suspensión temporal de actividades o la evacuación de la zona de riesga, al detectar una condición crítica que ponga en peligro inminente la vida, la integridad física o la salud del personal, hasta que se restablezcan las condiciones de seguridad.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-140",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "140",
+   "texto": "QUE EL RESPONSABLE DE SEGURIDAD Y SALUD EN EL TRABAJO EXTABLEZCA LOS PROCEDIMIENTOS, INSTRUCTIVOS, GUÍAS O REGISTROS NECESARIOS PARA DAR CUMPLIMIENTO AL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O A LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con el sistema de documentación operativa (procedimientos estandarizados, instructivos de trabajo, guías técnicas, listas de cotejo y bitácoras de registro) formalmente elaborado, controlado y disponible, que respalde la ejecución efectiva de cada una de las actividades preventivas, correctivas o de respuesta a emergencias contempladas en el Programa o Relación de Acciones de SST.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-141",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "141",
+   "texto": "QUE EL RESPONSABLE DE SEGURIDAD Y SALUD EN EL TRABAJO ESTABLEZCA LA INSTAURACIÓN DEL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O DE LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO, SE CUMPLA CON EL OBJETO DE SU APLICACIÓN Y, EN SU CASO, REALIZAR LAS ADECUACIONES QUE SE REQUIERAN TANTO AL DIAGNÓSTICO COMO AL PROGRAMA O A LA RELACIÓN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Demostrar que el Responsable de SST vigila la instauración efectiva del Programa (o Relación de Acciones), evalúa periódicamente que se cumpla con el propósito de prevenir accidentes y enfermedades de trabajo, y realiza las adecuaciones o ajustes necesarios al Diagnóstico, al Programa o a la Relación de Acciones cuando ocurran cambios en los procesos, accidentes laborales, hallazgos de la CSH o modificaciones normativas.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-142",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "142",
+   "texto": "ACREDITAR QUE SE COMUNICA A LA COMISIÓN DE SEGURIDAD E HIGIENE Y/O A LOS TRABAJADORES, EL DIAGNÓSTICO INTEGRAL O POR ÁREA DE TRABAJO DE LAS CONDICIONES DE SEGURIDAD Y SALUD Y EL CONTENIDO DEL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Demostrar documentalmente que el centro de trabajo notificó formalmente y presentó ante la CSH y los trabajadores el Diagnóstico de Seguridad y Salud (integral o por área) y las metas, acciones y programas preventivos derivados del mismo, conservando los acuses correspondientes.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-143",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "143",
+   "texto": "CONSTANCIAS DE HABILIDADES LABORALES DEL PERSONAL DE LA EMPRESA QUE FORMA PARTE DE LOS SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO, EN LAS FUNCIONES Y ACTIVIDADES CORRESPONDIENTES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con las constancias de competencias o de habilidades laborales (Formatos DC-3 de la STPS) vigentes, que acrediten que el personal designado internamente para realizar funciones de seguridad y salud en el trabajo ha recibido capacitación en la materia (diagnóstico de SST, elaboración de programas, normatividad STPS, identificación de peligros y respuesta a emergencias), impartida por un Agente Capacitador Externo registrado ante la STPS o por un capacitador interno autorizado conforme a un plan registrado (DC-2).",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-144",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "144",
+   "texto": "REGISTROS DE LOS REPORTES DE SEGUIMIENTO DE LOS AVANCES EN LA INSTAURACIÓN DEL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O DE LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con los reportes periódicos (mensuales, trimestrales o semestrales) y registros fehacientes que demuestren el grado de avance, cumplimiento de fechas, atención de hallazgos y cierre de actividades contempladas en el Programa de SST o Relación de Acciones, evaluados y firmados por el Responsable de los Servicios Preventivos de SST.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-145",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "145",
+   "texto": "CONSERVA EL DIAGNÓSTICO INTEGRAL O POR ÁREA DE TRABAJO DE LAS CONDICIONES DE SEGURIDAD Y SALUD DEL CENTRO LABORAL Y EL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO, SEGÚN APLIQUE, Y DEMÁS DOCUMENTACIÓN A QUE HACE REFERENCIA LA PRESENTE NORMA, AL MENOS POR DOS AÑOS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Garantizar la conservación, resguardo y trazabilidad documental (en formato físico o digital) del Diagnóstico Integral o por Área, el Programa de SST o Relación de Acciones Preventivas y Correctivas, los reportes de seguimiento, los procedimientos operativos, las evidencias de difusión y demás registros generados en cumplimiento con la norma, por un periodo mínimo obligatorio de dos años (24 meses), manteniéndolos disponibles para su consulta ante las autoridades laborales.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-146",
+   "modulo": "stps",
+   "categoria": "18. NOM-030-STPS-2009 SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO - FUNCIONES Y ACTIVIDADES",
+   "num": "146",
+   "texto": "SE REGISTRAN LOS RESULTADOS DEL SEGUIMIENTO DEL PROGRAMA DE SEGURIDAD Y SALUD EN EL TRABAJO O DE LA RELACIÓN DE ACCIONES PREVENTIVAS Y CORRECTIVAS DE SEGURIDAD Y SALUD EN EL TRABAJO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un sistema de registro formal (físico o digital) donde se documenten periódicamente los resultados cuantitativos y cualitativos del seguimiento al Programa de SST o Relación de Acciones, evaluando el estatus de cumplimiento de las fechas comprometidas, las desviaciones detectadas, la eficacia de los controles implementados y las acciones de replanteamiento requeridas.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-147",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "147",
+   "texto": "ESTABLECER POR ESCRITO UNA POLÍTICA DE PREVENCIÓN DE RIESGOS PSICOSOCIALES QUE SE IMPLANTE, MANTENGA Y DIFUNDA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-148",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "148",
+   "texto": "IDENTIFICAR Y ANALIZAR LOS FACTORES DE RIESGO PSICOSOCIAL, DE ACUERDO CON LO ESTABLECIDO EN LOS NUMERALES 7.1, INCISO A), Y 7.2, DE LA NORMA, TRATÁNDOSE DE CENTROS DE TRABAJO QUE TENGAN ENTRE 16 Y 50 TRABAJADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-149",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "149",
+   "texto": "IDENTIFICAR Y ANALIZAR LOS FACTORES DE RIESGO PSICOSOCIAL Y EVALUAR EL ENTORNO ORGANIZACIONAL, DE CONFORMIDAD CON LO SEÑALADO EN LOS NUMERALES 7.1, INCISO B), 7.2 Y 7.3, RESPECTIVAMENTE, DE LA PRESENTE NORMA, TRATÁNDOSE DE CENTROS DE TRABAJO QUE TENGAN MÁS DE 50 TRABAJADORES.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-150",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "150",
+   "texto": "ADOPTAR LAS MEDIDAS PARA PREVENIR Y CONTROLAR LOS FACTORES DE RIESGO PSICOSOCIAL, PROMOVER EL ENTORNO ORGANIZACIONAL FAVORABLE, ASÍ COMO PARA ATENDER LAS PRÁCTICAS OPUESTAS AL ENTORNO ORGANIZACIONAL FAVORABLE Y LOS ACTOS DE VIOLENCIA LABORAL, CON BASE EN LO DISPUESTO POR EL CAPÍTULO 8 DE LA PRESENTE NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-151",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "151",
+   "texto": "ADOPTAR LAS MEDIDAS PARA PREVENIR Y CONTROLAR LOS FACTORES DE RIESGO PSICOSOCIAL, PROMOVER EL ENTORNO ORGANIZACIONAL FAVORABLE, ASÍ COMO PARA ATENDER LAS PRÁCTICAS OPUESTAS AL ENTORNO ORGANIZACIONAL FAVORABLE Y LOS ACTOS DE VIOLENCIA LABORAL, CON BASE EN LO DISPUESTO POR EL CAPÍTULO 8 DE LA PRESENTE NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-152",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "152",
+   "texto": "IDENTIFICAR A LOS TRABAJADORES QUE FUERON SUJETOS A ACONTECIMIENTOS TRAUMÁTICOS SEVEROS DURANTE O CON MOTIVO DEL TRABAJO Y, CANALIZARLOS PARA SU ATENCIÓN A LA INSTITUCIÓN DE SEGURIDAD SOCIAL O PRIVADA, O AL MÉDICO DEL CENTRO DE TRABAJO O DE LA EMPRESA. (GUÍA DE REFERENCIA I).",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-153",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "153",
+   "texto": "PARA DAR CUMPLIMIENTO CON ESTA OBLIGACIÓN (IDENTIFICAR A LOS TRABAJADORES QUE FUERON SUJETOS A ACONTECIMIENTOS TRAUMÁTICOS SEVEROS DURANTE O CON MOTIVO DEL TRABAJO), EL CENTRO DE TRABAJO DEBERÁ PRESENTAR UN DOCUMENTO QUE SEÑALE LO SIGUIENTE:",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-154",
+   "modulo": "stps",
+   "categoria": "19. NOM-035-STPS-2018 FACTORES DE RIESGO PSICOSOCIAL EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS Y PREVENCIÓN.",
+   "num": "154",
+   "texto": "PRACTICAR EXÁMENES MÉDICOS Y EVALUACIONES PSICOLÓGICAS A LOS TRABAJADORES EXPUESTOS A VIOLENCIA LABORAL Y/O A LOS FACTORES DE RIESGO PSICOSOCIAL, CUANDO EXISTAN SIGNOS O SÍNTOMAS QUE DENOTEN ALGUNA ALTERACIÓN A SU SALUD Y EL RESULTADO DE LA IDENTIFICACIÓN Y ANÁLISIS DE LOS FACTORES DE RIESGO PSICOSOCIAL, A QUE SE REFIERE EL NUMERAL 7.1 Y 7.2 DE ESTA NORMA, ASÍ LO SUGIERA Y/O EXISTAN QUEJAS DE VIOLENCIA LABORAL MEDIANTE LOS MECANISMOS A QUE ALUDE EL NUMERAL 8.1, INCISO B) DE LA PRESENTE NORMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-035-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-155",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "155",
+   "texto": "ANÁLISIS DE LOS FACTORES DE RIESGO ERGONÓMICO DEBIDO AL MANEJO MANUAL DE CARGAS, CONFORME LO ESTABLECIDO EN EL CAPÍTULO 7 DE LA NOMA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-156",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "156",
+   "texto": "INFORME EL ANÁLISIS DE LOS FACTORES DE RIESGO ERGONÓMICO DEBIDO AL MANEJO MANUAL DE CARGAS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-157",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "157",
+   "texto": "ANÁLISIS DE LOS FACTORES DE RIESGO ERGONÓMICO DEBIDO AL MANEJO MANUAL DE CARGAS, EL DIAGNÓSTICO DE SEGURIDAD Y SALUD EN EL TRABAJO, A QUE SE REFIERE LA NOM-030-STPS-2009, O LAS QUE LA SUSTITUYAN.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-158",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "158",
+   "texto": "PROGRAMA PARA LA VIGILANCIA A LA SALUD DEL PERSONAL OCUPACIONALMENTE EXPUESTO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-159",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "159",
+   "texto": "PROGRAMA DE ERGONOMÍA PARA EL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-160",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "160",
+   "texto": "PROCEDIMIENTO DE SEGURIDAD PARA DESARROLLAR LAS ACTIVIDADES QUE INVOLUCRAN EL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-161",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "161",
+   "texto": "MEDIDAS DE PREVENCIÓN Y/O CONTROL PARA REDUCIR O ELIMINAR LOS FACTORES DE RIESGO ERGONÓMICO EN EL CENTRO DE TRABAJO DEBIDO AL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-162",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "162",
+   "texto": "ANÁLISIS DE LOS FACTORES DE RIESGO ERGONÓMICO DEBIDO AL MANEJO MANUAL DE CARGAS, PARA LOS TRABAJADORES QUE PARTICIPAN O REALIZAN ACTIVIDADES DE MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-163",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "163",
+   "texto": "ACTIVIDADES DE MANEJO MANUAL DE CARGAS SEAN REALIZADAS POR TRABAJADORES QUE CUENTAN CON APTITUD FÍSICA AVALADA POR UN MÉDICO O A TRAVÉS DE UNA INSTITUCIÓN DE SEGURIDAD SOCIAL O PRIVADA.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-164",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "164",
+   "texto": "MEDIDAS DE PREVENCIÓN Y/O CONTROL PARA REDUCIR O ELIMINAR LOS FACTORES DE RIESGO ERGONÓMICO EN EL CENTRO DE TRABAJO DEBIDO AL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-165",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "165",
+   "texto": "MEDIDAS DE PREVENCIÓN Y/O CONTROL PARA REDUCIR O ELIMINAR LOS FACTORES DE RIESGO ERGONÓMICO EN EL CENTRO DE TRABAJO DEBIDO AL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-166",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "166",
+   "texto": "VIGILANCIA A LA SALUD DE LOS TRABAJADORES POR UN MÉDICO CON CONOCIMIENTOS EN MEDICINA DEL TRABAJO.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-167",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "167",
+   "texto": "EXÁMENES MÉDICOS, REGISTRO Y EXPEDIENTE CLÍNICO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-168",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "168",
+   "texto": "SE CONSERVA EL EXPEDIENTE CLÍNICO CON LOS EXÁMENES MÉDICOS PRACTICADOS Y SU REGISTRO, ASÍ COMO LAS ACCIONES PREVENTIVAS Y CORRECTIVAS PARA LA VIGILANCIA A LA SALUD DE LOS TRABAJADORES, POR UN PERÍODO MÍNIMO DE CINCO AÑOS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-169",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "169",
+   "texto": "DETERMINA EL MÉDICO LA APTITUD FÍSICA DE LOS TRABAJADORES PARA REALIZAR ACTIVIDADES QUE CONLLEVEN CARGA MANUAL, Y EN SU CASO, EL PERÍODO DE RECUPERACIÓN",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-170",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "170",
+   "texto": "INFORMAR A LOS TRABAJADORES SOBRE LAS POSIBLES ALTERACIONES A LA SALUD POR EL MANEJO MANUAL DE CARGAS.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-171",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "171",
+   "texto": "CAPACITACIÓN Y ADIESTRAMIENTO AL PERSONAL OCUPACIONALMENTE EXPUESTO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-172",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "172",
+   "texto": "CUENTA CON DOCUMENTO U OTRO MEDIO QUE ACREDITE QUE SE PROPORCIONA CAPACITACIÓN AL PERSONAL OCUPACIONALMENTE EXPUESTO A LOS FACTORES DE RIESGO ERGONÓMICO REFERIDO AL SOBREESFUERZO FÍSICO POR EL MANEJO MANUAL DE CARGAS, CON ÉNFASIS EN LA PREVENCIÓN DE RIESGOS, Y CON BASE EN LAS TAREAS ASIGNADAS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-173",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "173",
+   "texto": "CAPACITACIÓN Y ADIESTRAMIENTO PARA EL PERSONAL DE NUEVO INGRESO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-174",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "174",
+   "texto": "REGISTROS SOBRE LAS MEDIDAS PREVENTIVAS ADOPTADAS Y LOS EXÁMENES MÉDICOS PRACTICADOS",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-175",
+   "modulo": "stps",
+   "categoria": "20. NOM-036-STPS-2018 FACTORES DE RIESGO ERGONÓMICO EN EL TRABAJO-IDENTIFICACIÓN, ANÁLISIS, PREVENCIÓN Y CONTROL. PARTE 1: MANEJO MANUAL DE CARGAS",
+   "num": "175",
+   "texto": "REGISTRO DE LA CAPACITACIÓN Y ADIESTRAMIENTO QUE SE PROPORCIONA AL PERSONAL OCUPACIONALMENTE EXPUESTO",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-036-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-176",
+   "modulo": "stps",
+   "categoria": "21. SERVICIOS PREVENTIVOS DE MEDICINA EN EL TRABAJO.",
+   "num": "176",
+   "texto": "MANTENER EN EL CENTRO DE TRABAJO LOS MEDICAMENTOS, MATERIAL DE CURACIÓN Y EQUIPOS INDISPENSABLES PARA QUE SE BRINDEN OPORTUNAMENTE Y EFICAZMENTE LA ATENCIÓN MÉDICA Y LOS PRIMEROS AUXILIOS, ACORDE CON LOS RIESGOS DE TRABAJO INHERENTES A LAS ACTIVIDADES REALIZADAS.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-177",
+   "modulo": "stps",
+   "categoria": "21. SERVICIOS PREVENTIVOS DE MEDICINA EN EL TRABAJO.",
+   "num": "177",
+   "texto": "CUANDO TENGA A SU SERVICIO MÁS DE CIEN TRABAJADORES, ESTABLECER UNA ENFERMERÍA, DOTADA CON LOS MEDICAMENTOS Y MATERIAL DE CURACIÓN NECESARIOS PARA LA ATENCIÓN MÉDICA Y QUIRÚRGICA DE URGENCIA; DEBIENDO ESTAR ATENDIDA POR PERSONAL COMPETENTE, BAJO LA DIRECCIÓN DE UN MÉDICO CIRUJANO.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "Contar con un espacio físico exclusivo destinado a enfermería/consultorio médico dentro del centro de trabajo, equipado con botiquín, medicamentos, material de curación e instrumental para atención médica y quirúrgica de urgencia, operado por personal de enfermería o medicina capacitado y bajo la supervisión directiva de un Médico Cirujano con cédula profesional.",
+   "guiaEstado": "usuario"
+  },
+  {
+   "id": "STPS-178",
+   "modulo": "stps",
+   "categoria": "22. SERVICIOS AL PERSONAL",
+   "num": "178",
+   "texto": "ESTABLECER DE ACUERDO CON LAS ACTIVIDADES DEL CENTRO DE TRABAJO SISTEMAS HIGIÉNICOS DE AGUA POTABLE, LAVABOS, REGADERAS, VESTIDORES Y CASILLEROS, ASÍ COMO EXCUSADOS Y MINGITORIOS DOTADOS DE AGUA CORRIENTE, SEPARADOS LOS HOMBRES Y MUJERES Y MARCADOS CON AVISOS O SEÑALES QUE LOS INDIQUEN.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-179",
+   "modulo": "stps",
+   "categoria": "22. SERVICIOS AL PERSONAL",
+   "num": "179",
+   "texto": "ESTABLECER LUGARES HIGIÉNICOS PARA EL CONSUMO DE ALIMENTOS.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-180",
+   "modulo": "stps",
+   "categoria": "22. SERVICIOS AL PERSONAL",
+   "num": "180",
+   "texto": "AGUA POTABLE CON DOTACIÓN DE VASOS DESECHABLES.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-181",
+   "modulo": "stps",
+   "categoria": "23. PREVENCIÓN DE ADICCIONES",
+   "num": "181",
+   "texto": "PROGRAMA PARA PROMOVER LA SALUD DE LOS TRABAJADORES Y PREVENIR LAS ADICCIONES.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-182",
+   "modulo": "stps",
+   "categoria": "24. AVISO DE ACCIDENTES",
+   "num": "182",
+   "texto": "AVISO POR ESCRITO O MEDIOS ELECTRÓNICOS A LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL SOBRE LOS ACCIDENTES DE TRABAJO OCURRIDOS EN EL CENTRO LABORAL, DENTRO DE LAS 72 HORAS SIGUIENTES A LA OCURRENCIA DEL MISMO.",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "STPS-183",
+   "modulo": "stps",
+   "categoria": "24. AVISO DE ACCIDENTES",
+   "num": "183",
+   "texto": "SE PRESENTAN LOS AVISOS DE LOS ACCIDENTES DE TRABAJO DEL CENTRO LABORAL DENTRO DE LAS 72 HORAS SIGUIENTES A LA OCURRENCIA DEL MISMO",
+   "ref": {
+    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "categoria",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  }
+ ]
+}

@@ -1,0 +1,412 @@
+{
+ "id": "proteccion_civil",
+ "nombre": "Protección Civil (Aguascalientes)",
+ "nombre_en": "Civil Protection (state)",
+ "autoridad": "Coordinación Estatal de Protección Civil",
+ "ambito": "estatal:Aguascalientes",
+ "version": "2026-11-12",
+ "requisitos": [
+  {
+   "id": "PC-001",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "1",
+   "texto": "Contar con un Programa Interno de Protección Civil elaborado conforme a la guía técnica aplicable y mantenerlo en operación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "5"
+   },
+   "refEstado": "por_validar",
+   "guia": "Elaborar el PIPC con base en la guía técnica (diagnóstico de riesgos internos y externos, subprogramas de prevención, auxilio y recuperación, plan de continuidad). Mantenerlo firmado por el representante legal y actualizado cada año. Evidencia: PIPC vigente y sus anexos.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-002",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "2",
+   "texto": "Constituir y mantener la Unidad Interna de Protección Civil integrada a la estructura de la empresa.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "5, 8-III, 42 y 67"
+   },
+   "refEstado": "por_validar",
+   "guia": "Levantar acta constitutiva de la Unidad Interna con responsable del inmueble, suplente, jefes de piso/área y brigadas; actualizarla cuando cambie el personal. Evidencia: acta firmada y organigrama de la Unidad.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-003",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "3",
+   "texto": "Presentar cada año ante la Coordinación de Protección Civil la conformación de la Unidad Interna y el Programa Interno para su análisis y aprobación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "69 y 70"
+   },
+   "refEstado": "por_validar",
+   "guia": "Ingresar por oficio el PIPC y el acta de la Unidad Interna; conservar el acuse. La autoridad resuelve en 60 días naturales; si observa, corregir y reingresar en 10 días. Evidencia: acuse de ingreso y resolución de aprobación del año en curso. Registrar la fecha de vencimiento como vigencia de la evidencia.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-004",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "4",
+   "texto": "Si el Programa Interno fue elaborado con apoyo de un tercero, contar con su carta de corresponsabilidad y registro vigente ante la Coordinación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "5, 109 y 110"
+   },
+   "refEstado": "por_validar",
+   "guia": "Solicitar al consultor copia de su registro estatal vigente (dura un año) y la carta de corresponsabilidad firmada; integrarlas como anexo del PIPC. Evidencia: registro del consultor y carta.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-005",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "5",
+   "texto": "Atender en plazo los requerimientos de presentación o corrección del Programa Interno que haga la Coordinación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "5 y 70"
+   },
+   "refEstado": "por_validar",
+   "guia": "Si la Coordinación solicita el PIPC, entregarlo dentro del plazo que fije (máximo 45 días hábiles); si emite resolución negativa, presentar la corrección en 10 días hábiles. Evidencia: oficios de requerimiento y acuses de respuesta.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-006",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "6",
+   "texto": "Mantener informados a los vecinos aledaños sobre las medidas de seguridad de la instalación (pláticas, simulacros o informes).",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "68"
+   },
+   "refEstado": "por_validar",
+   "guia": "Programar al menos una acción anual de comunicación con vecinos o empresas colindantes (invitación a simulacro, plática o informe). Evidencia: invitaciones, listas de asistencia o comunicados.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-007",
+   "modulo": "proteccion_civil",
+   "categoria": "1. Programa Interno y Unidad Interna",
+   "num": "7",
+   "texto": "Difundir entre el personal los programas de protección civil aplicables y fomentar la cultura de protección civil.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "14 y 81"
+   },
+   "refEstado": "por_validar",
+   "guia": "Incluir el PIPC en la inducción y en pláticas periódicas; publicar instructivos de emergencia. Evidencia: registros de inducción, listas de asistencia, material difundido.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-008",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "8",
+   "texto": "Realizar simulacros al menos dos veces al año.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "92"
+   },
+   "refEstado": "por_validar",
+   "guia": "Calendarizar dos simulacros anuales con hipótesis distintas (incendio, sismo, fuga/derrame, evacuación). Elaborar cédula de evaluación con tiempos y observaciones. Evidencia: programa anual, cédulas, fotos y lista de participantes.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-009",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "9",
+   "texto": "Solicitar por escrito a la Coordinación, con al menos dos semanas de anticipación, la realización de simulacros dirigidos por ella o por personal registrado.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "90"
+   },
+   "refEstado": "por_validar",
+   "guia": "Enviar oficio de aviso/solicitud con fecha, hora, hipótesis y responsable al menos 14 días antes. Evidencia: oficio con sello de recibido.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-010",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "10",
+   "texto": "Llevar bitácora de simulacros y prácticas y entregarla junto con la actualización del Programa Interno.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "91"
+   },
+   "refEstado": "por_validar",
+   "guia": "Mantener una bitácora continua de simulacros y prácticas (fecha, tipo, participantes, resultados, acciones de mejora) y anexarla al PIPC en su actualización anual. Evidencia: bitácora.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-011",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "11",
+   "texto": "Realizar prácticas contra incendio al menos una vez al año, con la autorización ambiental que corresponda cuando impliquen fuego vivo.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "92 y 93"
+   },
+   "refEstado": "por_validar",
+   "guia": "Programar una práctica anual de combate de incendio para brigadistas con proveedor registrado; si se usa fuego real, tramitar antes la autorización de la autoridad ambiental y contar con todos los dispositivos de seguridad. Evidencia: constancias, autorización y reporte de la práctica.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-012",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "12",
+   "texto": "Contar con brigadas integradas por personal capacitado y adiestrado, con cursos de su especialidad impartidos por instancias o capacitadores registrados.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "94 y 95"
+   },
+   "refEstado": "por_validar",
+   "guia": "Integrar brigadas de evacuación, primeros auxilios, combate de incendio y comunicación; capacitarlas anualmente con capacitador con registro estatal vigente. Evidencia: actas de integración, constancias (DC-3) y registro del capacitador. Coincide con NOM-002-STPS.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-013",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "13",
+   "texto": "Dotar a las brigadas del equipo adecuado para su función.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "96"
+   },
+   "refEstado": "por_validar",
+   "guia": "Definir por brigada el equipo mínimo (identificación, botiquín, equipo de bombero o EPP, radios, megáfono) y verificarlo periódicamente. Evidencia: inventario y listas de verificación.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-014",
+   "modulo": "proteccion_civil",
+   "categoria": "2. Simulacros, brigadas y capacitación",
+   "num": "14",
+   "texto": "Capacitar teórica y prácticamente al personal en materia de protección civil.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "8"
+   },
+   "refEstado": "por_validar",
+   "guia": "Incluir en el programa anual de capacitación temas de protección civil para todo el personal (uso de extintores, evacuación, primeros auxilios básicos). Evidencia: programa, listas y constancias.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-015",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "15",
+   "texto": "Colocar señalización de rutas de evacuación, salidas de emergencia, zonas de seguridad y puntos de reunión, e instructivos de emergencia en lugares visibles.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "7"
+   },
+   "refEstado": "por_validar",
+   "guia": "Señalizar conforme a NOM-003-SEGOB-2011 y NOM-026-STPS-2008; colocar croquis \"usted está aquí\" e instructivos por área. Evidencia: plano de señalización y recorrido fotográfico.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-016",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "16",
+   "texto": "Contar con extintores suficientes conforme al reglamento y a lo que determine la Coordinación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "97"
+   },
+   "refEstado": "por_validar",
+   "guia": "Determinar número, tipo y ubicación según la clase de fuego y el riesgo de incendio (ver NOM-002-STPS-2010). Evidencia: estudio de riesgo de incendio, plano e inventario de extintores.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-017",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "17",
+   "texto": "Contar con sistemas contra incendio, equipos de seguridad y equipo de protección personal acordes al riesgo.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "98"
+   },
+   "refEstado": "por_validar",
+   "guia": "Con base en el análisis de riesgo, mantener operativos detección, alarma, red contra incendio o equivalentes, y el EPP de brigadistas. Evidencia: memoria del sistema, pruebas periódicas e inventario.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-018",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "18",
+   "texto": "Mantener los equipos contra incendio en óptimas condiciones mediante mantenimiento preventivo.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "99"
+   },
+   "refEstado": "por_validar",
+   "guia": "Programa anual de revisión y mantenimiento de extintores, hidrantes, bombas, detectores y alarmas, con registros de cada intervención. Evidencia: programa y bitácoras.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-019",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "19",
+   "texto": "Dar mantenimiento a los extintores con periodicidad no mayor a un año y recargarlos después de cada uso o en la fecha de su etiqueta.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "102 y 103"
+   },
+   "refEstado": "por_validar",
+   "guia": "Contratar el servicio anual con proveedor que cumpla los requisitos del reglamento; revisar mensualmente etiqueta, presión y sello. Evidencia: órdenes de servicio, etiquetas vigentes y revisión mensual.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-020",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "20",
+   "texto": "Realizar prueba hidrostática a los extintores portátiles al menos cada cinco años.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "105"
+   },
+   "refEstado": "por_validar",
+   "guia": "Llevar control por número de serie con fecha de última prueba hidrostática y solicitar al proveedor la bitácora de la prueba. Evidencia: bitácora o certificado por extintor.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-021",
+   "modulo": "proteccion_civil",
+   "categoria": "3. Señalización y equipo contra incendio",
+   "num": "21",
+   "texto": "Recargar y dar servicio a los extintores únicamente con personas o empresas que cumplan los requisitos del reglamento y estén establecidas en el Estado.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "108"
+   },
+   "refEstado": "por_validar",
+   "guia": "Solicitar al proveedor su registro o autorización vigente y conservar copia en el expediente. Evidencia: registro del proveedor.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-022",
+   "modulo": "proteccion_civil",
+   "categoria": "4. Materiales peligrosos",
+   "num": "22",
+   "texto": "Si se manejan sustancias o materiales peligrosos de alto riesgo, contar con estudio de riesgo ambiental y Programa para la Prevención de Accidentes, y notificar su autorización a la Coordinación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "66"
+   },
+   "refEstado": "por_validar",
+   "guia": "Comparar inventarios máximos contra los listados de actividades altamente riesgosas; si se rebasan, tramitar estudio de riesgo y PPA ante la autoridad ambiental y entregar copia de la autorización a Protección Civil. Si no se rebasan, conservar el comparativo como evidencia de no aplicabilidad.",
+   "guiaEstado": "por_validar",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "PC-023",
+   "modulo": "proteccion_civil",
+   "categoria": "4. Materiales peligrosos",
+   "num": "23",
+   "texto": "Mantener en operación la Unidad Interna para el control de materiales peligrosos que verifica la Coordinación.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "75"
+   },
+   "refEstado": "por_validar",
+   "guia": "Tener disponible para inspección el inventario de materiales peligrosos, hojas de datos de seguridad, plan de respuesta a derrames y evidencias de capacitación de la brigada. Evidencia: carpeta de materiales peligrosos.",
+   "guiaEstado": "por_validar",
+   "condicion": "sustancias_quimicas"
+  },
+  {
+   "id": "PC-024",
+   "modulo": "proteccion_civil",
+   "categoria": "5. Consultores e inspecciones",
+   "num": "24",
+   "texto": "Informar a las autoridades de protección civil sobre cualquier riesgo, siniestro o desastre y cooperar en las acciones que se determinen.",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "14"
+   },
+   "refEstado": "por_validar",
+   "guia": "Incluir en el plan de emergencia el directorio de autoridades y el criterio de notificación; registrar cada aviso realizado. Evidencia: procedimiento de comunicación y registros.",
+   "guiaEstado": "por_validar"
+  },
+  {
+   "id": "PC-025",
+   "modulo": "proteccion_civil",
+   "categoria": "5. Consultores e inspecciones",
+   "num": "25",
+   "texto": "Permitir las inspecciones de la Coordinación y presentar los dictámenes que solicite (eléctrico, estructural, gas LP, red contra incendio).",
+   "ref": {
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "36 fracc. XIII, XV y XVI"
+   },
+   "refEstado": "por_validar",
+   "guia": "Mantener vigentes y disponibles: dictamen de instalaciones eléctricas (UVIE), dictamen estructural, dictamen de gas LP (unidad de verificación) y pruebas de la red contra incendio. Atender las actas de inspección en plazo. Evidencia: dictámenes vigentes y actas atendidas.",
+   "guiaEstado": "por_validar"
+  }
+ ]
+}
