@@ -14,14 +14,12 @@
    "num": "1",
    "texto": "1. ¿Está al corriente en los pagos de consumo de agua¿",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Agua para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículo por confirmar: contrato y pago del servicio)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-002",
@@ -31,14 +29,12 @@
    "num": "2",
    "texto": "2. ¿Cuenta con planos de las instalaciones de la red de tubería de suministro desde la toma hasta la descarga, incluyendo agua potable?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Agua para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículo por confirmar: instalaciones hidráulicas del usuario)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-003",
@@ -48,14 +44,12 @@
    "num": "3",
    "texto": "3. ¿Realiza mantenimiento a sus instalaciones hidráulicas?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Agua para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículo por confirmar: instalaciones hidráulicas del usuario)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-004",
@@ -65,14 +59,12 @@
    "num": "4",
    "texto": "4. ¿Cuenta con autorización para el suministro de consumo de agua?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Agua para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículo por confirmar: contrato y pago del servicio)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-005",
@@ -82,14 +74,12 @@
    "num": "5",
    "texto": "5. ¿Esta actualizada la documentación para consumo de agua potable?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Agua para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículo por confirmar: contrato y pago del servicio)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-006",
@@ -104,9 +94,7 @@
     "nom": "",
     "articulo": "Art. 20"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-007",
@@ -116,14 +104,12 @@
    "num": "7",
    "texto": "7. ¿Su título se encuentra registrado por el Registro Público de Derechos de Agua?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Aguas Nacionales",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "30 a 32 (Registro Público de Derechos de Agua)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-008",
@@ -138,9 +124,7 @@
     "nom": "",
     "articulo": "Art. 44 -VII"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-009",
@@ -150,14 +134,12 @@
    "num": "9",
    "texto": "9. ¿Conoce el destino de la descargas de sus aguas residuales?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Aguas Nacionales",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-SEMARNAT-1996",
+    "articulo": "88 (LAN); descargas a alcantarillado: competencia municipal"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-010",
@@ -167,14 +149,12 @@
    "num": "10",
    "texto": "a. Drenaje Municipal (Alcantarillado)  (de: 9. ¿Conoce el destino de la descargas de sus aguas residuales?)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Aguas Nacionales",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-SEMARNAT-1996",
+    "articulo": "88 (LAN); descargas a alcantarillado: competencia municipal"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-011",
@@ -184,14 +164,12 @@
    "num": "11",
    "texto": "b. Cuerpo receptor (presas, cauces, zonas marinas o bienes nacionales)  (de: 9. ¿Conoce el destino de la descargas de sus aguas residuales?)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Aguas Nacionales",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-SEMARNAT-2021",
+    "articulo": "88 y 88 BIS"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-012",
@@ -201,14 +179,12 @@
    "num": "12",
    "texto": "10.¿Cuenta con la autorización para descargar aguas residuales generadas en su instalación?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "Ley de Aguas Nacionales",
+    "reglamento": "Reglamento de la LAN",
     "nom": "",
-    "articulo": ""
+    "articulo": "88 (LAN); 135 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-013",
@@ -223,9 +199,7 @@
     "nom": "",
     "articulo": "136.I"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-014",
@@ -240,9 +214,7 @@
     "nom": "",
     "articulo": "136"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-015",
@@ -257,9 +229,7 @@
     "nom": "",
     "articulo": "136.III"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-016",
@@ -274,9 +244,7 @@
     "nom": "NOM-002-SEMARNAT-1996",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-017",
@@ -286,14 +254,12 @@
    "num": "17",
    "texto": "15. ¿Sus análisis los ha realizado mediante la contratación de laboratorios acreditados ante la Entidad Mexicana de Acreditación (EMA)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Infraestructura de la Calidad (laboratorio acreditado)",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-SEMARNAT-2021 / NOM-002-SEMARNAT-1996",
+    "articulo": "(muestreo y análisis por laboratorio acreditado y aprobado)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-018",
@@ -308,9 +274,7 @@
     "nom": "NOM-002-SEMARNAT-1996",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-019",
@@ -320,14 +284,12 @@
    "num": "19",
    "texto": "17. ¿Sus aguas residuales, cumplen con las condiciones particulares de descarga (CPD) establecidas por la autoridad?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Aguas Nacionales",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-SEMARNAT-2021",
+    "articulo": "88 BIS fracc. II"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-020",
@@ -337,14 +299,12 @@
    "num": "20",
    "texto": "18. De la información acerca de la calidad de sus aguas residuales, ¿Manifiesta la información en el Registro de Transferencia de Contaminantes (RETC)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGEEPA",
+    "reglamento": "Reglamento de la LGEEPA en materia de RETC",
     "nom": "",
-    "articulo": ""
+    "articulo": "109 BIS (LGEEPA); 9 y 10 (Reglamento RETC)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-021",
@@ -359,9 +319,7 @@
     "nom": "",
     "articulo": "146"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-022",
@@ -376,9 +334,7 @@
     "nom": "",
     "articulo": "135"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-023",
@@ -393,9 +349,7 @@
     "nom": "",
     "articulo": "135 VII"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-024",
@@ -410,9 +364,7 @@
     "nom": "NOM-001-SEMARNAT-1996",
     "articulo": "4.8"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-025",
@@ -422,14 +374,12 @@
    "num": "25",
    "texto": "23. ¿Sus análisis de laboratorio son realizados mediante laboratorios acreditados ante la Entidad Mexicana de Acreditación (EMA)?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Infraestructura de la Calidad (laboratorio acreditado)",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-SEMARNAT-2021 / NOM-002-SEMARNAT-1996",
+    "articulo": "(muestreo y análisis por laboratorio acreditado y aprobado)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-AGUA-026",
@@ -444,9 +394,7 @@
     "nom": "NOM-001-SEMARNAT-1996",
     "articulo": "4"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-027",
@@ -461,9 +409,7 @@
     "nom": "",
     "articulo": "135.VI"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-028",
@@ -478,9 +424,7 @@
     "nom": "",
     "articulo": "135.X"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-029",
@@ -495,9 +439,7 @@
     "nom": "",
     "articulo": "135.VI"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-AGUA-030",
@@ -512,9 +454,7 @@
     "nom": "",
     "articulo": "10"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-EMISIO-001",
@@ -525,13 +465,11 @@
    "texto": "1. ¿Conoce el consumo utilizado de cada fuente fija y las horas de operación?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "17 fracc. II (inventario de emisiones)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -543,13 +481,11 @@
    "texto": "2. ¿Puede especificar el tipo, número y localización de fuentes fijas como: calentadores, calderas, quemadores, incineradores, etc.?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "17 fracc. II (inventario de emisiones)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -566,8 +502,6 @@
     "articulo": "10"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -584,8 +518,6 @@
     "articulo": "16"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -602,8 +534,6 @@
     "articulo": "17-I"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -620,8 +550,6 @@
     "articulo": "23"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -633,13 +561,11 @@
    "texto": "7. Las chimeneas o ductos, ¿cuentan con los lineamientos previstos en la Norma Oficial Mexicana correspondiente?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "23"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -656,8 +582,6 @@
     "articulo": "23 Y 24"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -669,13 +593,11 @@
    "texto": "9. ¿En las chimeneas de proceso, su empresa emite algún tipo de polvo o partículas?",
    "ref": {
     "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
+    "nom": "NOM-043-SEMARNAT-1993",
+    "articulo": "16"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -692,8 +614,6 @@
     "articulo": "23 Y 24"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -705,13 +625,11 @@
    "texto": "11. ¿Conserva en condiciones de seguridad las plataformas y puertos de muestreo?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "17 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -722,14 +640,12 @@
    "num": "12",
    "texto": "12. ¿Los análisis de emisiones los ha realizado mediante un laboratorio acreditado ante la Entidad Mexicana de Acreditación?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "Ley de Infraestructura de la Calidad (laboratorio acreditado)",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "25 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -741,13 +657,11 @@
    "texto": "13. ¿Cuenta con planos de instalación asociadas a la contaminación atmosférica (calderas, chimeneas, ductos, etc.)?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "19 (información para la licencia)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -764,8 +678,6 @@
     "articulo": "26"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -782,8 +694,6 @@
     "articulo": "Tabla6"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -800,8 +710,6 @@
     "articulo": ""
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -818,8 +726,6 @@
     "articulo": "25; ANEXO 3"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -836,8 +742,6 @@
     "articulo": "4, 10 Y 21"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -848,14 +752,12 @@
    "num": "19",
    "texto": "19. ¿Cuenta con Licencia de Funcionamiento otorgada por la autoridad?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGEEPA; Ley de Protección Ambiental para el Estado de Aguascalientes",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "111 BIS (LGEEPA); 18 (Reglamento); licencia estatal si la fuente es de jurisdicción local"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -872,8 +774,6 @@
     "articulo": "17 BIS"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -884,14 +784,12 @@
    "num": "21",
    "texto": "21. ¿Realiza ante la autoridad un registro de la información de esta (Registro Estatal o Municipal de Transferencia de Contaminantes)?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGEEPA; Ley de Protección Ambiental para el Estado de Aguascalientes",
+    "reglamento": "Reglamento de la LGEEPA en materia de RETC",
     "nom": "",
-    "articulo": ""
+    "articulo": "109 BIS (LGEEPA)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -908,8 +806,6 @@
     "articulo": "21"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -920,14 +816,12 @@
    "num": "23",
    "texto": "23. ¿Sus emisiones a la atmósfera cumplen con los Límites Máximos Permisibles (LMP), de acuerdo a la normatividad correspondiente?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGEEPA",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "113 (LGEEPA); 16 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -939,13 +833,11 @@
    "texto": "24. ¿Cuenta con procedimientos para dar aviso a la autoridad correspondiente en caso de fallas de los equipos de control?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "17 fracc. VIII"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -962,8 +854,6 @@
     "articulo": "22-III"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -975,13 +865,11 @@
    "texto": "26. Realiza análisis de gases de combustión de acuerdo al tipo y periodicidad en función del combustible: gas LP, gas natural, combustible industrial, diesel, etc., así como la potencia del equipo de combustión o quemador.",
    "ref": {
     "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
+    "nom": "NOM-085-SEMARNAT-2011",
+    "articulo": "17 fracc. IV (Reglamento); Tablas de la NOM"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -992,14 +880,12 @@
    "num": "27",
    "texto": "27. ¿Mide los niveles de emisión de los compuestos orgánicos volátiles (COV) contenidos en: gasolina, thinner, alcoholes, resinas plásticas y pinturas esmalte?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGEEPA",
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
     "nom": "",
-    "articulo": ""
+    "articulo": "111 (LGEEPA); 17 fracc. IV (Reglamento); norma específica de COV por confirmar"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1011,13 +897,11 @@
    "texto": "28. ¿Ha realizado análisis de control de sus emisiones a la atmósfera de sus fuentes fijas (calderas (10 caballos caldera), de plantas de suministro de energía, incineradores, etc)?",
    "ref": {
     "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "reglamento": "Reglamento de la LGEEPA en materia de Prevención y Control de la Contaminación de la Atmósfera",
+    "nom": "NOM-085-SEMARNAT-2011",
+    "articulo": "17 fracc. IV (Reglamento); Tablas de la NOM"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1034,8 +918,6 @@
     "articulo": "17-II"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1052,8 +934,6 @@
     "articulo": "12-I"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1070,8 +950,6 @@
     "articulo": "12-II"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1088,8 +966,6 @@
     "articulo": "17-V"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1106,8 +982,6 @@
     "articulo": "17-VI"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1124,8 +998,6 @@
     "articulo": "17-VII"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1142,8 +1014,6 @@
     "articulo": "25"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1160,8 +1030,6 @@
     "articulo": ""
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1178,8 +1046,6 @@
     "articulo": "28"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1196,8 +1062,6 @@
     "articulo": ""
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1214,8 +1078,6 @@
     "articulo": ""
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "fuentes_fijas"
   },
   {
@@ -1226,14 +1088,12 @@
    "num": "1",
    "texto": "1. ¿Cuenta con caracterización de sus residuos no peligrosos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-161-SEMARNAT-2011",
+    "articulo": "18 a 20"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-002",
@@ -1243,14 +1103,12 @@
    "num": "2",
    "texto": "2. ¿Tiene identificadas las fuentes de generación de sus residuos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-161-SEMARNAT-2011",
+    "articulo": "18 a 20"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-003",
@@ -1260,14 +1118,12 @@
    "num": "3",
    "texto": "3. ¿Conoce las cantidades generadas en cada fuente? (Peso total de residuos generados)",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-161-SEMARNAT-2011",
+    "articulo": "18 a 20"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-004",
@@ -1277,14 +1133,12 @@
    "num": "4",
    "texto": "4. ¿La disposición final de sus residuos sólidos la realiza por medio de recolección de servicio contratado?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR; Ley de Protección Ambiental para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "9 y 19 (LGPGIR); prestadores autorizados por la autoridad estatal"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-005",
@@ -1294,14 +1148,12 @@
    "num": "5",
    "texto": "5. ¿La empresa que recolecta los residuos cuenta con todas sus autorizaciones y esta regularizado entrega manifiestos cada que realiza recoleccion?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR; Ley de Protección Ambiental para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "9 y 19 (LGPGIR); prestadores autorizados por la autoridad estatal"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-006",
@@ -1311,14 +1163,12 @@
    "num": "6",
    "texto": "6. ¿Mantiene procedimientos de segregación primaria de basura en inorgánicos e orgánicos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "18 y 27"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-007",
@@ -1328,14 +1178,12 @@
    "num": "7",
    "texto": "7. ¿Mantiene programas de re-uso y/o reciclaje de\nresiduos sólidos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "18 y 27"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-008",
@@ -1345,14 +1193,12 @@
    "num": "8",
    "texto": "8. ¿Cuenta con un permiso como generador de\nresiduos autorizado por la autoridad estatal o\nmunicipal?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR; Ley de Protección Ambiental para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "9 fracc. III y 19 (LGPGIR); registro estatal de generador de residuos de manejo especial"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-009",
@@ -1362,14 +1208,12 @@
    "num": "9",
    "texto": "9. ¿Cuenta con una clasificación como generador de residuos sólidos ante la autoridad estatal o municipal?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR; Ley de Protección Ambiental para el Estado de Aguascalientes",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "9 fracc. III y 19 (LGPGIR); registro estatal de generador de residuos de manejo especial"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-010",
@@ -1379,14 +1223,12 @@
    "num": "10",
    "texto": "10. ¿Cuenta con un plan de manejo de sus residuos sólidos autorizado ante la autoridad correspondiente?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-161-SEMARNAT-2011",
+    "articulo": "27 a 33"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-011",
@@ -1396,14 +1238,12 @@
    "num": "11",
    "texto": "11. ¿Su instalación cumple con la legislación estatal o local en materia de residuos sólidos?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Ambiental para el Estado de Aguascalientes; Código Municipal de El Llano",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "(artículos por confirmar)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-012",
@@ -1418,9 +1258,7 @@
     "nom": "",
     "articulo": "134-III"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-013",
@@ -1435,9 +1273,7 @@
     "nom": "",
     "articulo": "54 y 56"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-014",
@@ -1452,9 +1288,7 @@
     "nom": "",
     "articulo": "16"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-015",
@@ -1464,14 +1298,12 @@
    "num": "15",
    "texto": "15. ¿Tiene identificadas las fuentes de generación de sus residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "45 (LGPGIR); 71 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-016",
@@ -1481,14 +1313,12 @@
    "num": "16",
    "texto": "16. ¿Conoce las cantidades generadas en cada fuente?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "45 (LGPGIR); 71 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-017",
@@ -1503,9 +1333,7 @@
     "nom": "NOM-052-SEMARNAT-2005",
     "articulo": "20, 19, 46"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-018",
@@ -1520,9 +1348,7 @@
     "nom": "",
     "articulo": "35 fracción"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-019",
@@ -1532,14 +1358,12 @@
    "num": "19",
    "texto": "19. ¿Clasifica los residuos peligrosos que genera?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
+    "nom": "NOM-052-SEMARNAT-2005",
+    "articulo": "45 (LGPGIR); 46 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-020",
@@ -1554,9 +1378,7 @@
     "nom": "",
     "articulo": "42"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-021",
@@ -1566,14 +1388,12 @@
    "num": "21",
    "texto": "21. ¿En sus instalaciones se cuenta con un plan de\nmanejo para sus residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "28, 31 y 46 (LGPGIR); 16 a 24 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-022",
@@ -1588,9 +1408,7 @@
     "nom": "",
     "articulo": "16"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-023",
@@ -1605,9 +1423,7 @@
     "nom": "",
     "articulo": "24"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-024",
@@ -1622,9 +1438,7 @@
     "nom": "",
     "articulo": "24, 25 Y 26"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-025",
@@ -1639,9 +1453,7 @@
     "nom": "",
     "articulo": "20-I"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-026",
@@ -1656,9 +1468,7 @@
     "nom": "",
     "articulo": "20-II"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-027",
@@ -1673,9 +1483,7 @@
     "nom": "",
     "articulo": "20-IV"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-028",
@@ -1690,9 +1498,7 @@
     "nom": "",
     "articulo": "21"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-029",
@@ -1702,14 +1508,12 @@
    "num": "29",
    "texto": "29. En su instalación, ¿cumple con la legislación correspondiente en materia de generación de residuos peligrosos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "40 a 48"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-030",
@@ -1719,14 +1523,12 @@
    "num": "30",
    "texto": "30. En su instalación, ¿cumple con la legislación correspondiente en materia de almacenamiento temporal de residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "56 (LGPGIR); 82 a 84 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-031",
@@ -1736,14 +1538,12 @@
    "num": "31",
    "texto": "31. En su instalación, ¿cumple con la legislación estatal o municipal en materia de manejo y tratamiento de residuos de residuos peligrosos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 50"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-032",
@@ -1753,14 +1553,12 @@
    "num": "32",
    "texto": "32. ¿Contrata empresas autorizadas para la recolección y disposición final de sus residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "42 y 50 (LGPGIR); 46 fracc. VI (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-033",
@@ -1775,9 +1573,7 @@
     "nom": "",
     "articulo": "72; 4"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-034",
@@ -1787,14 +1583,12 @@
    "num": "34",
    "texto": "34. ¿Reporta o registra ante la autoridad correspondiente la información que tiene en el COA?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 (LGPGIR); 72 y 73 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-035",
@@ -1804,14 +1598,12 @@
    "num": "35",
    "texto": "35. ¿Mantiene actualizada su información del COA a la autoridad correspondiente?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 (LGPGIR); 72 y 73 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-036",
@@ -1821,14 +1613,12 @@
    "num": "36",
    "texto": "36. Si su instalación realiza acopio, reutilización de residuos peligrosos, reciclaje o co-procesamiento o prestador de servicios para transporte y disposición final, incineración, etc., ¿Tienen autorización por parte de la autoridad?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "50"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-037",
@@ -1843,9 +1633,7 @@
     "nom": "",
     "articulo": "Ref. Artículos 38, 39 y 40"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-038",
@@ -1856,13 +1644,11 @@
    "texto": "38. ¿Los materiales no integrados a los procesos productivos o desechados son caracterizados y considerados residuos peligrosos cuando así lo amerita?",
    "ref": {
     "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "reglamento": "Reglamento de la LGPGIR",
+    "nom": "NOM-052-SEMARNAT-2005",
+    "articulo": "37 y 38"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-039",
@@ -1877,9 +1663,7 @@
     "nom": "",
     "articulo": "Ref. Artículo 39"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-040",
@@ -1894,9 +1678,7 @@
     "nom": "",
     "articulo": "Ref.Art.40"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-041",
@@ -1907,13 +1689,11 @@
    "texto": "41. ¿Las mezclas de residuos peligrosos son manejadas y transferidas como tales?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "39"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-042",
@@ -1928,9 +1708,7 @@
     "nom": "",
     "articulo": "Ref. Art.43"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-043",
@@ -1945,9 +1723,7 @@
     "nom": "",
     "articulo": "Ref.Art.45"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-044",
@@ -1957,14 +1733,12 @@
    "num": "44",
    "texto": "44. ¿Sus residuos peligrosos, son manejados separadamente y no los mezcla con aquellos que sean incompatibles entre sí?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
+    "nom": "NOM-054-SEMARNAT-1993",
+    "articulo": "54 (LGPGIR); 46 fracc. II (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-045",
@@ -1975,13 +1749,11 @@
    "texto": "45. ¿Envasa sus residuos peligrosos de acuerdo a su estado físico, en recipientes con rótulos que señalen nombre del generador, nombre del residuo, característica de peligrosidad y fecha de ingreso al almacén?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 fracc. III y IV"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-046",
@@ -1992,13 +1764,11 @@
    "texto": "46. ¿Su almacenamiento temporal, conforme a su categoría de generación, reúne las condiciones señaladas en el Reglamento?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 fracc. V; 82 a 84"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-047",
@@ -2009,13 +1779,11 @@
    "texto": "47. ¿Transporta sus residuos peligrosos a través de personas que la autoridad federal (SEMARNAT), autorizo y que cuenten con lo establecido en la normatividad?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 fracc. VI; 85 y 86"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-048",
@@ -2030,9 +1798,7 @@
     "nom": "",
     "articulo": "Ref.Art.46"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-049",
@@ -2042,14 +1808,12 @@
    "num": "49",
    "texto": "49. Si usted es un pequeño o gran generador ¿Cuenta con bitácoras para el control de almacenamiento de residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 y 47 (LGPGIR); 71 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-050",
@@ -2060,13 +1824,11 @@
    "texto": "50. Si usted optó por reciclar sus residuos dentro de sus propias instalaciones ¿El informe que presenta lo hace de acuerdo al reglamento? Ref. Art. 74 RLGPGIR",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "72 y 73"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-051",
@@ -2081,9 +1843,7 @@
     "nom": "",
     "articulo": "Ref.Art.75"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-052",
@@ -2094,13 +1854,11 @@
    "texto": "Bitácoras  (de: 51. Si usted está clasificado como gran o pequeño generador de residuos peligrosos, ¿Conse…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "75"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-053",
@@ -2111,13 +1869,11 @@
    "texto": "Manifiestos  (de: 51. Si usted está clasificado como gran o pequeño generador de residuos peligrosos, ¿Conse…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "75"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-054",
@@ -2128,13 +1884,11 @@
    "texto": "52. Cuenta con registros de resultados de cualquier prueba, análisis u otras determinaciones, a partir de los residuos al sitio de tratamiento o de disposición final",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "75"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-055",
@@ -2144,14 +1898,12 @@
    "num": "55",
    "texto": "53. ¿Cuenta con seguro para las actividades de generación, almacenamiento temporal, manejo, tratamiento o disposición final y este seguro lo mantiene vigente?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 (LGPGIR); 76 y 77 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-056",
@@ -2161,14 +1913,12 @@
    "num": "56",
    "texto": "54. ¿En la COA Mantiene actualizada la información inherente a la generación, almacenamiento, posible tratamiento y/o disposición final de residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 (LGPGIR); 72 y 73 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-057",
@@ -2178,14 +1928,12 @@
    "num": "57",
    "texto": "55. ¿Reporta ante la autoridad federal (SEMARNAT) mediante la COA, la generación, almacenamiento, y/o tratamiento y/o disposición final de residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 (LGPGIR); 72 y 73 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-058",
@@ -2200,9 +1948,7 @@
     "nom": "",
     "articulo": "Ref. Art. 82"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-059",
@@ -2213,13 +1959,11 @@
    "texto": "a. Está separado de las áreas de producción, servicios, oficinas y de almacenamiento de materias primas o productos terminados  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso a)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-060",
@@ -2230,13 +1974,11 @@
    "texto": "b. Está ubicado en zonas donde se reduzcan los riesgos por posibles emisiones, fugas, incendio, explosiones e inundaciones  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso b)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-061",
@@ -2247,13 +1989,11 @@
    "texto": "c. Cuenta con dispositivos para contener posibles derrames, tales como muros, pretiles de contención fosas de retención para la captación de los residuos en estado líquido y sus lixiviados.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso c)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-062",
@@ -2264,13 +2004,11 @@
    "texto": "d. Para residuos líquidos, hay pisos con pendientes, trincheras o canaletas que conduzcan los derrames a las fosas de retención con capacidad para contener una quinta parte como mínimo, del volumen del recipiente de mayor tamaño  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso d)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-063",
@@ -2281,13 +2019,11 @@
    "texto": "e. Los pasillos permiten el libre tránsito de equipos mecánicos, eléctricos o manuales, así como el movimiento de grupos de seguridad y bomberos, en caso de emergencia  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso e)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-064",
@@ -2298,13 +2034,11 @@
    "texto": "f. Cuenta con sistemas de extinción de incendios y equipos de seguridad para atención de emergencias, acordes con el tipo y la cantidad de los residuos peligrosos almacenados  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso f)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-065",
@@ -2315,13 +2049,11 @@
    "texto": "g. Cuenta con señalamientos y letreros alusivos a la peligrosidad de los residuos peligrosos, almacenados, en lugares y formas visibles  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso g)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-066",
@@ -2332,13 +2064,11 @@
    "texto": "h. El almacenamiento se hace en recipientes identificados considerando las características de peligrosidad de los residuos, y su incompatibilidad, previniendo fugas, derrames, emisiones, explosiones e incendios.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso h)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-067",
@@ -2349,13 +2079,11 @@
    "texto": "i. La altura máxima de las estibas es de tres tambores en forma vertical.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. I inciso i)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-068",
@@ -2370,9 +2098,7 @@
     "nom": "",
     "articulo": "Ref. Art. 82"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-069",
@@ -2383,13 +2109,11 @@
    "texto": "a. Sin conexiones con drenajes en el piso, válvulas de drenaje, juntas de expansión, albañales o cualquier otro tipo de apertura que pudieran permitir que los líquidos se viertan fuera del área protegida  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso a)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-070",
@@ -2400,13 +2124,11 @@
    "texto": "b. ¿Sus paredes están construidas con materiales\nno inflamables?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso b)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-071",
@@ -2417,13 +2139,11 @@
    "texto": "c. ¿Cuenta con ventilación?, De ser así ¿Cuál es su tipo?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso c)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-072",
@@ -2434,13 +2154,11 @@
    "texto": "c.1 Ventilación natural  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso c)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-073",
@@ -2451,13 +2169,11 @@
    "texto": "c.2 Ventilación forzada  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso c)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-074",
@@ -2468,13 +2184,11 @@
    "texto": "d. ¿La ventilación es suficiente para evitar acumulamiento de vapores peligrosos?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso c)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-075",
@@ -2485,13 +2199,11 @@
    "texto": "e. ¿Cuentan con iluminación a prueba de exposición?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso d)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-076",
@@ -2502,13 +2214,11 @@
    "texto": "f. ¿Rebasa la capacidad instalada de almacenamiento?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. II inciso e)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-077",
@@ -2523,9 +2233,7 @@
     "nom": "",
     "articulo": "Ref. Art. 82"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-078",
@@ -2536,13 +2244,11 @@
    "texto": "a. Están localizadas en sitios cuya altura sea como mínimo, el resultado de aplicar un factor de seguridad de 1.5 al nivel del agua alcanzando en la mayor tormenta registrada en la zona  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-079",
@@ -2553,13 +2259,11 @@
    "texto": "b. ¿Los pisos son lisos y de material impermeable en las zonas de almacenamiento?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-080",
@@ -2570,13 +2274,11 @@
    "texto": "c. ¿Los pasillos cuentan con material antiderrapante?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-081",
@@ -2587,13 +2289,11 @@
    "texto": "d. En las áreas abiertas no techadas. ¿Almacena residuos peligrosos a granel cuando estos producen lixiviados?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-082",
@@ -2604,13 +2304,11 @@
    "texto": "e. En las áreas abiertas no techadas. ¿Los residuos peligrosos están cubiertos con algún material impermeable, evitando su dispersión por el viento?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "82 fracc. III"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-083",
@@ -2620,14 +2318,12 @@
    "num": "83",
    "texto": "59. ¿Toma las medidas necesarias para evitar la mezcla entre los residuos peligrosos de acuerdo a su incompatibilidad?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
+    "nom": "NOM-054-SEMARNAT-1993",
+    "articulo": "54 (LGPGIR); 46 fracc. II (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-084",
@@ -2637,14 +2333,12 @@
    "num": "84",
    "texto": "60. ¿Cuenta con bitácoras de entradas y salida del almacén de los residuos peligrosos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "46 y 47 (LGPGIR); 71 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-085",
@@ -2659,9 +2353,7 @@
     "nom": "",
     "articulo": "Ref.Art.83"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-086",
@@ -2671,14 +2363,12 @@
    "num": "86",
    "texto": "a. ¿Los recipientes están identificados?  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-087",
@@ -2688,14 +2378,12 @@
    "num": "87",
    "texto": "b. ¿Considera las características de peligrosidad\nde los residuos?  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-088",
@@ -2705,14 +2393,12 @@
    "num": "88",
    "texto": "c. ¿Considera la incompatibilidad de cada\nresiduo?  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-089",
@@ -2722,14 +2408,12 @@
    "num": "89",
    "texto": "d. Tiene previsto fugas, derrames, emisiones,\nexplosiones e incendios  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-090",
@@ -2739,14 +2423,12 @@
    "num": "90",
    "texto": "e. El almacenamiento se encuentra en lugares donde evita la transferencia de contaminantes al ambiente y garantiza la seguridad de toda persona.  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-091",
@@ -2756,14 +2438,12 @@
    "num": "91",
    "texto": "f. Tiene previsto fugas o derrames que puedan contaminar el suelo  (de: 61. El almacenamiento cumple con lo siguiente:)",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "41 y 56 (LGPGIR); 46 fracc. IV y 82 fracc. I (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-092",
@@ -2778,9 +2458,7 @@
     "nom": "",
     "articulo": "Ref.Art.84"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-093",
@@ -2795,9 +2473,7 @@
     "nom": "",
     "articulo": "Ref. Art. 48"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-094",
@@ -2812,9 +2488,7 @@
     "nom": "",
     "articulo": "Ref. Art. 86"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-095",
@@ -2829,9 +2503,7 @@
     "nom": "",
     "articulo": "Ref. Art. 87"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-096",
@@ -2841,14 +2513,12 @@
    "num": "96",
    "texto": "66. ¿Son reutilizados para contener el mismo material o residuo u otros compatibles con los envasados originalmente?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "55 (LGPGIR); 87 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-097",
@@ -2858,14 +2528,12 @@
    "num": "97",
    "texto": "67. ¿Evita que los envases reutilizados no liberen el contenido en ellos?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "55 (LGPGIR); 87 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-098",
@@ -2880,9 +2548,7 @@
     "nom": "",
     "articulo": "Ref. Art. 87"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-099",
@@ -2897,9 +2563,7 @@
     "nom": "NOM-054-SEMARNAT-1993",
     "articulo": "Ref. Art. 88"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-100",
@@ -2914,9 +2578,7 @@
     "nom": "",
     "articulo": "Ref. Art. 89"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RESIDU-101",
@@ -2928,12 +2590,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "5 (clasificación de establecimientos generadores)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-102",
@@ -2945,12 +2605,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "5 (clasificación de establecimientos generadores)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-103",
@@ -2962,12 +2620,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "5 (clasificación de establecimientos generadores)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-104",
@@ -2979,12 +2635,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "5 (clasificación de establecimientos generadores)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-105",
@@ -2996,12 +2650,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "5 (clasificación de establecimientos generadores)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-106",
@@ -3013,12 +2665,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.1"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-107",
@@ -3030,12 +2680,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.2"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-108",
@@ -3047,12 +2695,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.2"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-109",
@@ -3064,12 +2710,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.2"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-110",
@@ -3081,12 +2725,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.2"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-111",
@@ -3098,12 +2740,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.2"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-112",
@@ -3115,12 +2755,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.4"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-113",
@@ -3132,12 +2770,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.5"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-114",
@@ -3149,12 +2785,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.3"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-115",
@@ -3166,12 +2800,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.3"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-116",
@@ -3183,12 +2815,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.3"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-117",
@@ -3200,12 +2830,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.3"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RESIDU-118",
@@ -3217,12 +2845,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-087-SEMARNAT-SSA1-2002",
+    "articulo": "6.3"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-SUELOY-001",
@@ -3232,14 +2858,12 @@
    "num": "1",
    "texto": "1. ¿Cuenta con licencia y planos de uso de suelo?",
    "ref": {
-    "ley": "",
+    "ley": "Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes; Código Municipal de El Llano",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "253 fracc. XVII (Código Municipal)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3250,14 +2874,12 @@
    "num": "2",
    "texto": "2. ¿Existe contaminación del suelo en sus instalaciones, debido al manejo y disposición de materiales o residuos peligrosos?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "68 y 69"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3268,14 +2890,12 @@
    "num": "3",
    "texto": "3. ¿Tiene identificadas las áreas contaminadas?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "68 y 69"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3286,14 +2906,12 @@
    "num": "4",
    "texto": "4. Si se encuentran contaminadas con un pasivo ambiental ¿Lo ha informado a las autoridades federales, estatales o locales?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "68 a 71 (LGPGIR); 132 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3304,14 +2922,12 @@
    "num": "5",
    "texto": "5. ¿Cuenta con un plan de remediación de pasivos ambientales?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "69 y 77 (LGPGIR); 132 a 135 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3322,14 +2938,12 @@
    "num": "6",
    "texto": "6. ¿A qué autoridad lo ha informado?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "68 a 71 (LGPGIR); 132 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3341,13 +2955,11 @@
    "texto": "7. ¿Ha realizado la caracterización de los suelos contaminados en sus instalaciones?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3358,14 +2970,12 @@
    "num": "8",
    "texto": "8. ¿Para el análisis de caracterización de su suelo contaminado, ha contratado los servicios de un laboratorio acreditado ante la EMA?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "Ley de Infraestructura de la Calidad (laboratorio acreditado)",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3376,14 +2986,12 @@
    "num": "9",
    "texto": "9. ¿Cumple con la normatividad estatal o local en cuanto a los Límites Máximos Permisibles de suelo contaminado?",
    "ref": {
-    "ley": "",
+    "ley": "LGPGIR",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-138-SEMARNAT/SSA1-2012; NOM-147-SEMARNAT/SSA1-2004",
+    "articulo": "78"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3394,14 +3002,12 @@
    "num": "10",
    "texto": "10. ¿Ha iniciado acciones de remediación en las áreas donde se encontró contaminación?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "69 y 77 (LGPGIR); 132 a 135 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3413,13 +3019,11 @@
    "texto": "11. Si en sus instalaciones existió contaminación por derrame accidental que implicó la afectación al suelo y subsuelo, conteste las siguientes preguntas:",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "129 a 131"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3436,8 +3040,6 @@
     "articulo": "Ref. Art. 129"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3454,8 +3056,6 @@
     "articulo": "Ref. Art. 130"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3472,8 +3072,6 @@
     "articulo": "Ref. Art.130"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3484,14 +3082,12 @@
    "num": "15",
    "texto": "15. ¿Ha ejecutado las medidas que en su caso, les hubieren impuesto las autoridades?",
    "ref": {
-    "ley": "",
-    "reglamento": "",
+    "ley": "LGPGIR",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "68 y 69 (LGPGIR); 130 (Reglamento)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3508,8 +3104,6 @@
     "articulo": "Ref. Art. 134"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3521,13 +3115,11 @@
    "texto": "a. Estudios de caracterización  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "134"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3539,13 +3131,11 @@
    "texto": "b. Estudios de evaluación del riesgo ambiental  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "134"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3557,13 +3147,11 @@
    "texto": "c. Investigaciones históricas  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "134"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3575,13 +3163,11 @@
    "texto": "d. Propuestas de remediación  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "134"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3593,13 +3179,11 @@
    "texto": "17. ¿Ha realizado la caracterización de sitios contaminados, directa o a través de técnicos?",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3616,8 +3200,6 @@
     "articulo": "Art. 138"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3629,13 +3211,11 @@
    "texto": "a. Ubicación, descripción y uso actual del sitio contaminado  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3647,13 +3227,11 @@
    "texto": "b. Tipo de contaminante y cantidad aproximada de liberación  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3665,13 +3243,11 @@
    "texto": "c. El área y volumen de suelo dañado  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3683,13 +3259,11 @@
    "texto": "d. El plan de muestreo conforme a la normatividad correspondiente  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3701,13 +3275,11 @@
    "texto": "e. Resultados de determinaciones analíticas, pruebas (físicas, químicas y biológicas)de los contaminantes  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3719,13 +3291,11 @@
    "texto": "f. Memoria fotográfica de los trabajos efectuados  (de: 18. Sus estudios de caracterización han contenido:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "138"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3742,8 +3312,6 @@
     "articulo": "Ref. Art. 139"
    },
    "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3755,13 +3323,11 @@
    "texto": "a. Descripción de la metodología a aplicar para \ncadatipode pruebasdecampoolaboratorio  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "139"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3773,13 +3339,11 @@
    "texto": "b. Descripción de las condiciones geológicas, geo-hidrológicas e hidrológicas, basada en los resultados en el muestreo y pruebas de campo  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "139"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3791,13 +3355,11 @@
    "texto": "c. Descripción de las condiciones climáticas y físicas que afecten el comportamiento de los contaminantes  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "139"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3809,13 +3371,11 @@
    "texto": "d. Determinación de la distribución y el comportamiento de los contaminantes en el suelo, subsuelo y acuíferos con base en los resultados obtenidos.  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento de la LGPGIR",
     "nom": "",
-    "articulo": ""
+    "articulo": "139"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "suelo_contaminado"
   },
   {
@@ -3826,14 +3386,12 @@
    "num": "1",
    "texto": "1. ¿Su instalación maneja sustancias químicas peligrosas?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-002",
@@ -3843,14 +3401,12 @@
    "num": "2",
    "texto": "a. Materia primas  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-003",
@@ -3860,14 +3416,12 @@
    "num": "3",
    "texto": "b. Productos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-004",
@@ -3877,14 +3431,12 @@
    "num": "4",
    "texto": "c. subproductos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-005",
@@ -3894,14 +3446,12 @@
    "num": "5",
    "texto": "d. Residuos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-006",
@@ -3911,14 +3461,12 @@
    "num": "6",
    "texto": "2. ¿Mantiene la identificación de equipos o procesos donde maneja sustancias químicas peligrosas?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "145 a 147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-007",
@@ -3928,14 +3476,12 @@
    "num": "7",
    "texto": "3. ¿Su instalación rebasa sustancias químicas incluidas en alguno de los listados de actividades altamente riesgosas?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "146 y 147; Primer y Segundo Listado de Actividades Altamente Riesgosas (DOF 28/03/1990 y 04/05/1992)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-008",
@@ -3950,9 +3496,7 @@
     "nom": "",
     "articulo": "Ref. Art.147"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-009",
@@ -3962,14 +3506,12 @@
    "num": "9",
    "texto": "5. ¿Mantiene las condicionantes derivadas del estudio de riesgo ambiental, emitidas por la autoridad competente?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-010",
@@ -3979,14 +3521,12 @@
    "num": "10",
    "texto": "6. ¿Su estudio de riesgo lo mantiene vigente?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-011",
@@ -3996,14 +3536,12 @@
    "num": "11",
    "texto": "7. Conforme al estudio de riesgo con el que cuenta, ¿El área potencial de afectación rebasa los límites de la instalación?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-012",
@@ -4018,9 +3556,7 @@
     "nom": "",
     "articulo": "Ref. Art. 147 Bis"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-013",
@@ -4030,14 +3566,12 @@
    "num": "13",
    "texto": "9. ¿Cuenta con programa de prevención de accidentes PPA?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-014",
@@ -4047,14 +3581,12 @@
    "num": "14",
    "texto": "10. ¿Cumple con las indicaciones realizadas al PPA?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-015",
@@ -4069,9 +3601,7 @@
     "nom": "NOM-18-STPS-2018",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-016",
@@ -4083,12 +3613,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-018-STPS-2015",
+    "articulo": "6.3 y Cap. 9"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-017",
@@ -4103,9 +3631,7 @@
     "nom": "NOM-020-STPS-2002",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-018",
@@ -4117,12 +3643,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "Cap. 5 (aviso de equipos categoría III)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-019",
@@ -4137,9 +3661,7 @@
     "nom": "NOM-020-STPS-2002",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-020",
@@ -4151,12 +3673,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-021",
@@ -4168,12 +3688,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-022",
@@ -4185,12 +3703,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-023",
@@ -4202,12 +3718,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-024",
@@ -4219,12 +3733,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-025",
@@ -4236,12 +3748,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-026",
@@ -4253,12 +3763,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-027",
@@ -4270,12 +3778,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-028",
@@ -4287,12 +3793,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.2 (contenido del listado de equipos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-029",
@@ -4304,12 +3808,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.6"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-030",
@@ -4321,12 +3823,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-026-STPS-2008",
+    "articulo": "Cap. 9 (identificación de tuberías)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-031",
@@ -4338,12 +3838,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "Cap. 5 (pruebas de presión y exámenes no destructivos)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-032",
@@ -4355,12 +3853,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-029-STPS-2011; NOM-002-STPS-2010; NOM-001-STPS-2008",
+    "articulo": "7.6 y 7.7 (NOM-002); 5.1 (NOM-001)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-033",
@@ -4372,12 +3868,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-020-STPS-2011",
+    "articulo": "5.5"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-034",
@@ -4389,12 +3883,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-STPS-2008; NOM-020-STPS-2011",
+    "articulo": "5.1 (NOM-001)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-035",
@@ -4409,9 +3901,7 @@
     "nom": "NOM-026-STPS-2008",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-036",
@@ -4426,9 +3916,7 @@
     "nom": "Ref. NOM-026-STPS-2008",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-037",
@@ -4443,9 +3931,7 @@
     "nom": "NOM-054-SEMARNAT-1993",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-038",
@@ -4460,9 +3946,7 @@
     "nom": "NOM-005-STPS-1999",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RIESGO-039",
@@ -4474,12 +3958,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-STPS-2008; NOM-006-STPS-2023",
+    "articulo": "7.1 (NOM-001); Cap. 9 (NOM-006)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RIESGO-040",
@@ -4491,12 +3973,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-SEDE-2012; NOM-029-STPS-2011",
+    "articulo": "(instalaciones eléctricas)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-001",
@@ -4506,14 +3986,12 @@
    "num": "1",
    "texto": "1. ¿El Programa de Prevención de Accidentes (PPA) está actualizado y aprobado por la autoridad correspondiente?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-002",
@@ -4523,14 +4001,12 @@
    "num": "2",
    "texto": "2. ¿Como resultado de la aprobación del PPA, ¿se cumplen las indicaciones de las autoridades correspondientes?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-003",
@@ -4540,14 +4016,12 @@
    "num": "3",
    "texto": "3. ¿Se tiene un procedimiento adecuado para la investigación de accidentes y este incluye la investigación y evaluación de daños al ambiente conforme al PPA?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-019-STPS-2011",
+    "articulo": "147 (LGEEPA); investigación de accidentes (NOM-019)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-004",
@@ -4557,14 +4031,12 @@
    "num": "4",
    "texto": "4. Cuenta con la integración de brigadas en:",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "94 (Ley); Cap. 9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-005",
@@ -4574,14 +4046,12 @@
    "num": "5",
    "texto": "Prevención y combate de incendios  (de: 4. Cuenta con la integración de brigadas en:)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "94 (Ley); Cap. 9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-006",
@@ -4591,14 +4061,12 @@
    "num": "6",
    "texto": "Primeros auxilios  (de: 4. Cuenta con la integración de brigadas en:)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "94 (Ley); Cap. 9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-007",
@@ -4608,14 +4076,12 @@
    "num": "7",
    "texto": "Evacuación de inmuebles  (de: 4. Cuenta con la integración de brigadas en:)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "94 (Ley); Cap. 9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-008",
@@ -4625,14 +4091,12 @@
    "num": "8",
    "texto": "Búsqueda y rescate  (de: 4. Cuenta con la integración de brigadas en:)",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "94 (Ley); Cap. 9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-009",
@@ -4642,14 +4106,12 @@
    "num": "9",
    "texto": "5. ¿Se cuenta con el equipo necesario para la operación de las brigadas de emergencia?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "96 (Ley); 5.9 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-010",
@@ -4661,12 +4123,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-005-STPS-1998; NOM-002-STPS-2010",
+    "articulo": "Cap. 5 (NOM-005); Cap. 8 (NOM-002)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-011",
@@ -4676,14 +4136,12 @@
    "num": "11",
    "texto": "7. ¿Ha determinado los radios potenciales de afectación aplicando modelos matemáticos de simulación del o los eventos máximos probables de riesgo?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147 (estudio de riesgo ambiental)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-012",
@@ -4693,14 +4151,12 @@
    "num": "12",
    "texto": "8. Tiene definidas y justificadas las zonas de seguridad al entorno de la instalación utilizando parámetros de toxicidad, inflamabilidad y explosividad?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "147 (estudio de riesgo ambiental)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-013",
@@ -4710,14 +4166,12 @@
    "num": "13",
    "texto": "9. ¿Se llevan a cabo simulacros de accidentes, conforme al PPA y éste se actualiza en función de los resultados de los simulacros?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "92 (Ley); Cap. 10 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-014",
@@ -4727,14 +4181,12 @@
    "num": "14",
    "texto": "10. ¿En los simulacros se incluye la actuación de todo el personal de la planta?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "92 (Ley); Cap. 10 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-015",
@@ -4744,14 +4196,12 @@
    "num": "15",
    "texto": "11. ¿Cuenta con un plan de emergencia que asegure la operatividad de sus instalaciones?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "5 (Ley); 5.5 y Cap. 8 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-016",
@@ -4761,14 +4211,12 @@
    "num": "16",
    "texto": "12. ¿En los simulacros se incluye el plan de contingencias a nivel externo?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "92 (Ley); Cap. 10 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-017",
@@ -4780,12 +4228,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "5.1 y Apéndice A"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-018",
@@ -4795,14 +4241,12 @@
    "num": "18",
    "texto": "14. ¿Cuenta con un sistema contra incendio?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "98 y 99 (Ley); 5.10 y 7.4 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-019",
@@ -4812,14 +4256,12 @@
    "num": "19",
    "texto": "15. ¿El sistema contra incendios esta completo y en buenas condiciones?",
    "ref": {
-    "ley": "",
+    "ley": "Ley de Protección Civil para el Estado de Aguascalientes",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "98 y 99 (Ley); 5.10 y 7.4 (NOM)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-020",
@@ -4829,14 +4271,12 @@
    "num": "20",
    "texto": "16. ¿Cuenta con medidas preventivas y programas orientados a la restauración de zonas afectadas en caso de accidentes?",
    "ref": {
-    "ley": "",
+    "ley": "Ley Federal de Responsabilidad Ambiental",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "10"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-EMERGE-021",
@@ -4848,12 +4288,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-002-STPS-2010",
+    "articulo": "Cap. 7 y Cap. 8 (alarma)"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-RUIDO-001",
@@ -4868,9 +4306,7 @@
     "nom": "NOM-081-SEMARNAT-1994",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RUIDO-002",
@@ -4885,9 +4321,7 @@
     "nom": "NOM 081 ECOL 1994",
     "articulo": ""
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-RUIDO-003",
@@ -4897,14 +4331,12 @@
    "num": "3",
    "texto": "3. ¿Ha sufrido quejas vecinales en relación a los niveles de ruido ?",
    "ref": {
-    "ley": "",
+    "ley": "LGEEPA",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-081-SEMARNAT-1994",
+    "articulo": "155"
    },
-   "refEstado": "pendiente",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "AMB-IMPACT-001",
@@ -4919,9 +4351,7 @@
     "nom": "",
     "articulo": "Art. 5"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-002",
@@ -4936,9 +4366,7 @@
     "nom": "",
     "articulo": "Art. 2,5,6"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-003",
@@ -4953,9 +4381,7 @@
     "nom": "",
     "articulo": "Art.5, 6"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-004",
@@ -4970,9 +4396,7 @@
     "nom": "",
     "articulo": "Art.10"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-005",
@@ -4987,9 +4411,7 @@
     "nom": "",
     "articulo": "Art. 10-13"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-006",
@@ -5004,9 +4426,7 @@
     "nom": "",
     "articulo": "Art. 10 al 13"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-007",
@@ -5021,9 +4441,7 @@
     "nom": "",
     "articulo": "Ref. Art. 27"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-008",
@@ -5038,9 +4456,7 @@
     "nom": "",
     "articulo": "Ref. Art. 27"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-009",
@@ -5055,9 +4471,7 @@
     "nom": "",
     "articulo": "Ref. Art. 27, 28 y 50"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-010",
@@ -5072,9 +4486,7 @@
     "nom": "",
     "articulo": "Ref. Art.29"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-011",
@@ -5089,9 +4501,7 @@
     "nom": "",
     "articulo": "Ref. Art.47"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-012",
@@ -5106,9 +4516,7 @@
     "nom": "",
     "articulo": "Ref. Art.52"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   },
   {
    "id": "AMB-IMPACT-013",
@@ -5123,9 +4531,7 @@
     "nom": "",
     "articulo": "Ref. Art.55"
    },
-   "refEstado": "usuario",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "usuario"
   }
  ]
 }

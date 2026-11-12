@@ -18,9 +18,7 @@
     "nom": "",
     "articulo": "253 fracc. XVII"
    },
-   "refEstado": "por_validar",
-   "guia": "Tramitar o renovar ante la Dirección de Planeación y Desarrollo Urbano de El Llano. Verificar que el giro y la superficie de la constancia coincidan con la operación actual. Evidencia: constancia vigente y recibo de pago.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-002",
@@ -34,9 +32,7 @@
     "nom": "",
     "articulo": "1394 fracc. II"
    },
-   "refEstado": "por_validar",
-   "guia": "Solicitarlo en Desarrollo Urbano con copia de escrituras. Evidencia: constancia de número oficial.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-003",
@@ -50,9 +46,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Antes de ampliar naves, mezzanines, cuartos o instalaciones fijas, ingresar proyecto con perito responsable y compatibilidad urbanística. Al terminar, solicitar la constancia de terminación. Evidencia: licencia, planos autorizados y constancia de terminación por cada obra.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-004",
@@ -66,9 +60,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Inventariar los anuncios exteriores y verificar si requieren permiso y pago anual; antes de derribar o podar árboles, solicitar autorización municipal. Evidencia: permisos y recibos.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-005",
@@ -82,9 +74,7 @@
     "nom": "",
     "articulo": "923, 926, 1050 y 1051 (Código); disposiciones de licencias de la Ley de Ingresos"
    },
-   "refEstado": "por_validar",
-   "guia": "Verificar que la licencia esté a nombre de la razón social actual, con el domicilio y giro correctos. Requisito previo: compatibilidad urbanística. Evidencia: licencia vigente.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-006",
@@ -98,9 +88,7 @@
     "nom": "",
     "articulo": "(artículo del ejercicio vigente por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Programar el refrendo en el primer trimestre de cada año; confirmar en la Ley de Ingresos del ejercicio el plazo sin recargos. Evidencia: licencia refrendada y recibo oficial. Registrar el vencimiento como vigencia de la evidencia.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-007",
@@ -114,9 +102,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Cuando haya cambio corporativo o de giro, tramitar la modificación de la licencia antes de operar con los nuevos datos. Evidencia: licencia actualizada.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-008",
@@ -130,9 +116,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Confirmar con la Secretaría del H. Ayuntamiento o Reglamentos que la empresa aparece en el padrón; normalmente se cubre con la licencia de funcionamiento. Evidencia: constancia o la propia licencia.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-009",
@@ -146,9 +130,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Preguntar en Protección Civil de El Llano si exige visto bueno anual de medidas de seguridad o si reconoce la aprobación estatal del PIPC. Evidencia: visto bueno/dictamen municipal o el oficio que remite a la autoridad estatal.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-010",
@@ -162,9 +144,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Definir quién recibe a los verificadores, pedir identificación y orden de visita, y dar seguimiento a cada observación con una tarea. Evidencia: actas y evidencia de cierre.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-011",
@@ -178,9 +158,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Identificar al prestador del servicio en la ubicación de la planta (organismo municipal, parque industrial o pozo concesionado). Evidencia: contrato y últimos recibos; si es pozo, título de concesión (ver módulo ambiental, AGUA).",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-012",
@@ -194,9 +172,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar); NOM-002-SEMARNAT-1996"
    },
-   "refEstado": "por_validar",
-   "guia": "Si hay descarga a drenaje municipal, tramitar el registro o permiso de descarga y realizar análisis periódicos. Si no hay descarga industrial, documentarlo. Evidencia: permiso y resultados de laboratorio acreditado.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-013",
@@ -210,9 +186,7 @@
     "nom": "",
     "articulo": "(artículo por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Contratar recolección con el Municipio o con prestador autorizado y conservar manifiestos o recibos. Evidencia: contrato y comprobantes.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   },
   {
    "id": "MUN-014",
@@ -226,9 +200,7 @@
     "nom": "",
     "articulo": "(artículo del ejercicio vigente por confirmar)"
    },
-   "refEstado": "por_validar",
-   "guia": "Si el inmueble es arrendado, pedir al arrendador el comprobante anual; suele exigirse para licencias. Evidencia: recibo predial del año.",
-   "guiaEstado": "por_validar"
+   "refEstado": "por_validar"
   }
  ]
 }

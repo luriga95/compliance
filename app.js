@@ -41,7 +41,7 @@ let cargadoTs = null;         // marca de tiempo del datos.json leído
 let sucio = false;
 let vista = 'dashboard';
 let lang = 'es';
-let filtros = { modulo: '', estatus: '', q: '', sinEv: false };
+let filtros = { modulo: '', estatus: '', q: '', sinEv: false, porVal: false };
 const FS_OK = 'showDirectoryPicker' in window;
 
 function dbVacia() {
@@ -58,7 +58,7 @@ function reqs() {
 }
 function aplicarEd(r) {
   const e = db.ediciones[r.id];
-  return e ? Object.assign({}, r, { ref: Object.assign({}, r.ref, e.ref || {}), guia: e.guia ?? r.guia, guiaEstado: e.guia != null ? 'usuario' : r.guiaEstado, refEstado: e.ref ? 'usuario' : r.refEstado }) : r;
+  return e && e.ref ? Object.assign({}, r, { ref: Object.assign({}, r.ref, e.ref), refEstado: 'usuario' }) : r;
 }
 const modulos = () => {
   const ms = catalogos.map(m => ({ id: m.id, nombre: m.nombre, nombre_en: m.nombre_en || m.nombre }));
@@ -244,12 +244,13 @@ function tendencia() {
 function vRequisitos() {
   const f = filtros, q = f.q.toLowerCase();
   const lista = reqs().filter(r => (!f.modulo || r.modulo === f.modulo) && (!f.estatus || est(r.id) === f.estatus) &&
-    (!f.sinEv || !evDe(r.id).length) && (!q || (r.texto + ' ' + r.categoria + ' ' + refTxt(r) + ' ' + r.id).toLowerCase().includes(q)));
+    (!f.sinEv || !evDe(r.id).length) && (!f.porVal || r.refEstado !== 'usuario') && (!q || (r.texto + ' ' + r.categoria + ' ' + refTxt(r) + ' ' + r.id).toLowerCase().includes(q)));
   let html = `<div class="filters">
     <input type="search" id="fq" placeholder="Buscar requisito, NOM, artículo…" value="${esc(f.q)}">
     <select id="fm"><option value="">Todos los módulos</option>${modulos().map(m => `<option value="${esc(m.id)}" ${f.modulo === m.id ? 'selected' : ''}>${esc(m.nombre)}</option>`).join('')}</select>
     <select id="fe"><option value="">Todos los estatus</option>${Object.keys(ESTATUS).map(k => `<option value="${k}" ${f.estatus === k ? 'selected' : ''}>${ESTATUS[k].es}</option>`).join('')}</select>
     <label style="margin:0"><input type="checkbox" id="fs" ${f.sinEv ? 'checked' : ''}> Sin evidencia</label>
+    <label style="margin:0"><input type="checkbox" id="fv" ${f.porVal ? 'checked' : ''}> Cita por validar</label>
     <span class="muted">${lista.length} puntos</span>
     <button id="bCsv">Exportar matriz (CSV)</button>
   </div><table><thead><tr><th style="width:7rem">ID</th><th>Requisito</th><th style="width:22%">Referencia</th><th style="width:7.5rem">Estatus</th><th style="width:5rem">Evid.</th><th style="width:5rem">Tareas</th></tr></thead><tbody>`;
@@ -261,8 +262,8 @@ function vRequisitos() {
     html += `<tr class="req" data-open="${esc(r.id)}"><td>${esc(r.id)}</td><td>${esc(r.texto)}</td><td class="muted">${esc(refTxt(r)) || '<span class="tag warn">sin cita</span>'}</td><td><span class="pill ${e}">${ESTATUS[e].es}</span></td><td>${evDe(r.id).length || '—'}</td><td>${nt || '—'}</td></tr>`;
   }
   $('#main').innerHTML = html + '</tbody></table>';
-  const upd = () => { filtros = { q: $('#fq').value, modulo: $('#fm').value, estatus: $('#fe').value, sinEv: $('#fs').checked }; vRequisitos(); const i = $('#fq'); i.focus(); i.setSelectionRange(i.value.length, i.value.length); };
-  $('#fq').oninput = upd; $('#fm').onchange = upd; $('#fe').onchange = upd; $('#fs').onchange = upd; $('#bCsv').onclick = exportarCSV;
+  const upd = () => { filtros = { q: $('#fq').value, modulo: $('#fm').value, estatus: $('#fe').value, sinEv: $('#fs').checked, porVal: $('#fv').checked }; vRequisitos(); const i = $('#fq'); i.focus(); i.setSelectionRange(i.value.length, i.value.length); };
+  $('#fq').oninput = upd; $('#fm').onchange = upd; $('#fe').onchange = upd; $('#fs').onchange = upd; $('#fv').onchange = upd; $('#bCsv').onclick = exportarCSV;
 }
 
 function abrirPanel(id) {
@@ -278,10 +279,7 @@ function abrirPanel(id) {
     <details><summary class="muted">Editar referencia</summary><div class="row">
       <div><label>NOM</label><input id="rNom" value="${esc(r.ref.nom)}"></div><div><label>Ley</label><input id="rLey" value="${esc(r.ref.ley)}"></div>
       <div><label>Reglamento</label><input id="rReg" value="${esc(r.ref.reglamento)}"></div><div><label>Artículo / numeral</label><input id="rArt" value="${esc(r.ref.articulo)}"></div>
-      <button id="rGuardar">Aplicar</button></div></details></section>
-  <section><h3>¿Cómo cumplir? ${tag(r.guiaEstado)}</h3>
-    <div class="guia">${esc(r.guia) || '<span class="muted">Guía pendiente de redactar.</span>'}</div>
-    <details><summary class="muted">Editar guía</summary><textarea id="gTxt">${esc(r.guia)}</textarea><button id="gGuardar">Aplicar</button></details></section>
+      <button id="rGuardar">Guardar y marcar validada</button></div></details></section>
   <section><h3>Estatus</h3>
     <div class="estatus-btns">${Object.keys(ESTATUS).map(k => `<button data-est="${k}" class="${e.estatus === k ? 'sel' : ''}">${ESTATUS[k].es}</button>`).join('')}</div>
     <label>Nota / observación</label><textarea id="eNota">${esc(e.nota)}</textarea>
@@ -304,7 +302,6 @@ function abrirPanel(id) {
   b.querySelectorAll('[data-est]').forEach(x => x.onclick = () => { setE({ estatus: x.dataset.est, nota: $('#eNota').value }); re(); });
   $('#eNota').onchange = () => { setE({ nota: $('#eNota').value }); marcar(); };
   $('#rGuardar').onclick = () => { (db.ediciones[id] ||= {}).ref = { nom: $('#rNom').value.trim(), ley: $('#rLey').value.trim(), reglamento: $('#rReg').value.trim(), articulo: $('#rArt').value.trim() }; re(); };
-  $('#gGuardar').onclick = () => { (db.ediciones[id] ||= {}).guia = $('#gTxt').value.trim(); re(); };
   const base = () => ({ id: uid('E'), reqId: id, fecha: hoy(), vence: $('#vVence').value, desc: $('#vDesc').value.trim() });
   $('#vLiga').onclick = () => { const u = urlSegura($('#vUrl').value.trim()); if (!u) return alert('Escribe una liga que empiece con https://'); db.evidencias.push(Object.assign(base(), { tipo: 'liga', nombre: $('#vDesc').value.trim() || u, url: u })); re(); };
   $('#vArchivo').onclick = () => {
@@ -349,7 +346,7 @@ function vNovedades() {
     <div class="row"><button class="primary" data-nacep="${esc(n.id)}">${(n.requisitos || []).length ? 'Aceptar y agregar requisitos' : 'Marcar como revisada'}</button><button data-ntarea="${esc(n.id)}">Crear tarea</button><button data-ndesc="${esc(n.id)}">Descartar</button></div></div>`; }).join('') || '<div class="card muted">No hay novedades registradas.</div>'}</div>`;
   const m = $('#main'), busca = id => novedadesRepo.novedades.find(n => n.id === id);
   m.querySelectorAll('[data-nacep]').forEach(b => b.onclick = () => { const n = busca(b.dataset.nacep);
-    for (const r of n.requisitos || []) if (!reqs().some(x => x.id === r.id)) db.reqsPropios.push(Object.assign({ ref: {}, guia: '', guiaEstado: 'por_validar', refEstado: 'por_validar', categoria: 'Novedades', modulo: 'otros' }, r));
+    for (const r of n.requisitos || []) if (!reqs().some(x => x.id === r.id)) db.reqsPropios.push(Object.assign({ ref: {}, refEstado: 'por_validar', categoria: 'Novedades', modulo: 'otros' }, r));
     db.novedades[n.id] = 'aceptada'; marcar(); render(); });
   m.querySelectorAll('[data-ndesc]').forEach(b => b.onclick = () => { db.novedades[b.dataset.ndesc] = 'descartada'; marcar(); render(); });
   m.querySelectorAll('[data-ntarea]').forEach(b => b.onclick = () => { const n = busca(b.dataset.ntarea); db.tareas.push({ id: uid('T'), reqId: '', titulo: 'Evaluar novedad legal: ' + n.titulo, responsable: '', vence: '', estado: 'abierta', notas: n.url || '' }); marcar(); render(); alert('Tarea creada.'); });
@@ -381,7 +378,6 @@ function vConfig() {
     <div class="row"><div><label>Módulo</label><input id="nMod" list="mods" placeholder="stps, ambiental, proteccion_civil…"><datalist id="mods">${modulos().map(m => `<option value="${esc(m.id)}">`).join('')}</datalist></div><div><label>Categoría</label><input id="nCat"></div></div>
     <label>Requisito</label><textarea id="nTxt"></textarea>
     <div class="row"><div><label>NOM / Ley</label><input id="nNom"></div><div><label>Artículo / numeral</label><input id="nArt"></div></div>
-    <label>¿Cómo cumplir?</label><textarea id="nGuia"></textarea>
     <button id="nAdd" class="primary">Agregar requisito</button>
     <p class="muted">Catálogo cargado: ${catalogos.map(m => `${esc(m.nombre)} (${m.requisitos.length}, v${esc(m.version || '')})`).join(' · ')} · propios: ${db.reqsPropios.length}</p></div>
   </div>`;
@@ -400,7 +396,7 @@ function vConfig() {
   };
   $('#nAdd').onclick = () => { const txt = $('#nTxt').value.trim(), mod = $('#nMod').value.trim() || 'otros'; if (!txt) return alert('Escribe el requisito.');
     db.reqsPropios.push({ id: 'PROP-' + String(db.reqsPropios.length + 1).padStart(3, '0') + '-' + Date.now().toString(36).slice(-3), modulo: mod, categoria: $('#nCat').value.trim() || 'Requisitos propios', num: '', texto: txt,
-      ref: { nom: $('#nNom').value.trim(), ley: '', reglamento: '', articulo: $('#nArt').value.trim() }, refEstado: 'usuario', guia: $('#nGuia').value.trim(), guiaEstado: 'usuario' });
+      ref: { nom: $('#nNom').value.trim(), ley: '', reglamento: '', articulo: $('#nArt').value.trim() }, refEstado: 'usuario' });
     marcar(); render(); alert('Requisito agregado.'); };
 }
 

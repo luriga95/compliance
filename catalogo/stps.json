@@ -13,14 +13,12 @@
    "num": "1",
    "texto": "INSCRIPCIÓN DE LOS TRABAJADORES AL INSTITUTO MEXICANO DEL SEGURO SOCIAL.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley del Seguro Social",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "15 fracc. I"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-002",
@@ -29,14 +27,12 @@
    "num": "2",
    "texto": "INSCRIPCIÓN DE LOS TRABAJADORES CONTRATADOS EN RÉGIMEN DE SUBCONTRATACIÓN DE SERVICIOS ESPECIALIZADOS O DE EJECUCIÓN DE OBRAS ESPECIALIZADAS AL INSTITUTO MEXICANO DEL SEGURO SOCIAL.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley del Seguro Social; Ley Federal del Trabajo art. 15",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "15 fracc. I y 15-A"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-003",
@@ -45,14 +41,12 @@
    "num": "3",
    "texto": "CONTRATO POR ESCRITO DE LA SUBCONTRATACIÓN DE SERVICIOS ESPECIALIZADOS O EJECUCIÓN DE OBRAS ESPECIALIZADAS.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "14"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "subcontratacion"
   },
   {
@@ -62,14 +56,12 @@
    "num": "4",
    "texto": "REGISTRO ANTE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DE LAS PERSONAS FÍSICAS O MORALES QUE PROPORCIONEN SERVICIOS DE SUBCONTRATACIÓN.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "15"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "subcontratacion"
   },
   {
@@ -79,14 +71,12 @@
    "num": "5",
    "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR DE LAS PARTES EN EL CONTRATO: NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL; REGISTRO FEDERAL DE CONTRIBUYENTES, DOMICILIO SOCIAL O CONVENCIONAL EN CASO DE SER DISTINTO AL FISCAL, CORREO ELECTRÓNICO Y TELÉFONO DE CONTACTO.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo; Ley del Seguro Social art. 15-A",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "14"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-006",
@@ -95,14 +85,12 @@
    "num": "6",
    "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR EN EL CONTRATO: OBJETO; PERIODO DE VIGENCIA; RELACIÓN DE TRABAJADORES U OTROS SUJETOS QUE PRESTARÁN LOS SERVICIOS ESPECIALIZADOS O EJECUTARÁN LAS OBRAS ESPECIALIZADAS A FAVOR DEL BENEFICIARIO, INDICANDO SU NOMBRE, CURP, NÚMERO DE SEGURIDAD SOCIAL Y SALARIO BASE DE COTIZACIÓN, ASÍ COMO NOMBRE Y REGISTRO FEDERAL DE CONTRIBUYENTES DEL BENEFICIARIO DE LOS SERVICIOS POR CADA UNO DE LOS CONTRATOS.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo; Ley del Seguro Social art. 15-A",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "14"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-007",
@@ -114,11 +102,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "8.3 d)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-008",
@@ -130,11 +116,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-009",
@@ -146,11 +130,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-010",
@@ -162,11 +144,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-011",
@@ -178,11 +158,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-012",
@@ -194,11 +172,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "8.3 d)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-013",
@@ -210,11 +186,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": ""
+    "articulo": "5.1 y 7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-014",
@@ -226,11 +200,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.1 y Apéndice A"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-015",
@@ -242,11 +214,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.11 a)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-016",
@@ -258,11 +228,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-017",
@@ -274,11 +242,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-018",
@@ -290,11 +256,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.8 y 11.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-019",
@@ -306,11 +270,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.7 y 10.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-020",
@@ -322,11 +284,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-021",
@@ -338,11 +298,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.3 y 7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-022",
@@ -354,11 +312,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-023",
@@ -370,11 +326,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.5 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-024",
@@ -386,11 +340,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.4 y 7.5"
    },
-   "refEstado": "categoria",
-   "guia": "Mantenimiento correctivo a sistemas de detección y equipos dañados por personal capacitado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-025",
@@ -402,11 +354,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-026",
@@ -418,11 +368,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.7 y Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-027",
@@ -434,11 +382,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.3 y 7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-028",
@@ -450,11 +396,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "5.8 y Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-029",
@@ -466,11 +410,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-030",
@@ -482,11 +424,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "Programar e impartir la capacitación sobre el manejo seguro y emergencias con sustancias inflamables/explosivas al personal involucrado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-031",
@@ -498,11 +438,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-032",
@@ -514,11 +452,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-033",
@@ -530,11 +466,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "7.2 y 7.3"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-034",
@@ -546,11 +480,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": ""
+    "articulo": "Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-035",
@@ -562,11 +494,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-004-STPS-1999",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el análisis de riesgo actualizado para la totalidad de la maquinaria, equipo y herramientas del centro de trabajo, que identifique peligros (atrapamiento, aplastamiento, corte, proyección, contactos eléctricos, etc.), determine el nivel de riesgo y defina las protecciones, dispositivos de seguridad y EPP requeridos.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-036",
@@ -578,11 +508,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-004-STPS-1999",
-    "articulo": ""
+    "articulo": "5.3 a) y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-037",
@@ -594,11 +522,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-004-STPS-1999",
-    "articulo": ""
+    "articulo": "5.3 b)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-038",
@@ -610,11 +536,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-004-STPS-1999",
-    "articulo": ""
+    "articulo": "5.3 b)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-039",
@@ -626,11 +550,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-004-STPS-1999",
-    "articulo": ""
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-040",
@@ -642,11 +564,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "5.2 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el análisis de riesgo actualizado de todas las sustancias químicas peligrosas que se manejen, transporten o almacenen en la planta, que identifique las propiedades físicas y químicas, los peligros a la salud, reactividad e inflamabilidad, las zonas de riesgo, los sistemas de control y los dispositivos de seguridad aplicables.",
-   "guiaEstado": "usuario",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -659,11 +579,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "5.4 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -676,11 +594,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "Cap. 5 (autorización de actividades peligrosas)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -693,11 +609,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "Cap. 5 (manual de primeros auxilios)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -710,11 +624,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "Cap. 5 (capacitación)"
    },
-   "refEstado": "categoria",
-   "guia": "Constancias de competencias o habilidades laborales (DC-3) de la capacitación continua sobre el Programa Específico de Seguridad e Higiene para el Manejo, Transporte y Almacenamiento de Sustancias Químicas Peligrosas.",
-   "guiaEstado": "usuario",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -727,11 +639,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 9 (transporte)"
    },
-   "refEstado": "categoria",
-   "guia": "Documento que acredite la capacitación del personal que transporta sustancias explosivas.",
-   "guiaEstado": "usuario",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -744,11 +654,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5 y 7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-047",
@@ -760,11 +668,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.1"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar e implementar el Manual General de Procedimientos Operativos y de Seguridad para Maquinaria y Almacenamiento. Este compendio normativo debe integrar: 1) Procedimientos específicos de operación, instalación, revisión (checklists pre-operativos de inicio de turno) y mantenimiento (LOTO y rutinas periódicas) para cada maquinaria de la empresa; 2) Procedimiento de almacenamiento seguro de materiales (estibado, altura máxima, delimitación y pasillos de tránsito); 3) Plan integral de atención a emergencias específicas (atropellamientos, volcamientos, choque contra estructuras/racks, derrame de electrolito o fuga de gas LP); y 4) Evidencias de difusión formal y firma de enterado de dichos procedimientos por parte de todo el personal involucrado (operadores, almaceneros y personal de mantenimiento).",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-048",
@@ -776,11 +682,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar e implementar el Plan Específico de Respuesta a Emergencias en Almacenamiento y Manejo de Materiales. Este expediente debe incluir: los escenarios de riesgo identificados (volcadura de montacargas, colapso de racks, caída de estibas, fuga de gas LP o derrames de químicos/electrolitos); los protocolos paso a paso de actuación inmediata (evacuación del área, acordonamiento, primeros auxilios e interrupción de energías); la estructura de la brigada de emergencia designada y capacitada; la ubicación e inventario del equipo de rescate y contención (botiquines, extintores, lavaojos, kits de derrames y EPP específico); los teléfonos de emergencia externos; y la evidencia del simulacro de evacuación/emergencia específico realizado en las áreas de almacén o maniobras con sus correspondientes constancias y registros de asistencia.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-049",
@@ -792,11 +696,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-050",
@@ -808,11 +710,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.2"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con procedimientos de seguridad por escrito y verificar en campo el cumplimiento de los dispositivos de paro/límite de carrera, marcado de carga máxima de utilización (CMU), estado de cables/cadenas y ganchos con pestillo de seguridad, asegurando que la operación sea realizada exclusivamente por personal autorizado y capacitado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-051",
@@ -824,11 +724,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.3"
    },
-   "refEstado": "categoria",
-   "guia": "Garantizar que todas las eslingas cuenten con su etiqueta visible de Carga Máxima de Utilización (CMU), sean inspeccionadas antes de cada uso y periódicamente, se utilicen protecciones contra aristas filosas y sean retiradas de servicio inmediatamente si presentan daños o deshilachado, por personal capacitado y autorizado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-052",
@@ -840,11 +738,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-053",
@@ -856,11 +752,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-054",
@@ -872,11 +766,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 7 (transportadores)"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con procedimientos de seguridad por escrito y verificar en campo que los transportadores dispongan de paros de emergencia a todo lo largo de la ruta (cables de paro), guardas de protección en puntos de atrapamiento y tambores de retorno, pasarelas de cruce seguro y señalización de prohibición de transitar o montarse sobre ellos, garantizando que el mantenimiento se ejecute bajo bloqueo de energía (LOTO) por personal capacitado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-055",
@@ -888,11 +780,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "Garantizar que las áreas delimitadas para el almacenamiento de materiales (en estantes, racks, estibas o contenedores) cuenten con suelos firmes y nivelados, delimitación de pasillos de tránsito, señalización de cargas máximas, ventilación, iluminación adecuada y orden/limpieza, evitando la obstrucción de equipos de emergencia y vías de evacuación.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-056",
@@ -904,11 +794,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con zonas exclusivas, identificadas y delimitadas para el depósito de materiales, materia prima, producto terminado o residuos, asegurando que no se invadan pasillos de tránsito, zonas de operación de maquinaria, áreas de maniobras ni equipos de emergencia.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-057",
@@ -920,11 +808,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-058",
@@ -936,11 +822,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-059",
@@ -952,11 +836,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-060",
@@ -968,11 +850,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-061",
@@ -984,11 +864,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-062",
@@ -1000,11 +878,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-063",
@@ -1016,11 +892,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-064",
@@ -1032,11 +906,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-065",
@@ -1048,11 +920,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.1 y Cap. 5 (registros)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-066",
@@ -1064,11 +934,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": ""
+    "articulo": "7.1 y Cap. 5 (registros)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-067",
@@ -1080,11 +948,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "5.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1097,11 +963,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (revisión y mantenimiento)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1114,11 +978,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1131,11 +993,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 15"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un plan de atención a emergencias por escrito, específico para los trabajos en altura que se realizan en el centro de trabajo, que incluya los procedimientos de rescate de trabajadores suspendidos o lesionados, la asignación de brigadistas capacitados, el inventario de equipo de rescate y la disponibilidad de medios de alerta y comunicación.",
-   "guiaEstado": "usuario",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1148,11 +1008,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (contratistas)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1165,11 +1023,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "trabajos_altura"
   },
   {
@@ -1182,11 +1038,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-074",
@@ -1198,11 +1052,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "Presentar minutas o listas de asistencia firmadas de pláticas de inducción/difusión donde conste el temario de \"Comunicación de Riesgos e Interpretación de la Matriz de EPP\", respaldadas con la evidencia de infografías o periódicos murales con el análisis de riesgos colocados en el área de trabajo.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-075",
@@ -1214,11 +1066,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.5.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-076",
@@ -1230,11 +1080,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-077",
@@ -1246,11 +1094,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar e implementar la Matriz General de Identificación de Peligros y Evaluación de Riesgos por Área y Puesto (IPERC). Este expediente a entregar a la STPS debe incluir: 1) La metodología utilizada para la evaluación de riesgos; 2) El catálogo descriptivo de todos los puestos de trabajo y áreas de la planta; 3) La matriz donde se detallen las actividades rutinas y no rutinarias, el peligro identificado, el riesgo asociado, la probabilidad/severidad y el control operativo existente (incluyendo EPP); 4) La evidencia de la última actualización (historial de revisiones firmadas por el responsable de SST y la gerencia); y 5) La firma de validación de la Comisión de Seguridad e Higiene o del Responsable de Seguridad del centro de trabajo.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-078",
@@ -1262,11 +1108,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-079",
@@ -1278,11 +1122,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-017-STPS-2008",
-    "articulo": ""
+    "articulo": "5.6 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-080",
@@ -1294,11 +1136,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1311,11 +1151,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1328,11 +1166,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1345,11 +1181,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.7 y Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1362,11 +1196,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.1 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1379,11 +1211,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1396,11 +1226,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1413,11 +1241,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1430,11 +1256,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": ""
+    "articulo": "6.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1447,11 +1271,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "5.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-090",
@@ -1463,11 +1285,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "5.4 y 7.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-091",
@@ -1479,11 +1299,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "5.5 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-092",
@@ -1495,11 +1313,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-093",
@@ -1511,11 +1327,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-094",
@@ -1527,11 +1341,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "5.6 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-095",
@@ -1543,11 +1355,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "5.10 y Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "Capacitación anual a los integrantes de la CSH conforme al programa elaborado para el ejercicio de sus funciones.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-096",
@@ -1559,11 +1369,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-097",
@@ -1575,11 +1383,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1592,11 +1398,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1609,11 +1413,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1626,11 +1428,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1643,11 +1443,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (capacitación)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1660,11 +1458,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (aviso de equipos categoría III)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1677,11 +1473,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (registros de operación)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "recipientes_presion"
   },
   {
@@ -1694,11 +1488,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 9 (medición)"
    },
-   "refEstado": "categoria",
-   "guia": "Realizar al menos cada 12 meses (o tras modificaciones en el inmueble/proceso) la medición de resistencia a tierra y pruebas de continuidad en todos los puntos de conexión, garantizando valores dentro de norma, utilizando un telurómetro con calibración vigente y por personal/laboratorio competente.",
-   "guiaEstado": "usuario",
+   "refEstado": "por_validar",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1711,11 +1503,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 5 (información)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1728,11 +1518,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 5 (capacitación)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1745,11 +1533,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente",
+   "refEstado": "por_validar",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1762,11 +1548,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": ""
+    "articulo": "5.9 y Cap. 11"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-109",
@@ -1778,11 +1562,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": ""
+    "articulo": "5.4 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-110",
@@ -1794,11 +1576,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": ""
+    "articulo": "5.7"
    },
-   "refEstado": "categoria",
-   "guia": "Demostrar formalmente que el personal expuesto (y la CSH) ha sido informado sobre los riesgos a la salud y a la seguridad derivados de una mala iluminación (fatiga visual, errores operativos, deslumbramiento, efectos estroboscópicos) y sobre las medidas preventivas adoptadas.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-111",
@@ -1810,11 +1590,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-026-STPS-2008",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-112",
@@ -1826,11 +1604,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-026-STPS-2008",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "Demostrar que el centro de trabajo cuenta con un programa de inspección y conservación que garantice que las señales de seguridad y la pintura/rótulos de las tuberías se encuentren limpias, completas, sin decoloración, visibles desde los puntos de trabajo/tránsito y con la leyenda/flecha de flujo legibles en todo momento.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-113",
@@ -1842,11 +1618,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-026-STPS-2008",
-    "articulo": ""
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "Garantizar que todas las señales de seguridad e higiene estén colocadas en lugares visibles, estratégicos y a una altura/ángulo que permita su fácil observación e interpretación por el personal expuesto, asegurando que no se encuentren obstruidas por maquinaria, equipos o estibas, ni su eficacia sea disminuida por la presencia excesiva de avisos ajenos a la prevención de riesgos (anuncios comerciales, administrativos o informativos no de seguridad).",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-114",
@@ -1858,11 +1632,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.2 a)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-115",
@@ -1874,11 +1646,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.2 b)"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el cuadro general de cargas y diagramas unifilares actualizados del centro de trabajo, donde se identifiquen la capacidad nominal, protecciones y cargas conectadas en cada circuito derivado de los tableros de distribución.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-116",
@@ -1890,11 +1660,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un programa escrito con fechas y responsables para inspeccionar, probar y dar mantenimiento al equipo de trabajo, herramientas aisladas (1000 V), pértigas, mantas, guantes dieléctricos y tapetes utilizados en el mantenimiento eléctrico.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-117",
@@ -1906,11 +1674,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Disponer de procedimientos por escrito que regulen la inspección antes de cada uso, almacenamiento en condiciones controladas (libres de humedad, calor o rayos UV), criterios de retiro/descarte y reemplazo inmediato de herramental o equipo aislante deteriorado.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-118",
@@ -1922,11 +1688,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Procedimientos específicos para el EPP dieléctrico (cascos dieléctricos Clase E/G, guantes de hule dieléctrico con protectores de cuero, calzado dieléctrico, careta contra arco eléctrico, ropa de algodón o ignífuga / Arc Flash), elaborados conforme a fichas técnicas de fabricante y la NOM-017-STPS-2008.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-119",
@@ -1938,11 +1702,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar un Plan de Trabajo previo a ejecutar cualquier maniobra o mantenimiento en instalaciones eléctricas (desenergizadas o energizadas), que determine los riesgos potenciales, las medidas de seguridad, el personal autorizado y las secuencias de libranza / LOTO.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-120",
@@ -1954,11 +1716,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar y formalizar un Plan de Trabajo específico antes de ejecutar cualquier actividad de mantenimiento eléctrico (preventivo, correctivo o en instalaciones energizadas/desenergizadas), que integre el Análisis de Seguridad en el Trabajo (AST/APR) identificando los riesgos de choque eléctrico, arco eléctrico, quemaduras, caídas o explosión, y determine las medidas preventivas, el EPP dieléctrico requerido y el procedimiento LOTO a aplicar.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-121",
@@ -1970,11 +1730,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "Elaborar un Plan de Trabajo específico por escrito antes de realizar cualquier actividad de mantenimiento en instalaciones eléctricas (desenergizadas o energizadas), que describa el desarrollo de la secuencia operativa, las medidas de seguridad, el personal autorizado y las firmas de autorización correspondientes.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-122",
@@ -1986,11 +1744,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "5.3 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-123",
@@ -2002,11 +1758,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con procedimientos por escrito que establezcan los criterios técnicos para seleccionar, verificar la compatibilidad de aislamiento según el nivel de tensión (V/kV) y normar el uso correcto de herramientas aisladas (1000 V), pértigas, mantas, tapetes y cubiertas aislantes durante las actividades de mantenimiento eléctrico.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-124",
@@ -2018,11 +1772,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7 (puesta a tierra temporal)"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un procedimiento por escrito que describa el método secuencial y seguro para conectar y desconectar el sistema de puesta a tierra y cortocircuito temporal durante los trabajos de mantenimiento en instalaciones eléctricas desenergizadas, garantizando el uso de pértigas aislantes, EPP adecuado y la verificación previa de ausencia de tensión.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-125",
@@ -2034,11 +1786,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 7 (puesta a tierra temporal)"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un procedimiento escrito que especifique estrictamente que la conexión del sistema de puesta a tierra temporal se realice primero hacia el sistema de tierras de la instalación y, posteriormente, hacia los elementos a proteger (conductores de líneas, electroductos, barras o equipos) mediante el uso exclusivo de pértigas aislantes o dispositivos especiales de maniobra, tras haber comprobado la ausencia de tensión.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-126",
@@ -2050,11 +1800,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 y Cap. 13"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un Plan de Atención a Emergencias por escrito, específico para las actividades de mantenimiento eléctrico, actualizado y accesible en todo momento para el personal ejecutor, brigadistas y personal del área, que incluya procedimientos de rescate de personas electrocutadas o lesionadas, desenergización de emergencia, primeros auxilios (RCP), inventario de equipo de rescate dieléctrico y números de emergencia.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-127",
@@ -2066,11 +1814,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (personal capacitado y autorizado)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-128",
@@ -2082,11 +1828,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (personal capacitado y autorizado)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-129",
@@ -2098,11 +1842,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (botiquín)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-130",
@@ -2114,11 +1856,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (información de riesgos)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-131",
@@ -2130,11 +1870,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": ""
+    "articulo": "Cap. 5 (autorización por escrito)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-132",
@@ -2146,11 +1884,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.3 y Cap. 6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-133",
@@ -2162,11 +1898,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "6.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-134",
@@ -2178,11 +1912,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "6.2 d)"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un diagnóstico escrito que identifique las condiciones físicas o peligrosas, los agentes físicos, químicos y biológicos, los factores de riesgo ergonómico y psicosocial, así como los requerimientos normativos en materia de seguridad y salud aplicables al centro de trabajo.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-135",
@@ -2194,11 +1926,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.4 y 7.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-136",
@@ -2210,11 +1940,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.4 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el documento formal que contenga la relación priorizada de acciones preventivas y correctivas derivadas del Diagnóstico de Seguridad y Salud en el Trabajo, indicando las actividades a realizar, responsables de ejecución, fechas de inicio y término, y el seguimiento a su cumplimiento, actualizado mínimamente cada 12 meses.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-137",
@@ -2226,11 +1954,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.4 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el documento formal que contenga la relación priorizada de acciones preventivas y correctivas derivadas del Diagnóstico de Seguridad y Salud en el Trabajo, indicando las actividades a realizar, responsables de ejecución, fechas de inicio y término, y el seguimiento a su cumplimiento, actualizado mínimamente cada 12 meses.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-138",
@@ -2242,11 +1968,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-139",
@@ -2258,11 +1982,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un procedimiento o protocolo por escrito que faculte al Responsable de SST (y a los supervisores/trabajadores) a tomar medidas inmediatas de mitigación ,incluida la suspensión temporal de actividades o la evacuación de la zona de riesga, al detectar una condición crítica que ponga en peligro inminente la vida, la integridad física o la salud del personal, hasta que se restablezcan las condiciones de seguridad.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-140",
@@ -2274,11 +1996,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con el sistema de documentación operativa (procedimientos estandarizados, instructivos de trabajo, guías técnicas, listas de cotejo y bitácoras de registro) formalmente elaborado, controlado y disponible, que respalde la ejecución efectiva de cada una de las actividades preventivas, correctivas o de respuesta a emergencias contempladas en el Programa o Relación de Acciones de SST.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-141",
@@ -2290,11 +2010,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "5.7"
    },
-   "refEstado": "categoria",
-   "guia": "Demostrar que el Responsable de SST vigila la instauración efectiva del Programa (o Relación de Acciones), evalúa periódicamente que se cumpla con el propósito de prevenir accidentes y enfermedades de trabajo, y realiza las adecuaciones o ajustes necesarios al Diagnóstico, al Programa o a la Relación de Acciones cuando ocurran cambios en los procesos, accidentes laborales, hallazgos de la CSH o modificaciones normativas.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-142",
@@ -2306,11 +2024,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.5"
    },
-   "refEstado": "categoria",
-   "guia": "Demostrar documentalmente que el centro de trabajo notificó formalmente y presentó ante la CSH y los trabajadores el Diagnóstico de Seguridad y Salud (integral o por área) y las metas, acciones y programas preventivos derivados del mismo, conservando los acuses correspondientes.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-143",
@@ -2322,11 +2038,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.7"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con las constancias de competencias o de habilidades laborales (Formatos DC-3 de la STPS) vigentes, que acrediten que el personal designado internamente para realizar funciones de seguridad y salud en el trabajo ha recibido capacitación en la materia (diagnóstico de SST, elaboración de programas, normatividad STPS, identificación de peligros y respuesta a emergencias), impartida por un Agente Capacitador Externo registrado ante la STPS o por un capacitador interno autorizado conforme a un plan registrado (DC-2).",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-144",
@@ -2338,11 +2052,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.6 y 5.8"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con los reportes periódicos (mensuales, trimestrales o semestrales) y registros fehacientes que demuestren el grado de avance, cumplimiento de fechas, atención de hallazgos y cierre de actividades contempladas en el Programa de SST o Relación de Acciones, evaluados y firmados por el Responsable de los Servicios Preventivos de SST.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-145",
@@ -2354,11 +2066,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "4.3 y 4.4"
    },
-   "refEstado": "categoria",
-   "guia": "Garantizar la conservación, resguardo y trazabilidad documental (en formato físico o digital) del Diagnóstico Integral o por Área, el Programa de SST o Relación de Acciones Preventivas y Correctivas, los reportes de seguimiento, los procedimientos operativos, las evidencias de difusión y demás registros generados en cumplimiento con la norma, por un periodo mínimo obligatorio de dos años (24 meses), manteniéndolos disponibles para su consulta ante las autoridades laborales.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-146",
@@ -2370,11 +2080,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": ""
+    "articulo": "5.9"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un sistema de registro formal (físico o digital) donde se documenten periódicamente los resultados cuantitativos y cualitativos del seguimiento al Programa de SST o Relación de Acciones, evaluando el estatus de cumplimiento de las fechas comprometidas, las desviaciones detectadas, la eficacia de los controles implementados y las acciones de replanteamiento requeridas.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-147",
@@ -2386,11 +2094,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.1"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-148",
@@ -2402,11 +2108,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.2"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-149",
@@ -2418,11 +2122,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.3"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-150",
@@ -2434,11 +2136,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.4 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-151",
@@ -2450,11 +2150,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.4 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-152",
@@ -2466,11 +2164,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-153",
@@ -2482,11 +2178,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-154",
@@ -2498,11 +2192,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": ""
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-155",
@@ -2513,12 +2205,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.1 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-156",
@@ -2529,12 +2219,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.1 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-157",
@@ -2545,12 +2233,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.1 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-158",
@@ -2561,12 +2247,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-159",
@@ -2577,12 +2261,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-160",
@@ -2593,12 +2275,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-161",
@@ -2609,12 +2289,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-162",
@@ -2625,12 +2303,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.1 y Cap. 7"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-163",
@@ -2641,12 +2317,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-164",
@@ -2657,12 +2331,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-165",
@@ -2673,12 +2345,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-166",
@@ -2689,12 +2359,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-167",
@@ -2705,12 +2373,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-168",
@@ -2721,12 +2387,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-169",
@@ -2737,12 +2401,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.3 y Cap. 9"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-170",
@@ -2753,12 +2415,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.4"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-171",
@@ -2769,12 +2429,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.5 y Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-172",
@@ -2785,12 +2443,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.5 y Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-173",
@@ -2801,12 +2457,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.5 y Cap. 10"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-174",
@@ -2817,12 +2471,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-175",
@@ -2833,12 +2485,10 @@
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-036-STPS-2018",
-    "articulo": ""
+    "nom": "NOM-036-1-STPS-2018",
+    "articulo": "5.6"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-176",
@@ -2847,14 +2497,12 @@
    "num": "176",
    "texto": "MANTENER EN EL CENTRO DE TRABAJO LOS MEDICAMENTOS, MATERIAL DE CURACIÓN Y EQUIPOS INDISPENSABLES PARA QUE SE BRINDEN OPORTUNAMENTE Y EFICAZMENTE LA ATENCIÓN MÉDICA Y LOS PRIMEROS AUXILIOS, ACORDE CON LOS RIESGOS DE TRABAJO INHERENTES A LAS ACTIVIDADES REALIZADAS.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "504 fracc. I"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-177",
@@ -2863,14 +2511,12 @@
    "num": "177",
    "texto": "CUANDO TENGA A SU SERVICIO MÁS DE CIEN TRABAJADORES, ESTABLECER UNA ENFERMERÍA, DOTADA CON LOS MEDICAMENTOS Y MATERIAL DE CURACIÓN NECESARIOS PARA LA ATENCIÓN MÉDICA Y QUIRÚRGICA DE URGENCIA; DEBIENDO ESTAR ATENDIDA POR PERSONAL COMPETENTE, BAJO LA DIRECCIÓN DE UN MÉDICO CIRUJANO.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo",
     "reglamento": "",
     "nom": "",
-    "articulo": ""
+    "articulo": "504 fracc. II"
    },
-   "refEstado": "categoria",
-   "guia": "Contar con un espacio físico exclusivo destinado a enfermería/consultorio médico dentro del centro de trabajo, equipado con botiquín, medicamentos, material de curación e instrumental para atención médica y quirúrgica de urgencia, operado por personal de enfermería o medicina capacitado y bajo la supervisión directiva de un Médico Cirujano con cédula profesional.",
-   "guiaEstado": "usuario"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-178",
@@ -2879,14 +2525,12 @@
    "num": "178",
    "texto": "ESTABLECER DE ACUERDO CON LAS ACTIVIDADES DEL CENTRO DE TRABAJO SISTEMAS HIGIÉNICOS DE AGUA POTABLE, LAVABOS, REGADERAS, VESTIDORES Y CASILLEROS, ASÍ COMO EXCUSADOS Y MINGITORIOS DOTADOS DE AGUA CORRIENTE, SEPARADOS LOS HOMBRES Y MUJERES Y MARCADOS CON AVISOS O SEÑALES QUE LOS INDIQUEN.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "Ley Federal del Trabajo",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-STPS-2008",
+    "articulo": "132 fracc. XVI y XVII (LFT); 5.4 (NOM)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-179",
@@ -2897,12 +2541,10 @@
    "ref": {
     "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
     "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "nom": "NOM-001-STPS-2008",
+    "articulo": "5.5"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-180",
@@ -2911,14 +2553,12 @@
    "num": "180",
    "texto": "AGUA POTABLE CON DOTACIÓN DE VASOS DESECHABLES.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "ley": "Ley Federal del Trabajo art. 132",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "nom": "NOM-001-STPS-2008",
+    "articulo": "Cap. 5 (servicios al personal)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-181",
@@ -2928,13 +2568,11 @@
    "texto": "PROGRAMA PARA PROMOVER LA SALUD DE LOS TRABAJADORES Y PREVENIR LAS ADICCIONES.",
    "ref": {
     "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "reglamento": "",
-    "nom": "",
-    "articulo": ""
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "nom": "NOM-030-STPS-2009",
+    "articulo": "48 (RFSST); 5.5 (NOM)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-182",
@@ -2943,14 +2581,12 @@
    "num": "182",
    "texto": "AVISO POR ESCRITO O MEDIOS ELECTRÓNICOS A LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL SOBRE LOS ACCIDENTES DE TRABAJO OCURRIDOS EN EL CENTRO LABORAL, DENTRO DE LAS 72 HORAS SIGUIENTES A LA OCURRENCIA DEL MISMO.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "reglamento": "",
+    "ley": "Ley Federal del Trabajo",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
     "nom": "",
-    "articulo": ""
+    "articulo": "504 fracc. V (LFT); 76 (RFSST)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   },
   {
    "id": "STPS-183",
@@ -2959,14 +2595,12 @@
    "num": "183",
    "texto": "SE PRESENTAN LOS AVISOS DE LOS ACCIDENTES DE TRABAJO DEL CENTRO LABORAL DENTRO DE LAS 72 HORAS SIGUIENTES A LA OCURRENCIA DEL MISMO",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "reglamento": "",
+    "ley": "Ley Federal del Trabajo",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
     "nom": "",
-    "articulo": ""
+    "articulo": "504 fracc. V (LFT); 76 (RFSST)"
    },
-   "refEstado": "categoria",
-   "guia": "",
-   "guiaEstado": "pendiente"
+   "refEstado": "por_validar"
   }
  ]
 }
