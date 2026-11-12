@@ -74,3 +74,5 @@ tr.req{cursor:pointer} tr.req:hover td{background:#f3f7fd}
 .nov.alto{border-left-color:var(--no)} .nov.medio{border-left-color:var(--proc)}
 svg text{font:11px system-ui,sans-serif;fill:var(--gris)}
 @media print{.top,.filters,.panel,.overlay,.noprint{display:none!important} body{background:#fff} main{padding:0}}
+
+.cita{margin:.5rem 0;padding:.5rem .8rem;border-left:4px solid var(--rojo);background:#fbf6f5;font-style:italic;white-space:pre-wrap;font-size:.92rem}

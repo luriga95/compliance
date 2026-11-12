@@ -25,3 +25,14 @@ tareas de seguimiento y buzón de novedades legales.
 ## Llevarla a otra empresa
 Copia el repositorio (fork o plantilla), ajusta los catálogos estatales/municipales y publícalo con
 Pages. La empresa nueva elige su propia carpeta, llena el perfil de aplicabilidad y empieza a evaluar.
+
+## Vigilancia legal automática
+`.github/workflows/novedades.yml` ejecuta `scripts/novedades.mjs` los días 1 y 15 de cada mes: consulta el
+Diario Oficial de la Federación, filtra las publicaciones por tema y actualiza `catalogo/novedades.json`.
+La app muestra esas novedades en la pestaña **Novedades** sin intervención manual.
+
+- Para activarla: en GitHub, pestaña **Actions** → habilitar workflows. En Settings → Actions → General →
+  *Workflow permissions* elegir **Read and write permissions**.
+- Para probarla sin esperar: Actions → "Vigilancia legal (DOF)" → **Run workflow**.
+- Los temas vigilados se editan en la lista `TEMAS` de `scripts/novedades.mjs`.
+- Solo cubre publicaciones federales (DOF). Los periódicos oficiales estatales no tienen un servicio equivalente.
