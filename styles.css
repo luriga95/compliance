@@ -76,3 +76,5 @@ svg text{font:11px system-ui,sans-serif;fill:var(--gris)}
 @media print{.top,.filters,.panel,.overlay,.noprint{display:none!important} body{background:#fff} main{padding:0}}
 
 .cita{margin:.5rem 0;padding:.5rem .8rem;border-left:4px solid var(--rojo);background:#fbf6f5;font-style:italic;white-space:pre-wrap;font-size:.92rem}
+.tag.ok{background:#e3f3ea;color:#1f7a4d}
+.cita{max-height:18rem;overflow:auto}

@@ -64,7 +64,7 @@ function reqs() {
 function aplicarEd(r) {
   const e = db.ediciones[r.id];
   if (!e) return r;
-  return Object.assign({}, r, e.ref ? { ref: Object.assign({}, r.ref, e.ref), refEstado: 'usuario' } : {}, { textoLegal: e.textoLegal || r.textoLegal || '' });
+  return Object.assign({}, r, e.ref ? { ref: Object.assign({}, r.ref, e.ref), refEstado: 'validada' } : {}, { textoLegal: e.textoLegal || r.textoLegal || '' });
 }
 const modulos = () => {
   const ms = catalogos.map(m => ({ id: m.id, nombre: m.nombre, nombre_en: m.nombre_en || m.nombre }));
@@ -75,6 +75,7 @@ const mN = m => lang === 'en' ? m.nombre_en : m.nombre;
 const est = id => (db.estados[id] && db.estados[id].estatus) || 'sin_evaluar';
 const evDe = id => db.evidencias.filter(e => e.reqId === id);
 const refTxt = r => [r.ref.nom, r.ref.ley, r.ref.reglamento, r.ref.articulo && ('Art./numeral ' + r.ref.articulo)].filter(Boolean).join(' · ');
+const POR_VALIDAR = ['por_validar', 'pendiente', 'categoria', 'guia'];
 const vencida = t => t.estado !== 'cerrada' && t.vence && t.vence < hoy();
 
 function resumen(lista) {
@@ -259,7 +260,7 @@ function informe() {
   const hallazgo = (r, i) => { const s = db.estados[r.id] || {}, ts = tareasDe(r.id);
     return `<h3>${L('Hallazgo', 'Finding')} ${i + 1} – ${esc(r.id)}</h3>
     <p><b>${L('Requisito', 'Requirement')}:</b> ${esc(r.texto)}</p>
-    <p><b>${L('Referencia normativa', 'Legal reference')}:</b> ${esc(refTxt(r)) || '—'}${r.refEstado !== 'usuario' ? ` <i>(${L('cita por validar', 'citation pending validation')})</i>` : ''}</p>
+    <p><b>${L('Referencia normativa', 'Legal reference')}:</b> ${esc(refTxt(r)) || '—'}${POR_VALIDAR.includes(r.refEstado) ? ` <i>(${L('cita por validar', 'citation pending validation')})</i>` : ''}</p>
     ${r.textoLegal ? `<p style="margin-left:18pt;border-left:3px solid #28508E;padding-left:8pt"><i>${esc(r.textoLegal)}</i></p>` : ''}
     <p><b>${L('Situación registrada', 'Recorded situation')}:</b> ${esc(s.nota) || L('Sin observación capturada.', 'No observation recorded.')} (${L('última evaluación', 'last assessed')}: ${esc(s.fecha || '—')})</p>
     <p><b>${L('Evidencia registrada', 'Evidence on file')}:</b> ${evDe(r.id).map(v => esc(v.nombre)).join('; ') || L('Ninguna', 'None')}</p>
@@ -303,7 +304,7 @@ function informe() {
 function vRequisitos() {
   const f = filtros, q = f.q.toLowerCase();
   const lista = reqs().filter(r => (!f.modulo || r.modulo === f.modulo) && (!f.estatus || est(r.id) === f.estatus) &&
-    (!f.sinEv || !evDe(r.id).length) && (!f.porVal || r.refEstado !== 'usuario') && (!q || (r.texto + ' ' + r.categoria + ' ' + refTxt(r) + ' ' + r.id).toLowerCase().includes(q)));
+    (!f.sinEv || !evDe(r.id).length) && (!f.porVal || POR_VALIDAR.includes(r.refEstado)) && (!q || (r.texto + ' ' + r.categoria + ' ' + refTxt(r) + ' ' + r.id).toLowerCase().includes(q)));
   let html = `<div class="filters">
     <input type="search" id="fq" placeholder="${L('Buscar requisito, NOM, artículo…', 'Search requirement, NOM, article…')}" value="${esc(f.q)}">
     <select id="fm"><option value="">${L('Todos los módulos', 'All modules')}</option>${modulos().map(m => `<option value="${esc(m.id)}" ${f.modulo === m.id ? 'selected' : ''}>${esc(mN(m))}</option>`).join('')}</select>
@@ -344,7 +345,12 @@ function adjuntar(ruta, cb) { // ruta de carpeta: ['evidencia', id]
 function abrirPanel(id) {
   const r = reqs().find(x => x.id === id); if (!r) return;
   const e = db.estados[id] || { estatus: 'sin_evaluar', nota: '' };
-  const tag = s => s === 'por_validar' || s === 'categoria' ? `<span class="tag warn">${L('por validar', 'to validate')}</span>` : s === 'pendiente' ? `<span class="tag warn">${L('pendiente', 'pending')}</span>` : `<span class="tag">${L('validada', 'validated')}</span>`;
+  const tag = s => ({ por_validar: `<span class="tag warn">${L('por validar', 'to validate')}</span>`, categoria: `<span class="tag warn">${L('por validar', 'to validate')}</span>`, pendiente: `<span class="tag warn">${L('pendiente', 'pending')}</span>`,
+    guia: `<span class="tag warn">${L('numeral según Guía STPS, por validar', 'clause per STPS guide, to validate')}</span>`, texto: `<span class="tag ok">${L('verificada con texto oficial', 'verified against official text')}</span>`,
+    numeral: `<span class="tag ok">${L('numeral verificado en la norma oficial', 'clause verified in the official standard')}</span>`,
+    usuario: `<span class="tag">${L('de la matriz original', 'from the original matrix')}</span>` }[s] || `<span class="tag ok">${L('validada', 'validated')}</span>`);
+  const enl = Object.assign({}, ...catalogos.map(m => m.enlaces || {}));
+  const oficial = urlSegura((r.ref.nom || '').split(';').map(x => enl[x.trim()]).find(Boolean));
   const busca = 'https://www.google.com/search?q=' + encodeURIComponent([r.ref.nom || r.ref.ley || r.ref.reglamento, r.ref.articulo, 'texto vigente DOF'].filter(Boolean).join(' '));
   mostrarPanel(`
   <div style="display:flex;justify-content:space-between;gap:1rem"><h2>${esc(r.id)}</h2><button id="pCerrar">${L('Cerrar', 'Close')} ✕</button></div>
@@ -353,7 +359,7 @@ function abrirPanel(id) {
   <section><h3>${L('Referencia normativa', 'Legal reference')} ${tag(r.refEstado)}</h3>
     <div class="refbox">${esc(refTxt(r)) || L('Sin referencia capturada.', 'No reference recorded.')}</div>
     ${r.textoLegal ? `<blockquote class="cita">${esc(r.textoLegal)}</blockquote>` : `<p class="muted">${L('Texto de la disposición aún no capturado.', 'Text of the provision not captured yet.')}</p>`}
-    <p><a href="${esc(busca)}" target="_blank" rel="noopener">${L('Buscar el texto oficial vigente', 'Search the current official text')} ↗</a></p>
+    <p>${oficial ? `<a href="${esc(oficial)}" target="_blank" rel="noopener">${L('Abrir la norma oficial (PDF de la STPS)', 'Open the official standard (STPS PDF)')} ↗</a> · ` : ''}<a href="${esc(busca)}" target="_blank" rel="noopener">${L('Buscar el texto oficial vigente', 'Search the current official text')} ↗</a></p>
     <details><summary class="muted">${L('Editar referencia y texto citado', 'Edit reference and quoted text')}</summary><div class="row">
       <div><label>NOM</label><input id="rNom" value="${esc(r.ref.nom)}"></div><div><label>${L('Ley', 'Law')}</label><input id="rLey" value="${esc(r.ref.ley)}"></div>
       <div><label>${L('Reglamento', 'Regulation')}</label><input id="rReg" value="${esc(r.ref.reglamento)}"></div><div><label>${L('Artículo / numeral', 'Article / clause')}</label><input id="rArt" value="${esc(r.ref.articulo)}"></div></div>
@@ -481,6 +487,9 @@ function vConfig() {
     <div class="row"><div><label>${L('NOM / Ley', 'NOM / Law')}</label><input id="nNom"></div><div><label>${L('Artículo / numeral', 'Article / clause')}</label><input id="nArt"></div></div>
     <button id="nAdd" class="primary" style="margin-top:.6rem">${L('Agregar requisito', 'Add requirement')}</button>
     <p class="muted">${L('Catálogo cargado', 'Loaded catalog')}: ${catalogos.map(m => `${esc(mN(m))} (${m.requisitos.length})`).join(' · ')} · ${L('propios', 'custom')}: ${db.reqsPropios.length}</p></div>
+  <div class="card" style="grid-column:1/-1"><h2>${L('Fuentes normativas del catálogo', 'Legal sources of the catalog')}</h2>
+    <p class="muted">${L('Versiones de las leyes, reglamentos y normas de donde se extrajo el texto citado. Si una se reforma, hay que actualizar el catálogo.', 'Versions of the laws, regulations and standards from which the quoted text was extracted. If one is amended, the catalog must be updated.')}</p>
+    ${catalogos.map(m => `<p><b>${esc(mN(m))}</b> (v${esc(m.version || '')}): ${(m.fuentes || []).map(esc).join(' · ') || '—'}</p>`).join('')}</div>
   </div>`;
   $('#cCarpeta').onclick = elegirCarpeta;
   $('#cUsuario').onchange = ev => localStorage.setItem('usuario', ev.target.value.trim());

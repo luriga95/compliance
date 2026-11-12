@@ -4,7 +4,7 @@
  "nombre_en": "Civil Protection (state)",
  "autoridad": "Coordinación Estatal de Protección Civil",
  "ambito": "estatal:Aguascalientes",
- "version": "2026-11-12",
+ "version": "2026-11-12-v4",
  "requisitos": [
   {
    "id": "PC-001",
@@ -18,7 +18,8 @@
     "nom": "",
     "articulo": "5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 5: Los administradores, encargados, gerentes, poseedores, arrendatarios o propietarios de inmuebles e instalaciones fijas y móviles que por su uso y destino reciban una afluencia de personas, están obligados a elaborar y cumplir con un Programa Interno de Protección Civil, donde regularán las acciones de prevención y organizarán su Unidad Interna de Protección Civil. El programa debe ser elaborado e implementado con base en la guía técnica correspondiente y actualizado con apego a lo señalado por la Secretaría de Gobernación. Para la elaboración, actualización, operación, supervisión y vigilancia del Programa Interno de Protección Civil, la unidad interna de protección civil podrá ser asesorada tanto por las Coordinaciones de Protección Civil como por un tercero acreditado con registro vigente, estando este último obligado a emitir la carta de corresponsabilidad. […]"
   },
   {
    "id": "PC-002",
@@ -32,7 +33,8 @@
     "nom": "",
     "articulo": "5, 8-III, 42 y 67"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 5: Los administradores, encargados, gerentes, poseedores, arrendatarios o propietarios de inmuebles e instalaciones fijas y móviles que por su uso y destino reciban una afluencia de personas, están obligados a elaborar y cumplir con un Programa Interno de Protección Civil, donde regularán las acciones de prevención y organizarán su Unidad Interna de Protección Civil. El programa debe ser elaborado e implementado con base en la guía técnica correspondiente y actualizado con apego a lo señalado por la Secretaría de Gobernación. Para la elaboración, actualización, operación, supervisión y vigilancia del Programa Interno de Protección Civil, la unidad interna de protección civil podrá ser asesorada tanto por las Coordinaciones de Protección Civil como por un tercero acreditado con registro vigente, estando este último obligado a emitir la carta de corresponsabilidad. […]\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 8, fracción III: Es obligación de las instituciones y entidades del sector público, privado y social, en los casos que se determinen por la Coordinación: III. Implementar la Unidad Interna de Protección Civil; y\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 42: Las dependencias, entidades y organismos de la Administración Pública Estatal y de los Municipios, así como de los sectores privado y social, integrarán a su estructura orgánica Unidades Internas de Protección Civil y adoptarán las medidas encaminadas a instrumentar en el ámbito de sus respectivas funciones, la ejecución de los programas internos de protección civil. Con la finalidad de iniciar las actividades de auxilio en caso de emergencia, la primera autoridad que tome conocimiento de ésta, deberá proceder a la inmediata prestación de ayuda e informar tan pronto como sea posible a las instancias especializadas de protección civil. La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada institución pública o privada, así como a la autoridad municipal que conozca de la situación de emergencia.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 67: Las entidades del sector público, privado o social, deberán contar con una Unidad Interna de Protección Civil conforme a lo establecido en el Reglamento de la presente Ley, misma que deberá enlazarse y coordinarse con organismos e instituciones intersectoriales, y en su caso internacionales, a nivel municipal, estatal y federal."
   },
   {
    "id": "PC-003",
@@ -46,7 +48,8 @@
     "nom": "",
     "articulo": "69 y 70"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 69: Todo ente público, privado o social tiene obligación de presentar anualmente ante las Coordinaciones de Protección Civil la conformación de su Unidad Interna de Protección Civil y su programa interno, para su debido análisis y en su caso aprobación.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 70: La dependencia receptora de los documentos señalados en el Artículo anterior deberá emitir la aprobación, aceptación o negativa de la conformación de la Unidad Interna y del contenido del Programa Interno dentro de un término de 60 días naturales. En caso de que el dictamen sea negativo, se le notificará y se le devolverá el documento correspondiente al promovente para su debida corrección misma que deberá realizar y presentar de nueva cuenta a las Coordinaciones de Protección Civil correspondiente en un término de 10 días; en el supuesto de que se analice y se dé un dictamen en sentido negativo, se procederá a sancionar al promovente, de acuerdo con el Capítulo respectivo de la presente Ley."
   },
   {
    "id": "PC-004",
@@ -60,7 +63,8 @@
     "nom": "",
     "articulo": "5, 109 y 110"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 5: Los administradores, encargados, gerentes, poseedores, arrendatarios o propietarios de inmuebles e instalaciones fijas y móviles que por su uso y destino reciban una afluencia de personas, están obligados a elaborar y cumplir con un Programa Interno de Protección Civil, donde regularán las acciones de prevención y organizarán su Unidad Interna de Protección Civil. El programa debe ser elaborado e implementado con base en la guía técnica correspondiente y actualizado con apego a lo señalado por la Secretaría de Gobernación. Para la elaboración, actualización, operación, supervisión y vigilancia del Programa Interno de Protección Civil, la unidad interna de protección civil podrá ser asesorada tanto por las Coordinaciones de Protección Civil como por un tercero acreditado con registro vigente, estando este último obligado a emitir la carta de corresponsabilidad. […]\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 109: Para que los particulares, dependencias públicas, organizaciones civiles, empresas capacitadoras e instructores independientes, así como las empresas de consultoría, y quienes realicen Programas de Protección Civil, puedan ejercer la actividad de asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de riesgos y vulnerabilidad en materia de protección civil, deberán de contar con su registro ante la Coordinación, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en la materia y en la elaboración de Programas Internos, así como los medios técnicos mediante los cuales se realizan los estudios de riesgo y los cursos de capacitación, acompañados de los documentos que acrediten tales supuestos, su personalidad jurídica y conocimientos académicos.\n\n[…]"
   },
   {
    "id": "PC-005",
@@ -74,7 +78,8 @@
     "nom": "",
     "articulo": "5 y 70"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 5: Los administradores, encargados, gerentes, poseedores, arrendatarios o propietarios de inmuebles e instalaciones fijas y móviles que por su uso y destino reciban una afluencia de personas, están obligados a elaborar y cumplir con un Programa Interno de Protección Civil, donde regularán las acciones de prevención y organizarán su Unidad Interna de Protección Civil. El programa debe ser elaborado e implementado con base en la guía técnica correspondiente y actualizado con apego a lo señalado por la Secretaría de Gobernación. Para la elaboración, actualización, operación, supervisión y vigilancia del Programa Interno de Protección Civil, la unidad interna de protección civil podrá ser asesorada tanto por las Coordinaciones de Protección Civil como por un tercero acreditado con registro vigente, estando este último obligado a emitir la carta de corresponsabilidad. […]\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 70: La dependencia receptora de los documentos señalados en el Artículo anterior deberá emitir la aprobación, aceptación o negativa de la conformación de la Unidad Interna y del contenido del Programa Interno dentro de un término de 60 días naturales. En caso de que el dictamen sea negativo, se le notificará y se le devolverá el documento correspondiente al promovente para su debida corrección misma que deberá realizar y presentar de nueva cuenta a las Coordinaciones de Protección Civil correspondiente en un término de 10 días; en el supuesto de que se analice y se dé un dictamen en sentido negativo, se procederá a sancionar al promovente, de acuerdo con el Capítulo respectivo de la presente Ley."
   },
   {
    "id": "PC-006",
@@ -88,7 +93,8 @@
     "nom": "",
     "articulo": "68"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 68: La Unidad Interna de Protección Civil deberá mantener informados a los habitantes aledaños, respecto de su propia seguridad y protección, pudiendo ser por medio de actividades como pláticas, simulacros o informes, entre otras."
   },
   {
    "id": "PC-007",
@@ -102,7 +108,8 @@
     "nom": "",
     "articulo": "14 y 81"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 14: Toda persona física o moral deberá: I. Informar a las autoridades competentes de cualquier riesgo, siniestro o desastre que se presente, así como de las que puedan presentarse; II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre; III. Colaborar con las autoridades estatales, municipales y organismos intermedios para el debido cumplimiento de los programas de protección civil; y IV. Participar en las capacitaciones y simulacros que establezcan las autoridades competentes; así como promover la realización de los mismos, para beneficio de sus trabajadores.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 81: Los propietarios o administradores de los edificios, empresas o fábricas fomentarán la cultura de protección civil, para lo cual deberán informar a sus empleados o inquilinos sobre los programas aplicables al tipo de inmueble de que se trate."
   },
   {
    "id": "PC-008",
@@ -116,7 +123,8 @@
     "nom": "",
     "articulo": "92"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 92: Los simulacros deberán realizarse por lo menos dos veces al año, de acuerdo al atlas de riesgo que corresponda a las centros de población, mismos que serán supervisados por las Coordinaciones de Protección Civil, o en su caso por las personas señaladas en el Artículo 109 de la presente Ley. Las prácticas contra incendio, se realizarán cuando menos una vez al año, debiendo contar con la autorización de la Secretaría del Medio Ambiente del Estado o la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio que según corresponda. Los servidores públicos deberán de abstenerse de impedir, obstaculizar o entorpecer el cumplimiento del contenido de este Artículo, por razones de carga de trabajo y/o por cualquier otra causa."
   },
   {
    "id": "PC-009",
@@ -130,7 +138,8 @@
     "nom": "",
     "articulo": "90"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 90: Los simulacros serán dirigidos y llevados a cabo por las Coordinaciones de Protección Civil o en su caso por personal registrado, avalado y autorizado oficialmente por la Coordinación. Para tal efecto, el particular interesado o el personal registrado deberá de solicitar por escrito, por lo menos con dos semanas de anticipación, la presencia de las autoridades en el mismo."
   },
   {
    "id": "PC-010",
@@ -144,7 +153,8 @@
     "nom": "",
     "articulo": "91"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 91: Las personas a que se refiere el Artículo anterior, deberán de llevar una bitácora con la relación y registro de todas las acciones que realizan, misma que será entregada a las Coordinaciones de Protección Civil dentro de la actualización de los Programas Internos que elaboren."
   },
   {
    "id": "PC-011",
@@ -158,7 +168,8 @@
     "nom": "",
     "articulo": "92 y 93"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 92: Los simulacros deberán realizarse por lo menos dos veces al año, de acuerdo al atlas de riesgo que corresponda a las centros de población, mismos que serán supervisados por las Coordinaciones de Protección Civil, o en su caso por las personas señaladas en el Artículo 109 de la presente Ley. Las prácticas contra incendio, se realizarán cuando menos una vez al año, debiendo contar con la autorización de la Secretaría del Medio Ambiente del Estado o la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio que según corresponda. Los servidores públicos deberán de abstenerse de impedir, obstaculizar o entorpecer el cumplimiento del contenido de este Artículo, por razones de carga de trabajo y/o por cualquier otra causa.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 93: Para llevar a cabo prácticas contra incendios, se requiere por parte de las empresas, dependencias, entidades, industrias, o comercios que pretendan realizarlo, que cuenten con todos los dispositivos de seguridad, para la protección de la vida y los bienes de las personas. El personal registrado que lleve a cabo prácticas contra incendios emitirá su constancia de participación a los capacitados, en dicha constancia deberá aparecer el registro ante la Coordinación."
   },
   {
    "id": "PC-012",
@@ -172,7 +183,8 @@
     "nom": "",
     "articulo": "94 y 95"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 94: Las brigadas de Protección Civil estarán conformadas por el personal capacitado y adiestrado que labore en ellas, lo anterior conforme a las Normas Oficiales correspondientes y las demás disposiciones aplicables.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 95: Todas las brigadas que conforman la Unidad Interna de Protección Civil en un inmueble, deberán de tomar cursos de acuerdo a la especialización de cada una de ellas, asimismo, dicha brigada será capacitada acerca de los diferentes tipos de discapacidad, sus características, las técnicas de apoyo, momento oportuno de Evacuación y medidas de alertamiento, los cuales serán impartidos por las Coordinaciones de Protección Civil, el Departamento de Bomberos Estatal o Municipales, así como por capacitadores debidamente registrados ante la Coordinación. En la elaboración de los Programas Internos, además de lo establecido en los Términos de Referencia y las Normas Técnicas, se tomarán en cuenta las medidas para que las personas con discapacidad sean capacitadas para su autoprotección."
   },
   {
    "id": "PC-013",
@@ -186,7 +198,8 @@
     "nom": "",
     "articulo": "96"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 96: Las brigadas de Protección Civil, deberán contar con el equipo adecuado y necesario para su objetivo."
   },
   {
    "id": "PC-014",
@@ -200,7 +213,8 @@
     "nom": "",
     "articulo": "8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 8: Es obligación de las instituciones y entidades del sector público, privado y social, en los casos que se determinen por la Coordinación: I. Garantizar la capacitación teórica y práctica a su personal en materia de protección civil; II. Atender las demandas propias de capacitación en materia de prevención; III. Implementar la Unidad Interna de Protección Civil; y IV. Coadyuvar para que las acciones de protección civil se realicen en forma coordinada y eficaz."
   },
   {
    "id": "PC-015",
@@ -214,7 +228,8 @@
     "nom": "",
     "articulo": "7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 7: En todos los inmuebles, excepto casas habitación unifamiliares, se debe colocar en lugares visibles, señalización adecuada en materia de protección civil de acuerdo a las Normas Oficiales, así como dar a conocer instructivos sobre qué hacer en casos de emergencia, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre. Se considera señalización adecuada en materia de protección civil lo relativo a las rutas de evacuación, salidas de emergencia, zonas de seguridad, puntos de reunión, señalamientos informativos, de precaución, prohibitivo y de obligación así como instructivos para qué hacer en casos de emergencia en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre. […]"
   },
   {
    "id": "PC-016",
@@ -228,7 +243,8 @@
     "nom": "",
     "articulo": "97"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 97: Todas las instituciones y entidades públicas, sociales o privadas, deberán estar provistas de suficiente número de extintores dentro de sus instalaciones de acuerdo a lo establecido en el Reglamento de esta Ley y demás legislación federal y estatal relativa a esta materia, y conforme a lo que las Coordinaciones de Protección Civil determinen con base en la seguridad de tales instituciones."
   },
   {
    "id": "PC-017",
@@ -242,7 +258,8 @@
     "nom": "",
     "articulo": "98"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 98: Todas aquellas empresas, dependencias e inmuebles públicos, sociales o privados, deberán de estar provistos de sistemas automáticos contra incendios, equipos de seguridad y equipos de protección personal, según lo que establece esta Ley y las demás disposiciones legales aplicables."
   },
   {
    "id": "PC-018",
@@ -256,7 +273,8 @@
     "nom": "",
     "articulo": "99"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 99: Los equipos contra incendios deberán de estar en óptimas condiciones para su uso, con base en un adecuado mantenimiento preventivo y de conservación, de conformidad con las Normas Oficiales aplicables en la materia."
   },
   {
    "id": "PC-019",
@@ -270,7 +288,8 @@
     "nom": "",
     "articulo": "102 y 103"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 102: La frecuencia con la que reciban mantenimientos los extintores nunca podrá ser mayor de un año.\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 103: La recarga de los extintores se deberá efectuar, después de cada uso de los mismos, durante una visita de inspección o verificación que ordene su descarga o según los simulacros de práctica contra incendios, o en la fecha que indique la etiqueta de la última recarga."
   },
   {
    "id": "PC-020",
@@ -284,7 +303,8 @@
     "nom": "",
     "articulo": "105"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 105: A todos los extintores portátiles deberá practicárseles la prueba hidrostática por lo menos cada cinco años, debiendo llevarse una bitácora de los extintores por las empresas dedicadas a dicha función, a fin de vigilar el cumplimiento de esta obligación."
   },
   {
    "id": "PC-021",
@@ -298,7 +318,8 @@
     "nom": "",
     "articulo": "108"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 108: Todos los extintores que se encuentren dentro de los límites del Estado de Aguascalientes, solamente podrán ser recargados por las personas físicas o morales que reúnan y cumplan con los requisitos que establece el Reglamento y los que determine la Coordinación conforme a esta Ley, mismas que deberán encontrarse legalmente establecidas en el Estado para su operación."
   },
   {
    "id": "PC-022",
@@ -312,8 +333,9 @@
     "nom": "",
     "articulo": "66"
    },
-   "refEstado": "por_validar",
-   "condicion": "sustancias_quimicas"
+   "refEstado": "texto",
+   "condicion": "sustancias_quimicas",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 66: Toda empresa, industria o comercio que sea considerada por sus procesos o almacenamiento de sustancias o materiales peligrosos de alto riesgo, que se encuentre dentro o cerca de áreas naturales protegidas o recursos de la biósfera; que se dediquen a la generación, manejo, transporte y disposición final de materiales o residuos peligrosos para el medio ambiente o los ecosistemas; o bien, cerca de lugares susceptibles a desastres naturales o dentro de áreas donde se realicen actividades o acciones de alto riesgo; […]"
   },
   {
    "id": "PC-023",
@@ -327,8 +349,9 @@
     "nom": "",
     "articulo": "75"
    },
-   "refEstado": "por_validar",
-   "condicion": "sustancias_quimicas"
+   "refEstado": "texto",
+   "condicion": "sustancias_quimicas",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 75: La Coordinación, con base en los acuerdos que celebre con las dependencias federales competentes, llevará un control sobre las empresas que, dentro del territorio del Estado, realicen actividades con materiales peligrosos, con el fin de verificar que operen las unidades internas, para coordinar las acciones de prevención y rescate."
   },
   {
    "id": "PC-024",
@@ -342,7 +365,8 @@
     "nom": "",
     "articulo": "14"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 14: Toda persona física o moral deberá: I. Informar a las autoridades competentes de cualquier riesgo, siniestro o desastre que se presente, así como de las que puedan presentarse; II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre; III. Colaborar con las autoridades estatales, municipales y organismos intermedios para el debido cumplimiento de los programas de protección civil; y IV. Participar en las capacitaciones y simulacros que establezcan las autoridades competentes; así como promover la realización de los mismos, para beneficio de sus trabajadores."
   },
   {
    "id": "PC-025",
@@ -356,7 +380,11 @@
     "nom": "",
     "articulo": "36 fracc. XIII, XV y XVI"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley de Protección Civil para el Estado de Aguascalientes, artículo 36, fracción XIII: Compete a la Coordinación, ejecutar las acciones y programas de prevención, auxilio y recuperación o restablecimiento, desarrollando las siguientes funciones: XIII. En el ámbito de su competencia practicar inspecciones a fin de vigilar el cumplimiento de las disposiciones estatales en materia de protección civil;\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 36, fracción XV: Compete a la Coordinación, ejecutar las acciones y programas de prevención, auxilio y recuperación o restablecimiento, desarrollando las siguientes funciones: XV. Solicitar a los interesados los documentos necesarios, así como dictámenes de las instalaciones eléctricas, estructurales, de gas licuado de petróleo, red contra incendios, con la finalidad de emitir las resoluciones correspondientes en materia de protección civil;\n\nLey de Protección Civil para el Estado de Aguascalientes, artículo 36, fracción XVI: Compete a la Coordinación, ejecutar las acciones y programas de prevención, auxilio y recuperación o restablecimiento, desarrollando las siguientes funciones: XVI. Instaurar los procedimientos e imponer las sanciones administrativas establecidas en la presente ley, por medio de su titular; y"
   }
+ ],
+ "fuentes": [
+  "Ley de Protección Civil para el Estado de Aguascalientes (última reforma P.O. 18-05-2026)"
  ]
 }

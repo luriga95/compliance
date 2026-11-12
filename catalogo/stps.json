@@ -4,7 +4,7 @@
  "nombre_en": "STPS Inspection",
  "autoridad": "STPS",
  "ambito": "federal",
- "version": "2026-11-12",
+ "version": "2026-11-12-v5",
  "requisitos": [
   {
    "id": "STPS-001",
@@ -18,7 +18,8 @@
     "nom": "",
     "articulo": "15 fracc. I"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley del Seguro Social, artículo 15, fracción I: Las personas empleadoras están obligadas a: I. Registrarse e inscribir a sus trabajadores en el Instituto, comunicar sus altas y bajas, las modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días hábiles;"
   },
   {
    "id": "STPS-002",
@@ -27,12 +28,13 @@
    "num": "2",
    "texto": "INSCRIPCIÓN DE LOS TRABAJADORES CONTRATADOS EN RÉGIMEN DE SUBCONTRATACIÓN DE SERVICIOS ESPECIALIZADOS O DE EJECUCIÓN DE OBRAS ESPECIALIZADAS AL INSTITUTO MEXICANO DEL SEGURO SOCIAL.",
    "ref": {
-    "ley": "Ley del Seguro Social; Ley Federal del Trabajo art. 15",
+    "ley": "Ley del Seguro Social",
     "reglamento": "",
     "nom": "",
-    "articulo": "15 fracc. I y 15-A"
+    "articulo": "15 fracc. I; 15 A"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley del Seguro Social, artículo 15, fracción I: Las personas empleadoras están obligadas a: I. Registrarse e inscribir a sus trabajadores en el Instituto, comunicar sus altas y bajas, las modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días hábiles;\n\nLey del Seguro Social, artículo 15 A: La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo. La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones. La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente: I. De las partes en el contrato: Nombre, denominación o razón social; […]"
   },
   {
    "id": "STPS-003",
@@ -46,8 +48,9 @@
     "nom": "",
     "articulo": "14"
    },
-   "refEstado": "por_validar",
-   "condicion": "subcontratacion"
+   "refEstado": "texto",
+   "condicion": "subcontratacion",
+   "textoLegal": "Ley Federal del Trabajo, artículo 14: La subcontratación de servicios especializados o de ejecución de obras especializadas deberá formalizarse mediante contrato por escrito en el que se señale el objeto de los servicios a proporcionar o las obras a ejecutar, así como el número aproximado de trabajadores que participarán en el cumplimiento de dicho contrato. La persona física o moral que subcontrate servicios especializados o la ejecución de obras especializadas con una contratista que incumpla con las obligaciones que deriven de las relaciones con sus trabajadores, será responsable solidaria en relación con los trabajadores utilizados para dichas contrataciones."
   },
   {
    "id": "STPS-004",
@@ -61,8 +64,9 @@
     "nom": "",
     "articulo": "15"
    },
-   "refEstado": "por_validar",
-   "condicion": "subcontratacion"
+   "refEstado": "texto",
+   "condicion": "subcontratacion",
+   "textoLegal": "Ley Federal del Trabajo, artículo 15: Las personas físicas o morales que proporcionen los servicios de subcontratación, deberán contar con registro ante la Secretaría del Trabajo y Previsión Social. Para obtener el registro deberán acreditar estar al corriente de sus obligaciones fiscales y de seguridad social. El registro a que hace mención este artículo deberá ser renovado cada tres años. La Secretaría del Trabajo y Previsión Social deberá pronunciarse respecto de la solicitud de registro dentro de los veinte días posteriores a la recepción de la misma, de no hacerlo, los solicitantes podrán requerirla para que dicte la resolución correspondiente, dentro de los tres días siguientes a la presentación del requerimiento. Transcurrido dicho plazo sin que se notifique la resolución, se tendrá por efectuado el registro para los efectos legales a que dé lugar. […]"
   },
   {
    "id": "STPS-005",
@@ -71,12 +75,13 @@
    "num": "5",
    "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR DE LAS PARTES EN EL CONTRATO: NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL; REGISTRO FEDERAL DE CONTRIBUYENTES, DOMICILIO SOCIAL O CONVENCIONAL EN CASO DE SER DISTINTO AL FISCAL, CORREO ELECTRÓNICO Y TELÉFONO DE CONTACTO.",
    "ref": {
-    "ley": "Ley Federal del Trabajo; Ley del Seguro Social art. 15-A",
+    "ley": "Ley Federal del Trabajo; Ley del Seguro Social",
     "reglamento": "",
     "nom": "",
-    "articulo": "14"
+    "articulo": "14 (LFT); 15 A (LSS)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 14: La subcontratación de servicios especializados o de ejecución de obras especializadas deberá formalizarse mediante contrato por escrito en el que se señale el objeto de los servicios a proporcionar o las obras a ejecutar, así como el número aproximado de trabajadores que participarán en el cumplimiento de dicho contrato. La persona física o moral que subcontrate servicios especializados o la ejecución de obras especializadas con una contratista que incumpla con las obligaciones que deriven de las relaciones con sus trabajadores, será responsable solidaria en relación con los trabajadores utilizados para dichas contrataciones.\n\nLey del Seguro Social, artículo 15 A: La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo. La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones. La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente: I. De las partes en el contrato: Nombre, denominación o razón social; […]"
   },
   {
    "id": "STPS-006",
@@ -85,12 +90,13 @@
    "num": "6",
    "texto": "CONTRATO POR ESCRITO DE LA PERSONA FÍSICA O MORAL QUE PRESTE SERVICIOS ESPECIALIZADOS O EJECUTE OBRAS ESPECIALIZADAS, EL CUAL DEBE CONSIDERAR EN EL CONTRATO: OBJETO; PERIODO DE VIGENCIA; RELACIÓN DE TRABAJADORES U OTROS SUJETOS QUE PRESTARÁN LOS SERVICIOS ESPECIALIZADOS O EJECUTARÁN LAS OBRAS ESPECIALIZADAS A FAVOR DEL BENEFICIARIO, INDICANDO SU NOMBRE, CURP, NÚMERO DE SEGURIDAD SOCIAL Y SALARIO BASE DE COTIZACIÓN, ASÍ COMO NOMBRE Y REGISTRO FEDERAL DE CONTRIBUYENTES DEL BENEFICIARIO DE LOS SERVICIOS POR CADA UNO DE LOS CONTRATOS.",
    "ref": {
-    "ley": "Ley Federal del Trabajo; Ley del Seguro Social art. 15-A",
+    "ley": "Ley Federal del Trabajo; Ley del Seguro Social",
     "reglamento": "",
     "nom": "",
-    "articulo": "14"
+    "articulo": "14 (LFT); 15 A (LSS)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 14: La subcontratación de servicios especializados o de ejecución de obras especializadas deberá formalizarse mediante contrato por escrito en el que se señale el objeto de los servicios a proporcionar o las obras a ejecutar, así como el número aproximado de trabajadores que participarán en el cumplimiento de dicho contrato. La persona física o moral que subcontrate servicios especializados o la ejecución de obras especializadas con una contratista que incumpla con las obligaciones que deriven de las relaciones con sus trabajadores, será responsable solidaria en relación con los trabajadores utilizados para dichas contrataciones.\n\nLey del Seguro Social, artículo 15 A: La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo. La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones. La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente: I. De las partes en el contrato: Nombre, denominación o razón social; […]"
   },
   {
    "id": "STPS-007",
@@ -102,9 +108,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": "8.3 d)"
+    "articulo": "8.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-008",
@@ -116,9 +122,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": "7.1"
+    "articulo": "7.1.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-009",
@@ -132,7 +138,7 @@
     "nom": "NOM-001-STPS-2008",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-010",
@@ -146,7 +152,7 @@
     "nom": "NOM-001-STPS-2008",
     "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-011",
@@ -160,7 +166,7 @@
     "nom": "NOM-001-STPS-2008",
     "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-012",
@@ -172,9 +178,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-001-STPS-2008",
-    "articulo": "8.3 d)"
+    "articulo": "8.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-013",
@@ -184,11 +190,12 @@
    "texto": "PROGRAMA ESPECÍFICO DE MANTENIMIENTO DE LAS INSTALACIONES DEL CENTRO DE TRABAJO Y REGISTROS DE EJECUCIÓN.",
    "ref": {
     "ley": "",
-    "reglamento": "",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
     "nom": "NOM-001-STPS-2008",
-    "articulo": "5.1 y 7.1"
+    "articulo": "18 fracc. VI (RFSST); 5.1 (NOM)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Reglamento Federal de Seguridad y Salud en el Trabajo, artículo 18, fracción VI: En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán: VI. Integrar y aplicar un programa específico para el mantenimiento de las instalaciones del Centro de Trabajo;"
   },
   {
    "id": "STPS-014",
@@ -202,7 +209,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "5.1 y Apéndice A"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-015",
@@ -214,9 +221,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "5.11 a)"
+    "articulo": "5.11"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-016",
@@ -230,7 +237,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "7.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-017",
@@ -242,9 +249,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.6"
+    "articulo": "7.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-018",
@@ -256,9 +263,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "5.8 y 11.1"
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-019",
@@ -270,9 +277,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "5.7 y 10.1"
+    "articulo": "5.7 y 10.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-020",
@@ -286,7 +293,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-021",
@@ -300,7 +307,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "5.3 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-022",
@@ -314,7 +321,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-023",
@@ -328,7 +335,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "5.5 y Cap. 8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-024",
@@ -340,9 +347,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.4 y 7.5"
+    "articulo": "7.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-025",
@@ -354,9 +361,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.6"
+    "articulo": "7.5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-026",
@@ -368,9 +375,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "5.7 y Cap. 10"
+    "articulo": "5.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-027",
@@ -382,9 +389,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "5.3 y 7.1"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-028",
@@ -398,7 +405,7 @@
     "nom": "NOM-002-STPS-2010",
     "articulo": "5.8 y Cap. 11"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-029",
@@ -410,9 +417,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.6"
+    "articulo": "7.5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-030",
@@ -424,9 +431,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "Cap. 11"
+    "articulo": "11.3 h)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-031",
@@ -438,9 +445,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "Cap. 11"
+    "articulo": "11.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-032",
@@ -452,9 +459,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.6"
+    "articulo": "7.5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-033",
@@ -466,9 +473,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "7.2 y 7.3"
+    "articulo": "7.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-034",
@@ -480,9 +487,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-002-STPS-2010",
-    "articulo": "Cap. 10"
+    "articulo": "10.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-035",
@@ -496,7 +503,7 @@
     "nom": "NOM-004-STPS-1999",
     "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-036",
@@ -510,7 +517,7 @@
     "nom": "NOM-004-STPS-1999",
     "articulo": "5.3 a) y Cap. 7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-037",
@@ -524,7 +531,7 @@
     "nom": "NOM-004-STPS-1999",
     "articulo": "5.3 b)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-038",
@@ -538,7 +545,7 @@
     "nom": "NOM-004-STPS-1999",
     "articulo": "5.3 b)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-039",
@@ -552,7 +559,7 @@
     "nom": "NOM-004-STPS-1999",
     "articulo": "5.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-040",
@@ -564,9 +571,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "5.2 y Cap. 7"
+    "articulo": "5.2 y 7.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -579,9 +586,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "5.4 y Cap. 8"
+    "articulo": "5.12 y Cap. 8"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -594,9 +601,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "Cap. 5 (autorización de actividades peligrosas)"
+    "articulo": "5.11 y 7.2"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -609,9 +616,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "Cap. 5 (manual de primeros auxilios)"
+    "articulo": "5.6"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -624,9 +631,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "Cap. 5 (capacitación)"
+    "articulo": "5.13"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -639,9 +646,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-005-STPS-1998",
-    "articulo": "Cap. 5 y Cap. 9 (transporte)"
+    "articulo": "11.3"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -654,9 +661,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5 y 7.1"
+    "articulo": "5.1 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-047",
@@ -668,9 +675,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.1"
+    "articulo": "5.2 y 7.2 a 7.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-048",
@@ -682,9 +689,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5 y Cap. 7"
+    "articulo": "5.2 y 7.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-049",
@@ -696,9 +703,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5"
+    "articulo": "5.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-050",
@@ -710,9 +717,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.2"
+    "articulo": "5.3 y 8.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-051",
@@ -724,9 +731,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.3"
+    "articulo": "5.3 y 8.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-052",
@@ -738,9 +745,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.4"
+    "articulo": "5.3 y 8.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-053",
@@ -752,9 +759,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.5"
+    "articulo": "5.3 y 8.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-054",
@@ -766,9 +773,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 7 (transportadores)"
+    "articulo": "5.3 y 8.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-055",
@@ -780,9 +787,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 9"
+    "articulo": "5.4 y 9.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-056",
@@ -794,9 +801,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 9"
+    "articulo": "5.4 y 9.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-057",
@@ -808,9 +815,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5"
+    "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-058",
@@ -822,9 +829,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5"
+    "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-059",
@@ -836,9 +843,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 5"
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-060",
@@ -850,9 +857,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 11"
+    "articulo": "5.9 y 10.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-061",
@@ -864,9 +871,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 11"
+    "articulo": "5.9 y 10.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-062",
@@ -878,9 +885,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 11"
+    "articulo": "5.9 y 10.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-063",
@@ -892,9 +899,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 11"
+    "articulo": "5.9 y 10.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-064",
@@ -906,9 +913,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "Cap. 9"
+    "articulo": "5.4 y 9.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-065",
@@ -920,9 +927,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.1 y Cap. 5 (registros)"
+    "articulo": "5.10 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-066",
@@ -934,9 +941,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-006-STPS-2023",
-    "articulo": "7.1 y Cap. 5 (registros)"
+    "articulo": "5.10 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-067",
@@ -950,8 +957,9 @@
     "nom": "NOM-009-STPS-2011",
     "articulo": "5.1"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.1: Contar con un análisis de las condiciones prevalecientes en las áreas en las que se llevarán a cabo los trabajos en altura, en forma previa a su realización, a fin de identificar los factores de riesgo existentes."
   },
   {
    "id": "STPS-068",
@@ -963,10 +971,11 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": "Cap. 5 (revisión y mantenimiento)"
+    "articulo": "5.7"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.7: Establecer y aplicar un programa de revisión y mantenimiento a los sistemas o equipos utilizados para la realización de trabajos en altura, de acuerdo con lo señalado en el numeral 7.14 de la presente Norma, y de conformidad con las indicaciones del fabricante."
   },
   {
    "id": "STPS-069",
@@ -980,8 +989,9 @@
     "nom": "NOM-009-STPS-2011",
     "articulo": "5.2"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.2: Disponer de los instructivos, manuales o procedimientos para la instalación, operación y mantenimiento de los sistemas o equipos utilizados en los trabajos en altura, redactados en idioma español. Dichos instructivos, manuales o procedimientos, deberán estar elaborados con base en las instrucciones del fabricante."
   },
   {
    "id": "STPS-070",
@@ -993,10 +1003,11 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": "Cap. 5 y Cap. 15"
+    "articulo": "5.11"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.11: Disponer de un plan de atención a emergencias, de acuerdo con lo previsto en el Capítulo 15 de esta Norma, derivado de la ejecución de trabajos en altura."
   },
   {
    "id": "STPS-071",
@@ -1008,10 +1019,11 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-009-STPS-2011",
-    "articulo": "Cap. 5 (contratistas)"
+    "articulo": "5.14"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.14: Supervisar que los contratistas cumplan con lo establecido en esta Norma, cuando el patrón convenga los servicios de terceros para realizar trabajos en altura."
   },
   {
    "id": "STPS-072",
@@ -1025,106 +1037,114 @@
     "nom": "NOM-009-STPS-2011",
     "articulo": "5.3"
    },
-   "refEstado": "por_validar",
-   "condicion": "trabajos_altura"
+   "refEstado": "texto",
+   "condicion": "trabajos_altura",
+   "textoLegal": "NOM-009-STPS-2011, numeral 5.3: Proporcionar autorización por escrito a los trabajadores que realicen trabajos en altura, mediante andamios tipo torre o estructura, andamios suspendidos y plataformas de elevación, conforme se determina en el numeral 7.2 de esta Norma, la cual será otorgada una vez que se compruebe que se han aplicado las medidas de seguridad requeridas."
   },
   {
    "id": "STPS-073",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "73",
    "texto": "ANÁLISIS DE LOS RIESGOS A QUE ESTÁN EXPUESTOS LOS TRABAJADORES POR CADA PUESTO DE TRABAJO O ÁREA DEL CENTRO DE TRABAJO PARA LA SELECCIÓN Y USO DEL EQUIPO DE PROTECCIÓN PERSONAL.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.2"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.1: Identificar y analizar los riesgos a los que están expuestas las personas trabajadoras por cada puesto y área del centro de trabajo. Esta información debe registrarse y actualizarse cuando se modifiquen los implementos o procesos de trabajo y contener al menos los datos siguientes: a) La razón social y domicilio del centro de trabajo evaluado, y fecha en que se realizó la evaluación; b) Las actividades que desarrollan las personas trabajadoras evaluadas; c) Los puestos y áreas de trabajo evaluados; […]"
   },
   {
    "id": "STPS-074",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "74",
    "texto": "DOCUMENTO QUE ACREDITE QUE SE COMUNICÓ A LOS TRABAJADORES DEL CENTRO DE TRABAJO DE LOS RIESGOS DE TRABAJO A LOS QUE ESTÁN EXPUESTOS TOMANDO COMO BASE EL RESULTADO DEL ANÁLISIS DE RIESGOS.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.5"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.7: Comunicar a las personas trabajadoras los riesgos de trabajo a los que están expuestas, por puesto y área del centro de trabajo, con base a la identificación y análisis de riesgos a los que se refiere el numeral 5.1 de esta Norma."
   },
   {
    "id": "STPS-075",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "75",
    "texto": "DOCUMENTO QUE ACREDITE QUE SE COMUNICA AL CONTRATISTA DE LOS RIESGOS Y LAS REGLAS DE SEGURIDAD DEL ÁREA EN DONDE SE DESARROLLARÁN SUS ACTIVIDADES.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.5.1"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.8: Asegurarse que las personas trabajadoras de empresas contratadas para realizar trabajos de Servicios Especializados u Obras Especializadas no considerados como preponderantes del centro de trabajo, conozcan los riesgos, las medidas de seguridad y, en su caso, el equipo de protección personal; el tipo de protección requerida, y la forma de usar el EPP que deben atender sus personas trabajadoras al efectuar las actividades, y supervisar que se cumplen tales medidas y se emplean correctamente los equipos de protección, de acuerdo con los riesgos implicados en los trabajos y las áreas en donde desarrollarán las labores."
   },
   {
    "id": "STPS-076",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "76",
    "texto": "CONSTANCIAS DE HABILIDADES DEL PERSONAL CAPACITADO Y ADIESTRADO PARA EL USO, REVISIÓN, REPOSICIÓN, LIMPIEZA, LIMITACIONES, MANTENIMIENTO, RESGUARDO Y DISPOSICIÓN FINAL DEL EQUIPO DE PROTECCIÓN PERSONAL, CON BASE EN LAS INDICACIONES, INSTRUCCIONES O PROCEDIMIENTOS DEL FABRICANTE.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.6"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.9"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.9: Proporcionar a las personas trabajadoras la capacitación y adiestramiento para identificar el equipo de protección personal que deben utilizar conforme al riesgo al que están expuestas, así como para el uso, revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final del equipo de protección personal, con base en las indicaciones, instrucciones o procedimientos para tal efecto, así como las recomendaciones del fabricante de dicho equipo de protección personal, conforme a lo siguiente: a) La capacitación y adiestramiento debe consistir en una instrucción teórica y entrenamiento práctico; b) Las personas trabajadoras de nuevo ingreso deben recibir la capacitación y adiestramiento previo al inicio de sus actividades; […]"
   },
   {
    "id": "STPS-077",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "77",
    "texto": "REGISTRO ACTUALIZADO DE LA INFORMACIÓN DERIVADA DE LA IDENTIFICACIÓN Y ANÁLISIS DE LOS RIESGOS DE TRABAJO A LOS QUE ESTÁN EXPUESTOS LOS TRABAJADORES POR CADA PUESTO DE TRABAJO Y ÁREA DEL CENTRO LABORAL.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.2"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.1: Identificar y analizar los riesgos a los que están expuestas las personas trabajadoras por cada puesto y área del centro de trabajo. Esta información debe registrarse y actualizarse cuando se modifiquen los implementos o procesos de trabajo y contener al menos los datos siguientes: a) La razón social y domicilio del centro de trabajo evaluado, y fecha en que se realizó la evaluación; b) Las actividades que desarrollan las personas trabajadoras evaluadas; c) Los puestos y áreas de trabajo evaluados; […]"
   },
   {
    "id": "STPS-078",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "78",
    "texto": "VERIFICAR QUE EL EQUIPO DE PROTECCIÓN PERSONAL CUENTA CON LA CERTIFICACIÓN EMITIDA POR UN ORGANISMO DE CERTIFICACIÓN O CON LA GARANTÍA DEL FABRICANTE, DE QUE PROTEGE CONTRA LOS RIESGOS PARA LOS QUE FUE PRODUCIDO.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
+    "nom": "NOM-017-STPS-2024",
     "articulo": "5.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.4: Verificar que el equipo de protección personal que adquiera, después de cumplir con lo establecido en los numerales 5.1 y 5.2 de la presente Norma, cuente con la certificación emitida por un organismo de certificación, acreditado y aprobado en los términos de la Ley de Infraestructura de la Calidad, cuando existan normas oficiales mexicanas para estos equipos. En caso de no existir normas oficiales mexicanas que regulen estos equipos de protección personal, verificar que se cuente con la certificación conforme a las Normas Mexicanas, Estándares Técnicos aplicables y a falta de éstos, de los organismos de certificación o laboratorios de prueba acreditados y aprobados, conforme a lo establecido en la Ley de Infraestructura de la Calidad, verificar que se disponga y cuente con la información […]"
   },
   {
    "id": "STPS-079",
    "modulo": "stps",
-   "categoria": "10. NOM-017-STPS-2008 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
+   "categoria": "10. NOM-017-STPS-2024 EQUIPO DE PROTECCIÓN PERSONAL - SELECCIÓN, USO Y MANEJO EN LOS CENTROS DE TRABAJO",
    "num": "79",
    "texto": "REGISTROS SOBRE EL USO, REVISIÓN, REPOSICIÓN, LIMPIEZA, LIMITACIONES, MANTENIMIENTO, RESGUARDO Y DISPOSICIÓN FINAL DEL EQUIPO DE PROTECCIÓN PERSONAL.",
    "ref": {
     "ley": "",
     "reglamento": "",
-    "nom": "NOM-017-STPS-2008",
-    "articulo": "5.6 y Cap. 7"
+    "nom": "NOM-017-STPS-2024",
+    "articulo": "5.12 y 5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-017-STPS-2024, numeral 5.12: Llevar los registros sobre la revisión, reposición, limpieza, mantenimiento, resguardo y disposición final del EPP que requiera mantenimiento, incluido, en su caso, aquél que se utilice para la protección contra sustancias químicas peligrosas o agentes biológicos capaces de alterar la salud de las personas trabajadoras. En el caso del EPP libre de mantenimiento (desechable) únicamente se debe llevar el registro de su entrega y reposición. El registro debe contener, según aplique, la información siguiente: a) La razón social del centro de trabajo; b) El domicilio completo; c) El tipo de equipo de protección personal; d) El tipo de registro: revisión, reposición, limpieza, mantenimiento, resguardo y disposición final del EPP; e) La fecha de registro; […]\n\nNOM-017-STPS-2024, numeral 5.6: Contar con las indicaciones, las instrucciones o los procedimientos para el uso, revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final del EPP, con base en las indicaciones del fabricante, y de conformidad con el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-080",
@@ -1138,7 +1158,7 @@
     "nom": "NOM-018-STPS-2015",
     "articulo": "6.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1151,9 +1171,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": "Cap. 8"
+    "articulo": "8.1 a)"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1168,7 +1188,7 @@
     "nom": "NOM-018-STPS-2015",
     "articulo": "6.3 y Cap. 9"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1181,9 +1201,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": "6.7 y Cap. 11"
+    "articulo": "6.7 y 11.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1196,9 +1216,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": "6.1 y Cap. 8"
+    "articulo": "6.1 y 8.2"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1213,7 +1233,7 @@
     "nom": "NOM-018-STPS-2015",
     "articulo": "6.2"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1226,9 +1246,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-018-STPS-2015",
-    "articulo": "Cap. 9"
+    "articulo": "9.3"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1243,7 +1263,7 @@
     "nom": "NOM-018-STPS-2015",
     "articulo": "6.4"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1258,7 +1278,7 @@
     "nom": "NOM-018-STPS-2015",
     "articulo": "6.6"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "sustancias_quimicas"
   },
   {
@@ -1273,7 +1293,8 @@
     "nom": "NOM-019-STPS-2011",
     "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 5.1: Constituir e integrar al menos una comisión en el centro de trabajo, de conformidad con lo dispuesto en el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-090",
@@ -1287,7 +1308,8 @@
     "nom": "NOM-019-STPS-2011",
     "articulo": "5.4 y 7.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 5.4: Contar con el acta de constitución de la comisión del centro de trabajo, y de sus actualizaciones, cuando se modifique su integración, de conformidad con lo previsto en el numeral 7.4 de esta Norma.\n\nNOM-019-STPS-2011, numeral 7.4: El acta de constitución de la comisión deberá contener como mínimo los datos siguientes: a) Datos del centro de trabajo: 1) El nombre, denominación o razón social; 2) El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa, código postal); 3) El Registro Federal de Contribuyentes; 4) El Registro Patronal otorgado por el Instituto Mexicano del Seguro Social; 5) La rama industrial o actividad económica; 6) La fecha de inicio de actividades; […]"
   },
   {
    "id": "STPS-091",
@@ -1299,9 +1321,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "5.5 y Cap. 9"
+    "articulo": "5.5 y 9.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 5.5: Contar con el programa anual de los recorridos de verificación de la comisión, de conformidad con lo previsto en los numerales 9.3 a 9.5 de la presente Norma.\n\nNOM-019-STPS-2011, numeral 9.3: El programa anual de recorridos de verificación deberá integrase dentro de los treinta días naturales siguientes a la constitución de la comisión. Posteriormente, se deberá conformar el programa dentro de los primeros treinta días naturales de cada año."
   },
   {
    "id": "STPS-092",
@@ -1313,9 +1336,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "Cap. 7 y Cap. 8"
+    "articulo": "7.1 y 8.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 7.1: Cada comisión deberá estar integrada por: a) Un trabajador y el patrón o su representante, cuando el centro de trabajo cuente con menos de 15 trabajadores, o b) Un coordinador, un secretario y los vocales que acuerden el patrón o sus representantes, y el sindicato o el representante de los trabajadores, en el caso de que no exista la figura sindical, cuando el centro de trabajo cuente con 15 trabajadores o más.\n\nNOM-019-STPS-2011, numeral 8.2: El coordinador tendrá las funciones siguientes: a) Presidir las reuniones de trabajo de la comisión; b) Dirigir y coordinar el funcionamiento de la comisión; c) Promover la participación de los integrantes de la comisión y constatar que cada uno de ellos cumpla con las tareas asignadas; d) Integrar el programa anual de los recorridos de verificación de la comisión y presentarlo al patrón; e) Consignar en las actas de los recorridos de verificación de la comisión: 1) Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados; 2) Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de trabajo, y 3) Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que resulten aplicables; […]"
   },
   {
    "id": "STPS-093",
@@ -1327,9 +1351,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "Cap. 7 y Cap. 8"
+    "articulo": "7.1 y 8.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 7.1: Cada comisión deberá estar integrada por: a) Un trabajador y el patrón o su representante, cuando el centro de trabajo cuente con menos de 15 trabajadores, o b) Un coordinador, un secretario y los vocales que acuerden el patrón o sus representantes, y el sindicato o el representante de los trabajadores, en el caso de que no exista la figura sindical, cuando el centro de trabajo cuente con 15 trabajadores o más.\n\nNOM-019-STPS-2011, numeral 8.3: El secretario tendrá las funciones siguientes: a) Convocar a los integrantes de la comisión a las reuniones de trabajo de ésta; b) Organizar y apoyar, de común acuerdo con el coordinador, el desarrollo de las reuniones de trabajo de la comisión; c) Convocar a los integrantes de la comisión para realizar los recorridos de verificación programados; d) Integrar a las actas de recorridos de verificación de la comisión: 1) Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados; 2) Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de trabajo, y 3) Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que resulten aplicables; […]"
   },
   {
    "id": "STPS-094",
@@ -1341,9 +1366,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "5.6 y Cap. 9"
+    "articulo": "5.6 y 9.12"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 5.6: Contar con las actas de los recorridos de verificación realizados por la comisión, de conformidad con lo establecido en el numeral 9.12 de esta Norma.\n\nNOM-019-STPS-2011, numeral 9.12: Las actas de los recorridos de verificación deberán contener la información siguiente: a) El nombre, denominación o razón social del centro de trabajo; b) El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa, código postal); c) El número de trabajadores del centro de trabajo; d) El tipo de recorrido de verificación: ordinario (conforme al programa anual) o extraordinario; e) Las fechas y horas de inicio y término del recorrido de verificación; f) El área o áreas del centro de trabajo en las que se realizó el recorrido de verificación; g) Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados durante el recorrido de verificación; […]"
   },
   {
    "id": "STPS-095",
@@ -1355,9 +1381,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "5.10 y Cap. 10"
+    "articulo": "5.13 y 10.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 5.13: Proporcionar a los integrantes de la comisión, al menos una vez por año, capacitación para la adecuada realización de sus funciones, con base en el programa que para tal efecto se elabore, de acuerdo con lo señalado en el Capítulo 10 de la presente Norma.\n\nNOM-019-STPS-2011, numeral 10.1: Los centros de trabajo deberán disponer de un programa anual de capacitación para los integrantes de la comisión, que considere al menos lo siguiente: a) Los integrantes de la comisión involucrados en la capacitación; b) Los temas de la capacitación de acuerdo con el numeral 10.2 de la presente Norma; c) Los tiempos de duración de los cursos y su período de ejecución, y d) El nombre del responsable del programa."
   },
   {
    "id": "STPS-096",
@@ -1369,9 +1396,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-019-STPS-2011",
-    "articulo": "Cap. 10"
+    "articulo": "10.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-019-STPS-2011, numeral 10.3: Cuando se incorpore a un nuevo integrante o integrantes a la comisión, se deberá proporcionar de inmediato un curso de inducción, al menos sobre los aspectos considerados en el numeral 10.2, incisos del a) al d), de esta Norma."
   },
   {
    "id": "STPS-097",
@@ -1383,9 +1411,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": "5.2"
+    "articulo": "5.2 y Cap. 8"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1398,9 +1426,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": "5.3"
+    "articulo": "5.3 y 9.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1415,7 +1443,7 @@
     "nom": "NOM-020-STPS-2011",
     "articulo": "5.5"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1430,7 +1458,7 @@
     "nom": "NOM-020-STPS-2011",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1443,9 +1471,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": "Cap. 5 (capacitación)"
+    "articulo": "5.15 y Cap. 17"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1458,9 +1486,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": "Cap. 5 (aviso de equipos categoría III)"
+    "articulo": "5.13 y 16.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1473,9 +1501,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-020-STPS-2011",
-    "articulo": "Cap. 5 (registros de operación)"
+    "articulo": "5.16 y Cap. 18"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "recipientes_presion"
   },
   {
@@ -1488,9 +1516,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": "Cap. 5 y Cap. 9 (medición)"
+    "articulo": "5.3, 5.6 y 7.2 c)"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1503,9 +1531,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": "Cap. 5 (información)"
+    "articulo": "5.4"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1518,9 +1546,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": "Cap. 5 (capacitación)"
+    "articulo": "5.5 y 10.1"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1533,9 +1561,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-022-STPS-2015",
-    "articulo": "Cap. 5 y Cap. 7"
+    "articulo": "5.1 y 7.2 a)"
    },
-   "refEstado": "por_validar",
+   "refEstado": "numeral",
    "condicion": "electricidad_estatica"
   },
   {
@@ -1548,9 +1576,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": "5.9 y Cap. 11"
+    "articulo": "5.10 y Cap. 11"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-109",
@@ -1562,9 +1590,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": "5.4 y Cap. 9"
+    "articulo": "5.5 y 9.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-110",
@@ -1576,9 +1604,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-025-STPS-2008",
-    "articulo": "5.7"
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-111",
@@ -1592,7 +1620,7 @@
     "nom": "NOM-026-STPS-2008",
     "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-112",
@@ -1606,7 +1634,7 @@
     "nom": "NOM-026-STPS-2008",
     "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-113",
@@ -1620,7 +1648,7 @@
     "nom": "NOM-026-STPS-2008",
     "articulo": "5.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-114",
@@ -1632,9 +1660,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.2 a)"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-115",
@@ -1646,9 +1674,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.2 b)"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-116",
@@ -1660,9 +1688,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 y Cap. 8"
+    "articulo": "5.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-117",
@@ -1674,9 +1702,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 7"
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-118",
@@ -1688,9 +1716,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 7"
+    "articulo": "5.10"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-119",
@@ -1702,9 +1730,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.4"
+    "articulo": "5.2 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-120",
@@ -1716,9 +1744,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.5"
+    "articulo": "5.2 y 7.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-121",
@@ -1730,9 +1758,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.4"
+    "articulo": "5.2 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-122",
@@ -1744,9 +1772,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "5.3 y Cap. 7"
+    "articulo": "5.4 y 8.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-123",
@@ -1758,9 +1786,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 7"
+    "articulo": "5.4 y 8.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-124",
@@ -1772,9 +1800,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 7 (puesta a tierra temporal)"
+    "articulo": "5.4 y 8.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-125",
@@ -1786,9 +1814,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 7 (puesta a tierra temporal)"
+    "articulo": "5.4 y 8.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-126",
@@ -1800,9 +1828,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 y Cap. 13"
+    "articulo": "5.15 y 13.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-127",
@@ -1814,9 +1842,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 (personal capacitado y autorizado)"
+    "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-128",
@@ -1828,9 +1856,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 (personal capacitado y autorizado)"
+    "articulo": "5.11 y 9.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-129",
@@ -1842,9 +1870,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 (botiquín)"
+    "articulo": "5.16"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-130",
@@ -1856,9 +1884,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 (información de riesgos)"
+    "articulo": "5.14"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-131",
@@ -1870,9 +1898,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-029-STPS-2011",
-    "articulo": "Cap. 5 (autorización por escrito)"
+    "articulo": "5.13"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-132",
@@ -1886,7 +1914,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "4.3 y Cap. 6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-133",
@@ -1900,7 +1928,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "6.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-134",
@@ -1912,9 +1940,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "6.2 d)"
+    "articulo": "6.2 y 6.1 d)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-135",
@@ -1928,7 +1956,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "4.4 y 7.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-136",
@@ -1940,9 +1968,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "4.4 y Cap. 7"
+    "articulo": "4.4.1 y 7.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-137",
@@ -1954,9 +1982,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "4.4 y Cap. 7"
+    "articulo": "4.4.1 y 7.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-138",
@@ -1970,7 +1998,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "4.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-139",
@@ -1984,7 +2012,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-140",
@@ -1998,7 +2026,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-141",
@@ -2010,9 +2038,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "5.7"
+    "articulo": "5.9"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-142",
@@ -2026,7 +2054,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "4.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-143",
@@ -2040,7 +2068,7 @@
     "nom": "NOM-030-STPS-2009",
     "articulo": "4.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-144",
@@ -2052,9 +2080,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "4.6 y 5.8"
+    "articulo": "4.6 y 5.7"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-145",
@@ -2066,9 +2094,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "4.3 y 4.4"
+    "articulo": "4.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-146",
@@ -2080,9 +2108,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-030-STPS-2009",
-    "articulo": "5.9"
+    "articulo": "5.8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-147",
@@ -2096,7 +2124,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-148",
@@ -2108,9 +2136,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": "5.2"
+    "articulo": "5.2 y 7.1 a)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-149",
@@ -2122,9 +2150,9 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-035-STPS-2018",
-    "articulo": "5.3"
+    "articulo": "5.3 y 7.1 b)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-150",
@@ -2138,7 +2166,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.4 y Cap. 8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-151",
@@ -2152,7 +2180,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.4 y Cap. 8"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-152",
@@ -2166,7 +2194,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-153",
@@ -2180,7 +2208,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-154",
@@ -2194,7 +2222,7 @@
     "nom": "NOM-035-STPS-2018",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "numeral"
   },
   {
    "id": "STPS-155",
@@ -2206,9 +2234,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.1 y Cap. 7"
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.1: Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto por el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-156",
@@ -2220,9 +2249,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.1 y Cap. 7"
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.1: Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto por el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-157",
@@ -2234,9 +2264,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.1 y Cap. 7"
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.1: Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto por el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-158",
@@ -2248,9 +2279,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.3 y Cap. 9"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.3: Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9 de la presente Norma."
   },
   {
    "id": "STPS-159",
@@ -2262,9 +2294,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-160",
@@ -2276,9 +2309,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-161",
@@ -2290,9 +2324,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-162",
@@ -2304,9 +2339,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.1 y Cap. 7"
+    "articulo": "5.1"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.1: Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto por el Capítulo 7 de la presente Norma."
   },
   {
    "id": "STPS-163",
@@ -2318,9 +2354,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-164",
@@ -2332,9 +2369,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-165",
@@ -2346,9 +2384,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.2 y Cap. 8"
+    "articulo": "5.2"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.2: Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma."
   },
   {
    "id": "STPS-166",
@@ -2360,9 +2399,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.3 y Cap. 9"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.3: Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9 de la presente Norma."
   },
   {
    "id": "STPS-167",
@@ -2374,9 +2414,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.3 y Cap. 9"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.3: Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9 de la presente Norma."
   },
   {
    "id": "STPS-168",
@@ -2388,9 +2429,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.3 y Cap. 9"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.3: Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9 de la presente Norma."
   },
   {
    "id": "STPS-169",
@@ -2402,9 +2444,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.3 y Cap. 9"
+    "articulo": "5.3"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.3: Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9 de la presente Norma."
   },
   {
    "id": "STPS-170",
@@ -2418,7 +2461,8 @@
     "nom": "NOM-036-1-STPS-2018",
     "articulo": "5.4"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.4: Informar a los trabajadores sobre las posibles alteraciones a la salud por el manejo manual de cargas."
   },
   {
    "id": "STPS-171",
@@ -2430,9 +2474,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.5 y Cap. 10"
+    "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.5: Proporcionar capacitación y adiestramiento al personal ocupacionalmente expuesto sobre los procedimientos de seguridad y las prácticas de trabajo seguro, y en su caso, en las medidas de prevención y/ o control, de conformidad con lo señalado por el Capítulo 10 de esta Norma."
   },
   {
    "id": "STPS-172",
@@ -2444,9 +2489,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.5 y Cap. 10"
+    "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.5: Proporcionar capacitación y adiestramiento al personal ocupacionalmente expuesto sobre los procedimientos de seguridad y las prácticas de trabajo seguro, y en su caso, en las medidas de prevención y/ o control, de conformidad con lo señalado por el Capítulo 10 de esta Norma."
   },
   {
    "id": "STPS-173",
@@ -2458,9 +2504,10 @@
     "ley": "",
     "reglamento": "",
     "nom": "NOM-036-1-STPS-2018",
-    "articulo": "5.5 y Cap. 10"
+    "articulo": "5.5"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.5: Proporcionar capacitación y adiestramiento al personal ocupacionalmente expuesto sobre los procedimientos de seguridad y las prácticas de trabajo seguro, y en su caso, en las medidas de prevención y/ o control, de conformidad con lo señalado por el Capítulo 10 de esta Norma."
   },
   {
    "id": "STPS-174",
@@ -2474,7 +2521,8 @@
     "nom": "NOM-036-1-STPS-2018",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.6: Llevar los registros sobre las medidas preventivas adoptadas y los exámenes médicos practicados."
   },
   {
    "id": "STPS-175",
@@ -2488,7 +2536,8 @@
     "nom": "NOM-036-1-STPS-2018",
     "articulo": "5.6"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "NOM-036-1-STPS-2018, numeral 5.6: Llevar los registros sobre las medidas preventivas adoptadas y los exámenes médicos practicados."
   },
   {
    "id": "STPS-176",
@@ -2502,7 +2551,8 @@
     "nom": "",
     "articulo": "504 fracc. I"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 504, fracción I: Los patrones tienen las obligaciones especiales siguientes: I. Mantener en el lugar de trabajo los medicamentos y material de curación necesarios para primeros auxilios y adiestrar personal para que los preste;"
   },
   {
    "id": "STPS-177",
@@ -2516,7 +2566,8 @@
     "nom": "",
     "articulo": "504 fracc. II"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 504, fracción II: Los patrones tienen las obligaciones especiales siguientes: II. Cuando tenga a su servicio más de cien trabajadores, establecer una enfermería, dotada con los medicamentos y material de curación necesarios para la atención médica y quirúrgica de urgencia. Estará atendida por personal competente, bajo la dirección de un médico cirujano. Si a juicio de éste no se puede prestar la debida atención médica y quirúrgica, el trabajador será trasladado a la población u hospital en donde pueda atenderse a su curación;"
   },
   {
    "id": "STPS-178",
@@ -2525,12 +2576,13 @@
    "num": "178",
    "texto": "ESTABLECER DE ACUERDO CON LAS ACTIVIDADES DEL CENTRO DE TRABAJO SISTEMAS HIGIÉNICOS DE AGUA POTABLE, LAVABOS, REGADERAS, VESTIDORES Y CASILLEROS, ASÍ COMO EXCUSADOS Y MINGITORIOS DOTADOS DE AGUA CORRIENTE, SEPARADOS LOS HOMBRES Y MUJERES Y MARCADOS CON AVISOS O SEÑALES QUE LOS INDIQUEN.",
    "ref": {
-    "ley": "Ley Federal del Trabajo",
-    "reglamento": "",
-    "nom": "NOM-001-STPS-2008",
-    "articulo": "132 fracc. XVI y XVII (LFT); 5.4 (NOM)"
+    "ley": "",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "nom": "",
+    "articulo": "18 fracc. IX y X"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Reglamento Federal de Seguridad y Salud en el Trabajo, artículo 18, fracción IX: En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán: IX. Instalar sanitarios para mujeres y hombres, y lavabos limpios y seguros para el servicio de los trabajadores;\n\nReglamento Federal de Seguridad y Salud en el Trabajo, artículo 18, fracción X: En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán: X. Contar con regaderas y vestidores, de acuerdo con las actividades que se desarrollen o cuando se requiera la descontaminación de los trabajadores;"
   },
   {
    "id": "STPS-179",
@@ -2539,12 +2591,13 @@
    "num": "179",
    "texto": "ESTABLECER LUGARES HIGIÉNICOS PARA EL CONSUMO DE ALIMENTOS.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "reglamento": "",
-    "nom": "NOM-001-STPS-2008",
-    "articulo": "5.5"
+    "ley": "",
+    "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "nom": "",
+    "articulo": "18 fracc. XI"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Reglamento Federal de Seguridad y Salud en el Trabajo, artículo 18, fracción XI: En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán: XI. Tener lugares higiénicos para el consumo de alimentos, en su caso;"
   },
   {
    "id": "STPS-180",
@@ -2553,12 +2606,13 @@
    "num": "180",
    "texto": "AGUA POTABLE CON DOTACIÓN DE VASOS DESECHABLES.",
    "ref": {
-    "ley": "Ley Federal del Trabajo art. 132",
+    "ley": "",
     "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "nom": "NOM-001-STPS-2008",
-    "articulo": "Cap. 5 (servicios al personal)"
+    "nom": "",
+    "articulo": "18 fracc. VIII"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Reglamento Federal de Seguridad y Salud en el Trabajo, artículo 18, fracción VIII: En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán: VIII. Poner a disposición de los trabajadores tomas de agua potable y vasos desechables o bebederos;"
   },
   {
    "id": "STPS-181",
@@ -2567,12 +2621,13 @@
    "num": "181",
    "texto": "PROGRAMA PARA PROMOVER LA SALUD DE LOS TRABAJADORES Y PREVENIR LAS ADICCIONES.",
    "ref": {
-    "ley": "Ley Federal del Trabajo / Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "ley": "",
     "reglamento": "Reglamento Federal de Seguridad y Salud en el Trabajo",
-    "nom": "NOM-030-STPS-2009",
-    "articulo": "48 (RFSST); 5.5 (NOM)"
+    "nom": "",
+    "articulo": "48 fracc. III; 68"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Reglamento Federal de Seguridad y Salud en el Trabajo, artículo 48, fracción III: Para la prestación de los Servicios Preventivos de Seguridad y Salud en el Trabajo, los patrones deberán: III. Instruir que se incorporen al Programa de Seguridad y Salud en el Trabajo: a) Las Acciones Preventivas y Correctivas por instrumentar para cada Riesgo identificado en el citado diagnóstico; b) Las acciones y programas para promover la salud de los trabajadores y prevenir las adicciones que recomienden o dicten las autoridades competentes, y c) Las acciones pertinentes para la atención a emergencias y contingencias sanitarias que recomienden o dicten las autoridades competentes;\n\nReglamento Federal de Seguridad y Salud en el Trabajo, artículo 68: La Secretaría orientará a los Centros de Trabajo sobre las acciones y programas para la promoción de la salud y la prevención de adicciones que habrán de incorporarse en el Programa de Seguridad y Salud en el Trabajo. Para tales efectos, emitirá y mantendrá actualizada la Guía de Recomendaciones para la Promoción de la Salud y la Prevención de Adicciones en los Centros de Trabajo."
   },
   {
    "id": "STPS-182",
@@ -2586,7 +2641,8 @@
     "nom": "",
     "articulo": "504 fracc. V (LFT); 76 (RFSST)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 504, fracción V: Los patrones tienen las obligaciones especiales siguientes: V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y al Tribunal, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos: a) Nombre y domicilio de la empresa; b) Nombre y domicilio del trabajador; así como su puesto o categoría y el monto de su salario; c) Lugar y hora del accidente, con expresión sucinta de los hechos; d) Nombre y domicilio de las personas que presenciaron el accidente; y, e) Lugar en que se presta o haya prestado atención médica al accidentado. […]\n\nReglamento Federal de Seguridad y Salud en el Trabajo, artículo 76: Los patrones deberán dar aviso a la Secretaría, por escrito o en forma electrónica, de los Accidentes de Trabajo que ocurran dentro de las 72 horas siguientes, conforme a lo que establece el artículo 504, fracción V de la Ley. Dicho aviso podrá ser realizado por el trabajador ante la institución pública de seguridad social a la cual estuviera afiliado, o por sus familiares, si el trabajador se encuentra incapacitado para efectuarlo, en caso de que el patrón no lo realice dentro del término antes indicado. Asimismo, el trabajador o sus familiares podrán dar el aviso a que se refiere el párrafo anterior, a la Secretaría en los términos y condiciones previstos en la normativa correspondiente. […]"
   },
   {
    "id": "STPS-183",
@@ -2600,7 +2656,36 @@
     "nom": "",
     "articulo": "504 fracc. V (LFT); 76 (RFSST)"
    },
-   "refEstado": "por_validar"
+   "refEstado": "texto",
+   "textoLegal": "Ley Federal del Trabajo, artículo 504, fracción V: Los patrones tienen las obligaciones especiales siguientes: V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y al Tribunal, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos: a) Nombre y domicilio de la empresa; b) Nombre y domicilio del trabajador; así como su puesto o categoría y el monto de su salario; c) Lugar y hora del accidente, con expresión sucinta de los hechos; d) Nombre y domicilio de las personas que presenciaron el accidente; y, e) Lugar en que se presta o haya prestado atención médica al accidentado. […]\n\nReglamento Federal de Seguridad y Salud en el Trabajo, artículo 76: Los patrones deberán dar aviso a la Secretaría, por escrito o en forma electrónica, de los Accidentes de Trabajo que ocurran dentro de las 72 horas siguientes, conforme a lo que establece el artículo 504, fracción V de la Ley. Dicho aviso podrá ser realizado por el trabajador ante la institución pública de seguridad social a la cual estuviera afiliado, o por sus familiares, si el trabajador se encuentra incapacitado para efectuarlo, en caso de que el patrón no lo realice dentro del término antes indicado. Asimismo, el trabajador o sus familiares podrán dar el aviso a que se refiere el párrafo anterior, a la Secretaría en los términos y condiciones previstos en la normativa correspondiente. […]"
   }
+ ],
+ "enlaces": {
+  "NOM-001-STPS-2008": "https://asinom.stps.gob.mx/upload/noms/Nom-001.pdf",
+  "NOM-002-STPS-2010": "https://asinom.stps.gob.mx/upload/nom/33.pdf",
+  "NOM-004-STPS-1999": "https://asinom.stps.gob.mx/upload/noms/Nom-004.pdf",
+  "NOM-005-STPS-1998": "https://asinom.stps.gob.mx/upload/noms/Nom-005.pdf",
+  "NOM-006-STPS-2023": "https://asinom.stps.gob.mx/upload/nom/52.pdf",
+  "NOM-009-STPS-2011": "https://asinom.stps.gob.mx/upload/nom/35.pdf",
+  "NOM-018-STPS-2015": "https://asinom.stps.gob.mx/upload/nom/50.pdf",
+  "NOM-019-STPS-2011": "https://asinom.stps.gob.mx/upload/nom/34.pdf",
+  "NOM-020-STPS-2011": "https://asinom.stps.gob.mx/upload/nom/38.pdf",
+  "NOM-022-STPS-2015": "https://asinom.stps.gob.mx/upload/nom/46.pdf",
+  "NOM-025-STPS-2008": "https://asinom.stps.gob.mx/upload/noms/Nom-025.pdf",
+  "NOM-026-STPS-2008": "https://asinom.stps.gob.mx/upload/noms/Nom-026.pdf",
+  "NOM-029-STPS-2011": "https://asinom.stps.gob.mx/upload/nom/NOM-029.pdf",
+  "NOM-030-STPS-2009": "https://asinom.stps.gob.mx/upload/nom/32.pdf",
+  "NOM-035-STPS-2018": "https://asinom.stps.gob.mx/upload/nom/48.pdf",
+  "NOM-036-1-STPS-2018": "https://asinom.stps.gob.mx/upload/nom/49.pdf"
+ },
+ "fuentes": [
+  "Ley Federal del Trabajo (DOF 14-05-2026)",
+  "Ley del Seguro Social (DOF 15-01-2026)",
+  "Reglamento Federal de Seguridad y Salud en el Trabajo (DOF 13-11-2014)",
+  "NOM-009-STPS-2011",
+  "NOM-017-STPS-2024",
+  "NOM-019-STPS-2011",
+  "NOM-036-1-STPS-2018",
+  "NOM-001, 002, 004, 005, 006, 018, 020, 022, 025, 026, 029, 030 y 035-STPS: numerales verificados en el texto publicado por la STPS (asinom.stps.gob.mx); falta copiar su texto literal"
  ]
 }
