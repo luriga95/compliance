@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gestor de Cumplimiento Legal EHS</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <strong id="appTitle">Cumplimiento Legal EHS</strong>
+    <span id="empresaNombre" class="muted"></span>
+  </div>
+  <nav id="nav">
+    <button data-view="dashboard" class="active">Tablero</button>
+    <button data-view="requisitos">Requisitos</button>
+    <button data-view="tareas">Tareas <span id="badgeTareas" class="badge" hidden></span></button>
+    <button data-view="novedades">Novedades <span id="badgeNov" class="badge" hidden></span></button>
+    <button data-view="config">Configuración</button>
+  </nav>
+  <div class="actions">
+    <span id="saveState" class="muted" role="status"></span>
+    <button id="btnLang" title="Idioma del tablero / Dashboard language">EN</button>
+    <button id="btnSave" class="primary">Guardar</button>
+  </div>
+</header>
+
+<div id="banner" class="banner" hidden></div>
+<main id="main"></main>
+
+<aside id="panel" class="panel" hidden aria-label="Detalle del requisito">
+  <div id="panelBody"></div>
+</aside>
+<div id="overlay" class="overlay" hidden></div>
+<input type="file" id="filePick" hidden>
+
+<script src="vendor/jszip.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

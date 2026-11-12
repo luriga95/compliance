@@ -1,0 +1,5131 @@
+{
+ "id": "ambiental",
+ "nombre": "Requisitos ambientales",
+ "nombre_en": "Environmental requirements",
+ "autoridad": "SEMARNAT / estatal",
+ "ambito": "federal",
+ "version": "2026-11-12",
+ "requisitos": [
+  {
+   "id": "AMB-AGUA-001",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "1",
+   "texto": "1. ¿Está al corriente en los pagos de consumo de agua¿",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-002",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "2",
+   "texto": "2. ¿Cuenta con planos de las instalaciones de la red de tubería de suministro desde la toma hasta la descarga, incluyendo agua potable?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-003",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "3",
+   "texto": "3. ¿Realiza mantenimiento a sus instalaciones hidráulicas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-004",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "4",
+   "texto": "4. ¿Cuenta con autorización para el suministro de consumo de agua?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-005",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "5",
+   "texto": "5. ¿Esta actualizada la documentación para consumo de agua potable?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-006",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "6",
+   "texto": "6. ¿Su organización cuenta con Título de Concesión o Asignación vigente?",
+   "ref": {
+    "ley": "LAN",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "Art. 20"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-007",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "7",
+   "texto": "7. ¿Su título se encuentra registrado por el Registro Público de Derechos de Agua?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-008",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "Consumo de agua",
+   "num": "8",
+   "texto": "8. ¿Cumple con el consumo racionado de agua de extracción, señalado por el Título de Concesión?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "Art. 44 -VII"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-009",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "9",
+   "texto": "9. ¿Conoce el destino de la descargas de sus aguas residuales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-010",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "10",
+   "texto": "a. Drenaje Municipal (Alcantarillado)  (de: 9. ¿Conoce el destino de la descargas de sus aguas residuales?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-011",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "11",
+   "texto": "b. Cuerpo receptor (presas, cauces, zonas marinas o bienes nacionales)  (de: 9. ¿Conoce el destino de la descargas de sus aguas residuales?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-012",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "12",
+   "texto": "10.¿Cuenta con la autorización para descargar aguas residuales generadas en su instalación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-013",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "13",
+   "texto": "11.¿Registra, monitorea y controla continuamente las descargas de aguas residuales que se vierten a redes públicas de alcantarillado?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "136.I"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-014",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "14",
+   "texto": "12. ¿Realiza mantenimiento a sus instalaciones hidráulicas y a zonas colindantes que pudieran afectar la calidad de las aguas subterráneas subyacentes y en la eventual contaminación de las fuentes de abastecimiento de agua",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "136"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-015",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "15",
+   "texto": "13. ¿Monitorea la calidad del agua que se vierte a las redes públicas de alcantarillado, con objeto de detectar la existencia de materiales o residuos peligrosos que por su corrosividad, toxicidad, explosividad, reactividad o inflamabilidad puedan representar grave riesgo al ambiente, a las personas o sus bienes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "136.III"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-016",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "16",
+   "texto": "14. ¿Ha realizado análisis de laboratorio para el control y monitoreo de sus aguas residuales como lo indica la NOM-002-SEMARNAT-1996?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-SEMARNAT-1996",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-017",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "17",
+   "texto": "15. ¿Sus análisis los ha realizado mediante la contratación de laboratorios acreditados ante la Entidad Mexicana de Acreditación (EMA)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-018",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "18",
+   "texto": "16. ¿Cumple con los límites máximos permisibles (LMP) en sus aguas residuales comparadas con las normatividad mexicana?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-002-SEMARNAT-1996",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-019",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "19",
+   "texto": "17. ¿Sus aguas residuales, cumplen con las condiciones particulares de descarga (CPD) establecidas por la autoridad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-020",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "20",
+   "texto": "18. De la información acerca de la calidad de sus aguas residuales, ¿Manifiesta la información en el Registro de Transferencia de Contaminantes (RETC)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-021",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "21",
+   "texto": "19. ¿Antes de llegar a la planta de tratamiento, no se\ndescargan aguas residuales a corrientes o depósitos\nde aguas nacionales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "146"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-022",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "22",
+   "texto": "20. ¿Ha dado a conocer el tratamiento previo ante la autoridad federal?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "135"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-023",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "23",
+   "texto": "21. ¿Opera por terceros las obras e instalaciones necesarias para el manejo y, en su caso, el tratamiento de las aguas residuales, así como para asegurar el control de la calidad de dichas aguas antes de su descarga a cuerpos receptores?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "135 VII"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-024",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "24",
+   "texto": "22. ¿Ha realizado análisis de laboratorio para el control\ny monitoreo de sus aguas residuales para\ndeterminar el promedio diario (PD) y mensual (PM)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-SEMARNAT-1996",
+    "articulo": "4.8"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-025",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "25",
+   "texto": "23. ¿Sus análisis de laboratorio son realizados mediante laboratorios acreditados ante la Entidad Mexicana de Acreditación (EMA)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-026",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "26",
+   "texto": "24. ¿Cumple con los límites máximos permisibles (LMP) en sus aguas residuales destinadas a un bien nacional?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-001-SEMARNAT-1996",
+    "articulo": "4"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-027",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "27",
+   "texto": "25. ¿Los contaminantes presentes en las aguas residuales no considerados en las condiciones particulares de descarga (CPD) se hacen del conocimiento de la CONAGUA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "135.VI"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-028",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "28",
+   "texto": "26. ¿Conserva por un periodo no menor a tres años la información del monitoreo que se realiza a sus aguas residuales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "135.X"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-029",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "29",
+   "texto": "27. ¿Ha tenido cambios en sus procesos, modificando la descarga de aguas residuales en sus características o volumen?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLAN",
+    "nom": "",
+    "articulo": "135.VI"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-AGUA-030",
+   "modulo": "ambiental",
+   "categoria": "AGUA",
+   "subcategoria": "DESCARGAS",
+   "num": "30",
+   "texto": "28. ¿Cuenta con reporte de sus registros de descargas de aguas residuales debidamente registrados para integrar al RETC?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMRETC",
+    "nom": "",
+    "articulo": "10"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMISIO-001",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "1",
+   "texto": "1. ¿Conoce el consumo utilizado de cada fuente fija y las horas de operación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-002",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "2",
+   "texto": "2. ¿Puede especificar el tipo, número y localización de fuentes fijas como: calentadores, calderas, quemadores, incineradores, etc.?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-003",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "3",
+   "texto": "3. ¿En sus instalaciones se generan polvos, neblina, gases, vapores, humos que se emitan a la atmósfera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "10"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-004",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "4",
+   "texto": "4. ¿Emite olores, gases o partículas sólidas o líquidas a la atmósfera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "16"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-005",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "5",
+   "texto": "5. ¿Emplea equipos y sistemas que controlan las emisiones a la atmósfera, para no rebasar LMP establecidos en normas técnicas ecológicas correspondientes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17-I"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-006",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "6",
+   "texto": "6. ¿Sus emisiones contaminantes se canalizan por medio de ductos o chimeneas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "23"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-007",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "7",
+   "texto": "7. Las chimeneas o ductos, ¿cuentan con los lineamientos previstos en la Norma Oficial Mexicana correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-008",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "8",
+   "texto": "8. Las chimeneas y ductos, ¿cuentan con plataforma y puertos de muestreo para la toma de muestras de sus emisionesalaatmósfera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "23 Y 24"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-009",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "9",
+   "texto": "9. ¿En las chimeneas de proceso, su empresa emite algún tipo de polvo o partículas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-010",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "10",
+   "texto": "10. ¿Conoce la altura para la dispersión efectiva de sus chimeneas o ductos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "23 Y 24"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-011",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "11",
+   "texto": "11. ¿Conserva en condiciones de seguridad las plataformas y puertos de muestreo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-012",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "12",
+   "texto": "12. ¿Los análisis de emisiones los ha realizado mediante un laboratorio acreditado ante la Entidad Mexicana de Acreditación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-013",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "13",
+   "texto": "13. ¿Cuenta con planos de instalación asociadas a la contaminación atmosférica (calderas, chimeneas, ductos, etc.)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-014",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "14",
+   "texto": "14. ¿Mantiene calibrados los equipos de medición, de acuerdo con el procedimiento previsto en la Norma Oficial Mexicana correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "26"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-015",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "15",
+   "texto": "15. ¿Hace la medición y análisis de gases de combustión en base a la frecuencia, capacidad del equipo de combustión, parámetros y combustible establecidos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM–085-SEMARNAT-199",
+    "articulo": "Tabla6"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-016",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "16",
+   "texto": "16. ¿Cumple con lo establecido en la NOM-043- SEMARNAT-1994?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-043- SEMARNAT-1994",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-017",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "17",
+   "texto": "17. ¿Las mediciones y evaluaciones de las emisiones contaminantes a la atmósfera, se llevan a cabo conforme a las técnicas recomendadas por la NOM- 085- SEMARNAT-2004?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "NOM –085-SEMARNAT-2004",
+    "articulo": "25; ANEXO 3"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-018",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "18",
+   "texto": "18. ¿Su instalación cuenta con una Cédula de Operación Anual (COA) otorgada por la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMRETC",
+    "nom": "",
+    "articulo": "4, 10 Y 21"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-019",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "19",
+   "texto": "19. ¿Cuenta con Licencia de Funcionamiento otorgada por la autoridad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-020",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "20",
+   "texto": "20. ¿Cuenta con Licencia Ambiental Única (LAU) expedida por la autoridad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17 BIS"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-021",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "21",
+   "texto": "21. ¿Realiza ante la autoridad un registro de la información de esta (Registro Estatal o Municipal de Transferencia de Contaminantes)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-022",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "22",
+   "texto": "22. ¿Conserva por un periodo de 5 años, las memorias de cálculo y los datos relacionadas con las metodologías de medición de emisiones y transferencia de contaminantes y sustancias; estando reguladas o no, para la COA; por Normas Oficiales Mexicanas y las tiene en todo momento a disposición de las autoridades competentes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMRETC",
+    "nom": "",
+    "articulo": "21"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-023",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "23",
+   "texto": "23. ¿Sus emisiones a la atmósfera cumplen con los Límites Máximos Permisibles (LMP), de acuerdo a la normatividad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-024",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "24",
+   "texto": "24. ¿Cuenta con procedimientos para dar aviso a la autoridad correspondiente en caso de fallas de los equipos de control?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-025",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "25",
+   "texto": "25. ¿Se han realizado modificaciones en los procesos de producción empleados por la fuente fija?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "22-III"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-026",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "26",
+   "texto": "26. Realiza análisis de gases de combustión de acuerdo al tipo y periodicidad en función del combustible: gas LP, gas natural, combustible industrial, diesel, etc., así como la potencia del equipo de combustión o quemador.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-027",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "27",
+   "texto": "27. ¿Mide los niveles de emisión de los compuestos orgánicos volátiles (COV) contenidos en: gasolina, thinner, alcoholes, resinas plásticas y pinturas esmalte?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-028",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "28",
+   "texto": "28. ¿Ha realizado análisis de control de sus emisiones a la atmósfera de sus fuentes fijas (calderas (10 caballos caldera), de plantas de suministro de energía, incineradores, etc)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-029",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "29",
+   "texto": "29. Integra un inventario de sus emisiones contaminantes a la atmósfera, en el formato de la Secretaría?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17-II"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-030",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "30",
+   "texto": "30. ¿Ha adquirido, instalado y operado equipos para el control de emisiones de contaminantes a la atmósfera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "12-I"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-031",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "31",
+   "texto": "31. ¿Ha fabricado, instalado o proporciona mantenimiento a equipos de filtrado, combustión, control, y en general de tratamiento de emisiones que contaminen la atmósfera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "12-II"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-032",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "32",
+   "texto": "32. ¿Lleva a cabo monitoreo perimetral de sus emisiones contaminantes a la atmósfera que puedan causar grave deterioro a ecosistemas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17-V"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-033",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "33",
+   "texto": "33. ¿Lleva una bitácora de operación y mantenimiento de sus equipos de proceso y de control?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17-VI"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-034",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "34",
+   "texto": "34. ¿Da aviso por anticipado a la Secretaría en los siguientes eventos si estos pueden provocar contaminación? Inicio de operaciones de procesos, Paros programados, De inmediato en casos circunstanciales",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "17-VII"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-035",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES FIJAS",
+   "num": "35",
+   "texto": "33. ¿Cuándo evalúa la emisión total de contaminantes atmosféricos de una fuente múltiple, lo hace sumando las emisiones individuales de las chimeneas existentes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "25"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-036",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES MOVILES",
+   "num": "36",
+   "texto": "34. ¿Cuenta con los certificados actualizados de verificación para cada vehículo automotor de la organización?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-041-SEMARNAT-2006",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-037",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES MOVILES",
+   "num": "37",
+   "texto": "35. ¿Mantiene en cumplimiento los límites máximos permisibles (LMP), las emisiones a la atmósfera de olores, gases, partículas sólidas y líquidas que se generen por vehículos automotores propiedad de la organización?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMPCCA",
+    "nom": "",
+    "articulo": "28"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-038",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES MOVILES",
+   "num": "38",
+   "texto": "36. ¿Verifica que cumplan los LMP de emisiones de hidrocarburos totales, hidrocarburos no metano, monóxido de carbono, óxidos de nitrógeno, partículas y opacidad de humo, emitidos por vehículos nuevos que usan diesel como combustible, propiedad de la organización?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-044-SEMARNAT-2006",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-EMISIO-039",
+   "modulo": "ambiental",
+   "categoria": "EMISIONES ATMOSFÉRICAS",
+   "subcategoria": "FUENTES MOVILES",
+   "num": "39",
+   "texto": "37. ¿Verifica que cumplan con los niveles máximos permisibles de emisión de gases contaminantes, los vehículos automotores propiedad de la organización que usen gas licuado de petróleo, gas natural u otros combustibles alternos como combustible?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-050-SEMARNAT-1993",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "fuentes_fijas"
+  },
+  {
+   "id": "AMB-RESIDU-001",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "1",
+   "texto": "1. ¿Cuenta con caracterización de sus residuos no peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-002",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "2",
+   "texto": "2. ¿Tiene identificadas las fuentes de generación de sus residuos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-003",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "3",
+   "texto": "3. ¿Conoce las cantidades generadas en cada fuente? (Peso total de residuos generados)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-004",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "4",
+   "texto": "4. ¿La disposición final de sus residuos sólidos la realiza por medio de recolección de servicio contratado?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-005",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "5",
+   "texto": "5. ¿La empresa que recolecta los residuos cuenta con todas sus autorizaciones y esta regularizado entrega manifiestos cada que realiza recoleccion?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-006",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "6",
+   "texto": "6. ¿Mantiene procedimientos de segregación primaria de basura en inorgánicos e orgánicos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-007",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "7",
+   "texto": "7. ¿Mantiene programas de re-uso y/o reciclaje de\nresiduos sólidos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-008",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "8",
+   "texto": "8. ¿Cuenta con un permiso como generador de\nresiduos autorizado por la autoridad estatal o\nmunicipal?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-009",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "9",
+   "texto": "9. ¿Cuenta con una clasificación como generador de residuos sólidos ante la autoridad estatal o municipal?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-010",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "10",
+   "texto": "10. ¿Cuenta con un plan de manejo de sus residuos sólidos autorizado ante la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-011",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "11",
+   "texto": "11. ¿Su instalación cumple con la legislación estatal o local en materia de residuos sólidos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-012",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "12",
+   "texto": "12. ¿Mantiene acciones de prevención y reducción de residuos sólidos municipales e industriales?",
+   "ref": {
+    "ley": "LGEEPA",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "134-III"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-013",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "13",
+   "texto": "13. ¿En sus instalaciones lleva a cabo un plan de manejo para sus residuos a nivel federal?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "54 y 56"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-014",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "14",
+   "texto": "14. Si cuenta con Planes de Manejo de acuerdo como lo establece el art. 16 del Reglamento de la LGPGIR (Privado, Mixto, Individuales, Colectivos, Nacionales, Regionales, Locales)",
+   "ref": {
+    "ley": "LGPGIR",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "16"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-015",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "15",
+   "texto": "15. ¿Tiene identificadas las fuentes de generación de sus residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-016",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "16",
+   "texto": "16. ¿Conoce las cantidades generadas en cada fuente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-017",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "17",
+   "texto": "17. ¿Ha identificado los tipos de residuos peligrosos\ndentro de la clasificación de la normas?",
+   "ref": {
+    "ley": "LGPGIR",
+    "reglamento": "",
+    "nom": "NOM-052-SEMARNAT-2005",
+    "articulo": "20, 19, 46"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-018",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "18",
+   "texto": "18. Ha identificado sus residuos peligrosos, dentro de los criterios de características: Corrosivo Reactivo, Explosivo Tóxico, Infeccioso y Biológico (CRETIB)",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "35 fracción"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-019",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "19",
+   "texto": "19. ¿Clasifica los residuos peligrosos que genera?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-020",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "20",
+   "texto": "20. ¿Conoce su categoría de generador, por la\ncantidad de residuos peligrosos? (Grande, Pequeña, MICRO)",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "42"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-021",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "21",
+   "texto": "21. ¿En sus instalaciones se cuenta con un plan de\nmanejo para sus residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-022",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "22",
+   "texto": "22. Si cuenta con Planes de Manejo ¿Cuál es su\nmodalidad? (Privado, Mixto, Individuales, Colectivos, Nacionales, Regionales, Locales)",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "16"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-023",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "23",
+   "texto": "23. Si cuenta con Planes de Manejo, ¿Su instalación está registrada por la autoridad federal (SEMARNAT)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "24"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-024",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "24",
+   "texto": "24. ¿Su Plan de Manejo ya cuenta con dictamen por parte de la autoridad federal (SEMARNAT)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "24, 25 Y 26"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-025",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "25",
+   "texto": "25. ¿Tiene identificadas las cantidades que estima\nmanejar de cada uno de los residuos en su plan de manejo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "20-I"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-026",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "26",
+   "texto": "26. ¿Tiene identificada la forma para minimizar la cantidad de residuos, valorizarlos o aprovecharlos en su plan de manejo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "20-II"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-027",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "27",
+   "texto": "27. ¿Cuenta con mecanismos de evaluación y mejora del plan de manejo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "20-IV"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-028",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "28",
+   "texto": "28. ¿Cuenta con un plan de manejo de residuos peligrosos registrado ante la Secretaría para valorizar y aprovechar los residuos como insumo, materia prima o subproducto en otro proceso productivo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "21"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-029",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "29",
+   "texto": "29. En su instalación, ¿cumple con la legislación correspondiente en materia de generación de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-030",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "30",
+   "texto": "30. En su instalación, ¿cumple con la legislación correspondiente en materia de almacenamiento temporal de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-031",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "31",
+   "texto": "31. En su instalación, ¿cumple con la legislación estatal o municipal en materia de manejo y tratamiento de residuos de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-032",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "32",
+   "texto": "32. ¿Contrata empresas autorizadas para la recolección y disposición final de sus residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-033",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "33",
+   "texto": "33. ¿Cuenta con una Cédula de Operación Anual (COA)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR; RMRETC",
+    "nom": "",
+    "articulo": "72; 4"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-034",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "34",
+   "texto": "34. ¿Reporta o registra ante la autoridad correspondiente la información que tiene en el COA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-035",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "35",
+   "texto": "35. ¿Mantiene actualizada su información del COA a la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-036",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "36",
+   "texto": "36. Si su instalación realiza acopio, reutilización de residuos peligrosos, reciclaje o co-procesamiento o prestador de servicios para transporte y disposición final, incineración, etc., ¿Tienen autorización por parte de la autoridad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-037",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "37",
+   "texto": "37. ¿Ha identificado sus residuos peligrosos, derivados de la mezcla con otros residuos peligrosos ya sea por el tratamiento, almacenamiento y disposición final?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Artículos 38, 39 y 40"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-038",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "38",
+   "texto": "38. ¿Los materiales no integrados a los procesos productivos o desechados son caracterizados y considerados residuos peligrosos cuando así lo amerita?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-039",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "39",
+   "texto": "39. Si existe una mezcla de residuos y uno de ellos es caracterizado como peligroso. ¿Considera la mezcla como peligrosa?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Artículo 39"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-040",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "40",
+   "texto": "40. ¿La mezcla de suelos con residuos peligrosos es considerada como residuo peligroso?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref.Art.40"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-041",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "41",
+   "texto": "41. ¿Las mezclas de residuos peligrosos son manejadas y transferidas como tales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-042",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "42",
+   "texto": "42. Considerando su categoría como grande o pequeño generador de residuos peligrosos, ¿Se ha registrado ante autoridad federal (SEMARNAT)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art.43"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-043",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "43",
+   "texto": "43. Si cuenta con autorización por parte de la SEMARNAT ¿Mantiene actualizada la información?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref.Art.45"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-044",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "44",
+   "texto": "44. ¿Sus residuos peligrosos, son manejados separadamente y no los mezcla con aquellos que sean incompatibles entre sí?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-045",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "45",
+   "texto": "45. ¿Envasa sus residuos peligrosos de acuerdo a su estado físico, en recipientes con rótulos que señalen nombre del generador, nombre del residuo, característica de peligrosidad y fecha de ingreso al almacén?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-046",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "46",
+   "texto": "46. ¿Su almacenamiento temporal, conforme a su categoría de generación, reúne las condiciones señaladas en el Reglamento?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-047",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "47",
+   "texto": "47. ¿Transporta sus residuos peligrosos a través de personas que la autoridad federal (SEMARNAT), autorizo y que cuenten con lo establecido en la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-048",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "48",
+   "texto": "48. Ha elaborado y presentado ante la autoridad cuando ya no se realizan actividades de\ngeneración de los residuos peligrosos",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref.Art.46"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-049",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "49",
+   "texto": "49. Si usted es un pequeño o gran generador ¿Cuenta con bitácoras para el control de almacenamiento de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-050",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "50",
+   "texto": "50. Si usted optó por reciclar sus residuos dentro de sus propias instalaciones ¿El informe que presenta lo hace de acuerdo al reglamento? Ref. Art. 74 RLGPGIR",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-051",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "51",
+   "texto": "51. Si usted está clasificado como gran o pequeño generador de residuos peligrosos, ¿Conserva la información y documentación siguiente por 5 años?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref.Art.75"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-052",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "52",
+   "texto": "Bitácoras  (de: 51. Si usted está clasificado como gran o pequeño generador de residuos peligrosos, ¿Conse…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-053",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "53",
+   "texto": "Manifiestos  (de: 51. Si usted está clasificado como gran o pequeño generador de residuos peligrosos, ¿Conse…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-054",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "54",
+   "texto": "52. Cuenta con registros de resultados de cualquier prueba, análisis u otras determinaciones, a partir de los residuos al sitio de tratamiento o de disposición final",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-055",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "55",
+   "texto": "53. ¿Cuenta con seguro para las actividades de generación, almacenamiento temporal, manejo, tratamiento o disposición final y este seguro lo mantiene vigente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-056",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "56",
+   "texto": "54. ¿En la COA Mantiene actualizada la información inherente a la generación, almacenamiento, posible tratamiento y/o disposición final de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-057",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "57",
+   "texto": "55. ¿Reporta ante la autoridad federal (SEMARNAT) mediante la COA, la generación, almacenamiento, y/o tratamiento y/o disposición final de residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-058",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "58",
+   "texto": "56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones cuenta con almacén temporal de residuos peligrosos. Cumple con las siguientes especificaciones:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 82"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-059",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "59",
+   "texto": "a. Está separado de las áreas de producción, servicios, oficinas y de almacenamiento de materias primas o productos terminados  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-060",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "60",
+   "texto": "b. Está ubicado en zonas donde se reduzcan los riesgos por posibles emisiones, fugas, incendio, explosiones e inundaciones  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-061",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "61",
+   "texto": "c. Cuenta con dispositivos para contener posibles derrames, tales como muros, pretiles de contención fosas de retención para la captación de los residuos en estado líquido y sus lixiviados.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-062",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "62",
+   "texto": "d. Para residuos líquidos, hay pisos con pendientes, trincheras o canaletas que conduzcan los derrames a las fosas de retención con capacidad para contener una quinta parte como mínimo, del volumen del recipiente de mayor tamaño  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-063",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "63",
+   "texto": "e. Los pasillos permiten el libre tránsito de equipos mecánicos, eléctricos o manuales, así como el movimiento de grupos de seguridad y bomberos, en caso de emergencia  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-064",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "64",
+   "texto": "f. Cuenta con sistemas de extinción de incendios y equipos de seguridad para atención de emergencias, acordes con el tipo y la cantidad de los residuos peligrosos almacenados  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-065",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "65",
+   "texto": "g. Cuenta con señalamientos y letreros alusivos a la peligrosidad de los residuos peligrosos, almacenados, en lugares y formas visibles  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-066",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "66",
+   "texto": "h. El almacenamiento se hace en recipientes identificados considerando las características de peligrosidad de los residuos, y su incompatibilidad, previniendo fugas, derrames, emisiones, explosiones e incendios.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-067",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "67",
+   "texto": "i. La altura máxima de las estibas es de tres tambores en forma vertical.  (de: 56. Si usted es un pequeño, gran generador o prestador de servicios y en sus instalaciones…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-068",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "68",
+   "texto": "57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áreas cerradas, además de las precisadas anteriormente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 82"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-069",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "69",
+   "texto": "a. Sin conexiones con drenajes en el piso, válvulas de drenaje, juntas de expansión, albañales o cualquier otro tipo de apertura que pudieran permitir que los líquidos se viertan fuera del área protegida  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-070",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "70",
+   "texto": "b. ¿Sus paredes están construidas con materiales\nno inflamables?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-071",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "71",
+   "texto": "c. ¿Cuenta con ventilación?, De ser así ¿Cuál es su tipo?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-072",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "72",
+   "texto": "c.1 Ventilación natural  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-073",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "73",
+   "texto": "c.2 Ventilación forzada  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-074",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "74",
+   "texto": "d. ¿La ventilación es suficiente para evitar acumulamiento de vapores peligrosos?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-075",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "75",
+   "texto": "e. ¿Cuentan con iluminación a prueba de exposición?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-076",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "76",
+   "texto": "f. ¿Rebasa la capacidad instalada de almacenamiento?  (de: 57. ¿Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en ár…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-077",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "77",
+   "texto": "58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áreas abiertas, además de las precisadas anteriormente. Cumple con las siguientes especificaciones:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 82"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-078",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "78",
+   "texto": "a. Están localizadas en sitios cuya altura sea como mínimo, el resultado de aplicar un factor de seguridad de 1.5 al nivel del agua alcanzando en la mayor tormenta registrada en la zona  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-079",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "79",
+   "texto": "b. ¿Los pisos son lisos y de material impermeable en las zonas de almacenamiento?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-080",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "80",
+   "texto": "c. ¿Los pasillos cuentan con material antiderrapante?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-081",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "81",
+   "texto": "d. En las áreas abiertas no techadas. ¿Almacena residuos peligrosos a granel cuando estos producen lixiviados?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-082",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "82",
+   "texto": "e. En las áreas abiertas no techadas. ¿Los residuos peligrosos están cubiertos con algún material impermeable, evitando su dispersión por el viento?  (de: 58. Si sus instalaciones cuentan con almacenamiento temporal de residuos peligrosos en áre…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-083",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "83",
+   "texto": "59. ¿Toma las medidas necesarias para evitar la mezcla entre los residuos peligrosos de acuerdo a su incompatibilidad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-084",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "84",
+   "texto": "60. ¿Cuenta con bitácoras de entradas y salida del almacén de los residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-085",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "85",
+   "texto": "61. El almacenamiento cumple con lo siguiente:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref.Art.83"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-086",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "86",
+   "texto": "a. ¿Los recipientes están identificados?  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-087",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "87",
+   "texto": "b. ¿Considera las características de peligrosidad\nde los residuos?  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-088",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "88",
+   "texto": "c. ¿Considera la incompatibilidad de cada\nresiduo?  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-089",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "89",
+   "texto": "d. Tiene previsto fugas, derrames, emisiones,\nexplosiones e incendios  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-090",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "90",
+   "texto": "e. El almacenamiento se encuentra en lugares donde evita la transferencia de contaminantes al ambiente y garantiza la seguridad de toda persona.  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-091",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "91",
+   "texto": "f. Tiene previsto fugas o derrames que puedan contaminar el suelo  (de: 61. El almacenamiento cumple con lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-092",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "92",
+   "texto": "62. ¿Sus residuos peligrosos almacenados temporalmente permanecen por un periodo máximo de 6 meses?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR.",
+    "nom": "",
+    "articulo": "Ref.Art.84"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-093",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "93",
+   "texto": "63. Para el tratamiento, transporte o disposición final de residuos peligrosos, ¿Cuenta con contrato con empresas autorizadas por la SEMARNAT?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 48"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-094",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "94",
+   "texto": "64. ¿Cuenta con copia del manifiesto de entrega recepción de residuos peligrosos a las empresas autorizadas por la SEMARNAT?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 86"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-095",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "95",
+   "texto": "65. ¿Reutiliza envases que hayan estado en contacto con materiales o residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 87"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-096",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "96",
+   "texto": "66. ¿Son reutilizados para contener el mismo material o residuo u otros compatibles con los envasados originalmente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-097",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "97",
+   "texto": "67. ¿Evita que los envases reutilizados no liberen el contenido en ellos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-098",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "98",
+   "texto": "68. Los envases vacíos que contuvieron agroquímicos o plaguicidas o sus residuos se sujetan a los criterios establecidos en los planes de manejo, en la normatividad u otras disposiciones legales aplicables.",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 87"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-099",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "99",
+   "texto": "69. ¿Determinar la incompatibilidad entre un residuo peligroso y otro material o residuo para evitar mezclas de acuerdo a la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR.",
+    "nom": "NOM-054-SEMARNAT-1993",
+    "articulo": "Ref. Art. 88"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-100",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS NO PELIGROSOS",
+   "num": "100",
+   "texto": "70. ¿Reutiliza los residuos peligrosos como combustibles alternos en procesos de combustión de calentamiento de tipo directo o indirecto?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 89"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-101",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "101",
+   "texto": "1. ¿Conoce su clasificación de acuerdo a su generación de RPBI?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-102",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "102",
+   "texto": "2. ¿En base a las características de sus RPBI y el tamaño de su empresa, su clasificación es?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-103",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "103",
+   "texto": "Nivel I  (de: 2. ¿En base a las características de sus RPBI y el tamaño de su empresa, su clasificacio…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-104",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "104",
+   "texto": "Nivel II  (de: 2. ¿En base a las características de sus RPBI y el tamaño de su empresa, su clasificacio…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-105",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "105",
+   "texto": "Nivel III  (de: 2. ¿En base a las características de sus RPBI y el tamaño de su empresa, su clasificacio…)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-106",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "106",
+   "texto": "3. ¿Segregan completamente los RPBI desde su origen de generación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-107",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "107",
+   "texto": "4. ¿Emplean contenedores de acuerdo al tipo de RPBI que generan?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-108",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "108",
+   "texto": "5. ¿Los contenedores están señalados conforme a lo establecido en la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-109",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "109",
+   "texto": "6. ¿Los contenedores que se emplean para los RPBI, están claramente marcados con el símbolo universal de Biológico Infecciosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-110",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "110",
+   "texto": "7. ¿Las bolsas y recipientes rígidos cumplen con las especificaciones marcadas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-111",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "111",
+   "texto": "8. ¿Las bolsas y recipientes rígidos son llenados y embalados de acuerdo a la norma?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-112",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "112",
+   "texto": "9. ¿Los vehículos recolectores cumplen con los requerimientos que establece la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-113",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "113",
+   "texto": "10. ¿El tratamiento que reciben los RPBI es conforme con lo que se estipula en la norma?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-114",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "114",
+   "texto": "11. Cuenta con almacén temporal de RPBI?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-115",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "115",
+   "texto": "12. Su almacén temporal cumple con las características establecidas en la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-116",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "116",
+   "texto": "13. Los RPBI son almacenados de acuerdo las características marcadas en la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-117",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "117",
+   "texto": "14. ¿Cumple con el periodo máximo de almacenamiento temporal de acuerdo a su nivel de generación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RESIDU-118",
+   "modulo": "ambiental",
+   "categoria": "RESIDUOS",
+   "subcategoria": "RESIDUOS PELIGROSOS BIOLÓGICO INFECCIOSOS (RPBI)",
+   "num": "118",
+   "texto": "15. Si NO cuenta con almacén temporal. ¿Sus\ncontenedores cuentan con las características marcadas en la normatividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-SUELOY-001",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "1",
+   "texto": "1. ¿Cuenta con licencia y planos de uso de suelo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-002",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "2",
+   "texto": "2. ¿Existe contaminación del suelo en sus instalaciones, debido al manejo y disposición de materiales o residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-003",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "3",
+   "texto": "3. ¿Tiene identificadas las áreas contaminadas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-004",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "4",
+   "texto": "4. Si se encuentran contaminadas con un pasivo ambiental ¿Lo ha informado a las autoridades federales, estatales o locales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-005",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "5",
+   "texto": "5. ¿Cuenta con un plan de remediación de pasivos ambientales?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-006",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "6",
+   "texto": "6. ¿A qué autoridad lo ha informado?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-007",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "7",
+   "texto": "7. ¿Ha realizado la caracterización de los suelos contaminados en sus instalaciones?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-008",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "8",
+   "texto": "8. ¿Para el análisis de caracterización de su suelo contaminado, ha contratado los servicios de un laboratorio acreditado ante la EMA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-009",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "9",
+   "texto": "9. ¿Cumple con la normatividad estatal o local en cuanto a los Límites Máximos Permisibles de suelo contaminado?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-010",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "10",
+   "texto": "10. ¿Ha iniciado acciones de remediación en las áreas donde se encontró contaminación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-011",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "11",
+   "texto": "11. Si en sus instalaciones existió contaminación por derrame accidental que implicó la afectación al suelo y subsuelo, conteste las siguientes preguntas:",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-012",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "12",
+   "texto": "12. ¿Ha llevado a cabo acciones inmediatas de minimización o limitación en caso de derrames, infiltraciones o vertidos accidentales de materiales o residuos peligrosos que no excedan de 1 m3?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 129"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-013",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "13",
+   "texto": "13. Si los derrames, infiltraciones o vertidos accidentales, han sido mayores a 1 m3, ¿Ha ejecutado acciones inmediatas para contener los materiales o residuos liberados o limitar su dispersión o recogerlos y realizar limpieza del sitio?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 130"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-014",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "14",
+   "texto": "14. ¿Ha avisado de inmediato a la PROFEPA y a las autoridades competentes de que ocurrió un derrame, infiltración, descarga o vertido de materiales o residuos peligrosos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art.130"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-015",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "15",
+   "texto": "15. ¿Ha ejecutado las medidas que en su caso, les hubieren impuesto las autoridades?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-016",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "16",
+   "texto": "16. Ha presentado o efectuado programas de remediación integrados con:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 134"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-017",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "17",
+   "texto": "a. Estudios de caracterización  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-018",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "18",
+   "texto": "b. Estudios de evaluación del riesgo ambiental  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-019",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "19",
+   "texto": "c. Investigaciones históricas  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-020",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "20",
+   "texto": "d. Propuestas de remediación  (de: 16. Ha presentado o efectuado programas de remediación integrados con:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-021",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "21",
+   "texto": "17. ¿Ha realizado la caracterización de sitios contaminados, directa o a través de técnicos?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-022",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "22",
+   "texto": "18. Sus estudios de caracterización han contenido:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Art. 138"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-023",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "23",
+   "texto": "a. Ubicación, descripción y uso actual del sitio contaminado  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-024",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "24",
+   "texto": "b. Tipo de contaminante y cantidad aproximada de liberación  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-025",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "25",
+   "texto": "c. El área y volumen de suelo dañado  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-026",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "26",
+   "texto": "d. El plan de muestreo conforme a la normatividad correspondiente  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-027",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "27",
+   "texto": "e. Resultados de determinaciones analíticas, pruebas (físicas, químicas y biológicas)de los contaminantes  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-028",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "28",
+   "texto": "f. Memoria fotográfica de los trabajos efectuados  (de: 18. Sus estudios de caracterización han contenido:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-029",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "29",
+   "texto": "19. En caso de pasivos ambientales además ha considera lo siguiente:",
+   "ref": {
+    "ley": "",
+    "reglamento": "RLGPGIR",
+    "nom": "",
+    "articulo": "Ref. Art. 139"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-030",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "30",
+   "texto": "a. Descripción de la metodología a aplicar para \ncadatipode pruebasdecampoolaboratorio  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-031",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "31",
+   "texto": "b. Descripción de las condiciones geológicas, geo-hidrológicas e hidrológicas, basada en los resultados en el muestreo y pruebas de campo  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-032",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "32",
+   "texto": "c. Descripción de las condiciones climáticas y físicas que afecten el comportamiento de los contaminantes  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-SUELOY-033",
+   "modulo": "ambiental",
+   "categoria": "SUELO Y SUBSUELO",
+   "subcategoria": "SUELO Y SUBSUELO",
+   "num": "33",
+   "texto": "d. Determinación de la distribución y el comportamiento de los contaminantes en el suelo, subsuelo y acuíferos con base en los resultados obtenidos.  (de: 19. En caso de pasivos ambientales además ha considera lo siguiente:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente",
+   "condicion": "suelo_contaminado"
+  },
+  {
+   "id": "AMB-RIESGO-001",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "1",
+   "texto": "1. ¿Su instalación maneja sustancias químicas peligrosas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-002",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "2",
+   "texto": "a. Materia primas  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-003",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "3",
+   "texto": "b. Productos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-004",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "4",
+   "texto": "c. subproductos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-005",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "5",
+   "texto": "d. Residuos  (de: 1. ¿Su instalación maneja sustancias químicas peligrosas?)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-006",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "6",
+   "texto": "2. ¿Mantiene la identificación de equipos o procesos donde maneja sustancias químicas peligrosas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-007",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Sustancias químicas",
+   "num": "7",
+   "texto": "3. ¿Su instalación rebasa sustancias químicas incluidas en alguno de los listados de actividades altamente riesgosas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-008",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Estudio de riesgo ambiental",
+   "num": "8",
+   "texto": "4. ¿Su instalación cuenta con estudio de riesgo ambiental?",
+   "ref": {
+    "ley": "LGEEPA",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "Ref. Art.147"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-009",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Estudio de riesgo ambiental",
+   "num": "9",
+   "texto": "5. ¿Mantiene las condicionantes derivadas del estudio de riesgo ambiental, emitidas por la autoridad competente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-010",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Estudio de riesgo ambiental",
+   "num": "10",
+   "texto": "6. ¿Su estudio de riesgo lo mantiene vigente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-011",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Estudio de riesgo ambiental",
+   "num": "11",
+   "texto": "7. Conforme al estudio de riesgo con el que cuenta, ¿El área potencial de afectación rebasa los límites de la instalación?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-012",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Estudio de riesgo ambiental",
+   "num": "12",
+   "texto": "8. ¿Cuenta con un seguro de riesgo ambiental?",
+   "ref": {
+    "ley": "LGEEPA",
+    "reglamento": "",
+    "nom": "",
+    "articulo": "Ref. Art. 147 Bis"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-013",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "PPA",
+   "num": "13",
+   "texto": "9. ¿Cuenta con programa de prevención de accidentes PPA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-014",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "PPA",
+   "num": "14",
+   "texto": "10. ¿Cumple con las indicaciones realizadas al PPA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-015",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Hojas de seguridad",
+   "num": "15",
+   "texto": "11. ¿Cuenta con las hojas de datos de seguridad (MSDS) de las sustancias y/o materiales peligrosos involucrados?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-18-STPS-2018",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-016",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Hojas de seguridad",
+   "num": "16",
+   "texto": "12. ¿Cuenta con hojas de datos de seguridad (MSD), de aquellas sustancias que presentan alguna característica CRETI?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-017",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "17",
+   "texto": "13. ¿Cuenta con recipientes sujetos a presión?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2002",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-018",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "18",
+   "texto": "14. Cuenta con la autorización de funcionamiento para los recipientes sujetos a presión otorgado por la STPS?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-019",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "19",
+   "texto": "15. ¿Cuenta con la información de todos los equipos instalados en su organización, sin importar si requieren o no la autorización de funcionamiento?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-020-STPS-2002",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-020",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "20",
+   "texto": "16. Dicha información cuenta por lo menos:",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-021",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "21",
+   "texto": "a. Nombre genérico del equipo  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-022",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "22",
+   "texto": "b. Nombre o número de identificación del equipo  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-023",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "23",
+   "texto": "c. Numero de serie del fabricante y fecha de fabricación  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-024",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "24",
+   "texto": "d. Numero de control asignado por la Secretaria  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-025",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "25",
+   "texto": "e. Presión de operación  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-026",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "26",
+   "texto": "f. Fluidos manejados en el equipo  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-027",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "27",
+   "texto": "g. Superficie de calefacción o capacidad volumétrica  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-028",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "28",
+   "texto": "h. Lugar de ubicación del equipo dentro del área de trabajo  (de: 16. Dicha información cuenta por lo menos:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-029",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "29",
+   "texto": "17. ¿Cuenta con las especificaciones de operación y mantenimiento de los equipos e instalaciones?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-030",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "30",
+   "texto": "18. ¿Mantiene sistemas de identificación y codificación de equipos (Ej. Tuberías, tanques, unidades de transporte de la planta)?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-031",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Recipientes sujetos a presión",
+   "num": "31",
+   "texto": "19. ¿Mantiene programas de verificación o pruebas, que certifiquen la calidad integral y resistencia mecánica de los equipos? (Ej. Medición de espesores en tuberías y recipientes, radiografiado, certificación de accesorios y conexiones, pruebas hidrostáticas y neumáticas)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-032",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Válvulas y tubnerías",
+   "num": "32",
+   "texto": "20. ¿Realiza mantenimiento a las instalaciones eléctricas, hidráulicas y de gas una vez al año?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-033",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Válvulas y tubnerías",
+   "num": "33",
+   "texto": "21. Cuenta con programas de revisión de los sistemas de seguridad y programas de calibración de instrumentación y control (Ej. Válvulas de seguridad, disparo y alarmas)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-034",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Válvulas y tubnerías",
+   "num": "34",
+   "texto": "22. ¿Mantiene en buen estado válvulas, tuberías y conexiones de toda la organización?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-035",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "35",
+   "texto": "23. ¿Mantiene la aplicación del color, señalización e identificación de las tuberías?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-026-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-036",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "36",
+   "texto": "24. ¿Se encuentran las áreas de con señales de seguridad adecuadas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "Ref. NOM-026-STPS-2008",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-037",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "37",
+   "texto": "25. ¿El almacenamiento de sustancias utilizadas se realiza de acuerdo a la incompatibilidad de las sustancias químicas peligrosas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-054-SEMARNAT-1993",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-038",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "38",
+   "texto": "26. ¿La composición del almacén esta está constituida con materiales resistentes al fuego?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-005-STPS-1999",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-039",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "39",
+   "texto": "27. ¿El almacén mantiene delimitadas y pintadas las áreas y pasillos interiores y exteriores?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RIESGO-040",
+   "modulo": "ambiental",
+   "categoria": "RIESGO AMBIENTAL",
+   "subcategoria": "Almacén y señalética",
+   "num": "40",
+   "texto": "28. ¿La instalación eléctrica está debidamente entubada y se le brinda mantenimiento periódicamente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-001",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "1",
+   "texto": "1. ¿El Programa de Prevención de Accidentes (PPA) está actualizado y aprobado por la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-002",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "2",
+   "texto": "2. ¿Como resultado de la aprobación del PPA, ¿se cumplen las indicaciones de las autoridades correspondientes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-003",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "3",
+   "texto": "3. ¿Se tiene un procedimiento adecuado para la investigación de accidentes y este incluye la investigación y evaluación de daños al ambiente conforme al PPA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-004",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "4",
+   "texto": "4. Cuenta con la integración de brigadas en:",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-005",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "5",
+   "texto": "Prevención y combate de incendios  (de: 4. Cuenta con la integración de brigadas en:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-006",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "6",
+   "texto": "Primeros auxilios  (de: 4. Cuenta con la integración de brigadas en:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-007",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "7",
+   "texto": "Evacuación de inmuebles  (de: 4. Cuenta con la integración de brigadas en:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-008",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "8",
+   "texto": "Búsqueda y rescate  (de: 4. Cuenta con la integración de brigadas en:)",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-009",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "9",
+   "texto": "5. ¿Se cuenta con el equipo necesario para la operación de las brigadas de emergencia?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-010",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "10",
+   "texto": "6. ¿Cuenta su plan de respuesta a emergencias para el manejo de sustancias peligrosas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-011",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "11",
+   "texto": "7. ¿Ha determinado los radios potenciales de afectación aplicando modelos matemáticos de simulación del o los eventos máximos probables de riesgo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-012",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "12",
+   "texto": "8. Tiene definidas y justificadas las zonas de seguridad al entorno de la instalación utilizando parámetros de toxicidad, inflamabilidad y explosividad?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-013",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "13",
+   "texto": "9. ¿Se llevan a cabo simulacros de accidentes, conforme al PPA y éste se actualiza en función de los resultados de los simulacros?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-014",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "14",
+   "texto": "10. ¿En los simulacros se incluye la actuación de todo el personal de la planta?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-015",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "15",
+   "texto": "11. ¿Cuenta con un plan de emergencia que asegure la operatividad de sus instalaciones?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-016",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "16",
+   "texto": "12. ¿En los simulacros se incluye el plan de contingencias a nivel externo?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-017",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "17",
+   "texto": "13. ¿Cuenta con un estudio de grado de riesgo de incendio?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-018",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "18",
+   "texto": "14. ¿Cuenta con un sistema contra incendio?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-019",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "19",
+   "texto": "15. ¿El sistema contra incendios esta completo y en buenas condiciones?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-020",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "20",
+   "texto": "16. ¿Cuenta con medidas preventivas y programas orientados a la restauración de zonas afectadas en caso de accidentes?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-EMERGE-021",
+   "modulo": "ambiental",
+   "categoria": "EMERGENCIAS AMBIENTALES",
+   "subcategoria": "EMERGENCIAS AMBIENTALES",
+   "num": "21",
+   "texto": "17. En caso de accidentes o emergencias, ¿se dispone de las instalaciones para emitir la alarma, así como con un cuarto de control?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RUIDO-001",
+   "modulo": "ambiental",
+   "categoria": "RUIDO",
+   "subcategoria": "RUIDO",
+   "num": "1",
+   "texto": "1. ¿Realiza estudios de ruido perimetral?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM-081-SEMARNAT-1994",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RUIDO-002",
+   "modulo": "ambiental",
+   "categoria": "RUIDO",
+   "subcategoria": "RUIDO",
+   "num": "2",
+   "texto": "2. ¿En su instalación cumple con los límites máximos permisibles de emisión de ruido? Ref.",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "NOM 081 ECOL 1994",
+    "articulo": ""
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-RUIDO-003",
+   "modulo": "ambiental",
+   "categoria": "RUIDO",
+   "subcategoria": "RUIDO",
+   "num": "3",
+   "texto": "3. ¿Ha sufrido quejas vecinales en relación a los niveles de ruido ?",
+   "ref": {
+    "ley": "",
+    "reglamento": "",
+    "nom": "",
+    "articulo": ""
+   },
+   "refEstado": "pendiente",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-001",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "1",
+   "texto": "1. ¿Cuenta con autorización de impacto ambiental?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art. 5"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-002",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "2",
+   "texto": "2. ¿La autorización de impacto ambiental incluye todas las áreas ocupadas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art. 2,5,6"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-003",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "3",
+   "texto": "3. ¿Cumple con los términos y condiciones de la autorización de impacto ambiental?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art.5, 6"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-004",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "4",
+   "texto": "4. ¿Presento manifestación de impacto ambiental? b. Particular",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art.10"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-005",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "5",
+   "texto": "5. Conforme a la MIA elaborada, tiene definido el aspecto ambiental y social de mayor vulnerabilidad de la zona de ubicacióńn.",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art. 10-13"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-006",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "6",
+   "texto": "6. Los impactos ambientales más importantes que su organización provoca o puede provocar están contemplados en la MIA evaluada.",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Art. 10 al 13"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-007",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "7",
+   "texto": "7. ¿Han existido modificaciones al proyecto original, (obras o actividades nuevas, etc.) ser notificadas a la autoridad competente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art. 27"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-008",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "8",
+   "texto": "8. ¿En caso de existir modificaciones se notifico a la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art. 27"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-009",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "9",
+   "texto": "9. ¿Después de notificar a las autoridades correspondientes, se cumplió con lo requerido por estas?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art. 27, 28 y 50"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-010",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "10",
+   "texto": "10. ¿Presenta informa preventivo en lugar de Manifiesto de Impacto Ambiental (MIA ante la autoridad correspondiente?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art.29"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-011",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "11",
+   "texto": "11. ¿La autorización de la MIA estableció condicionantes para la realización de la obra o actividad autorizada?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art.47"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-012",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "12",
+   "texto": "12. ¿La Secretaría le fijó un monto para seguros y garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse por el incumplimiento de las condicionantes impuestas en las autorizaciones?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art.52"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  },
+  {
+   "id": "AMB-IMPACT-013",
+   "modulo": "ambiental",
+   "categoria": "IMPACTO AMBIENTAL",
+   "subcategoria": "IMPACTO AMBIENTAL",
+   "num": "13",
+   "texto": "13. ¿Ha sido inspeccionado o le han sido impuestas medidas de seguridad o sanciones relativas al impacto ambiental por la PROFEPA?",
+   "ref": {
+    "ley": "",
+    "reglamento": "RMIA",
+    "nom": "",
+    "articulo": "Ref. Art.55"
+   },
+   "refEstado": "usuario",
+   "guia": "",
+   "guiaEstado": "pendiente"
+  }
+ ]
+}
